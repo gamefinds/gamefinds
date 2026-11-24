@@ -1,0 +1,100 @@
+{
+  "u": "https://www.steambk.com/14410.html",
+  "t": "僵尸启示录（The Walking Trade）v1.3.0 免安装中文版下载",
+  "id": 14410,
+  "sg": "更新",
+  "tm": "3天前",
+  "ct": "PC游戏",
+  "sub": "枪战射击",
+  "tags": [
+    "建造",
+    "末日",
+    "沙盒",
+    "物理",
+    "经济"
+  ],
+  "sz": "2.97GB",
+  "rt": "特别好评",
+  "ver": "v1.3.0",
+  "rdate": "2026 年 3 月 5 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/3398110/512246401/ae255ef2b690f4df06705e62c6d8b9cc208d115c/1770981096/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "在僵尸启示录中经营一家商店！交易电池、制作存货、管理员工、抵御亡灵大军。你是要成为英雄，还是要不惜一切代价牟利？您的选择将决定您的商店和您的命运。\n《The Walking Trade》是一款奇特的僵尸启示录商店管理游戏，在这里，混乱与商业碰撞出火花！\n设计你的商店，平衡空间、美观和功能。整理货架，设定价格，确保顾客开心离开--至少是活着离开。\n顾客不是你唯一的问题，僵尸也会入侵！挥舞近战武器、枪支或任何你能找到的东西，在僵尸突袭和成群结队时保卫你的商店。\n雇佣幸存者搜刮物资、服务顾客或守卫店铺。让他们装备精良，积极进取，以获得丰厚回报。\n解锁制作站，制作武器、工具和商店升级。建造路障、储藏室，甚至是临时陷阱，以防止僵尸靠近。\n做一个仁慈的店主或投机取巧的霸主。帮助社区、压价，甚至破坏定居点以牟利。你的声誉决定了谁会来敲门。\n在《行走的贸易》中，每一个决定都会影响你的生存。用你的方式在启示录中建造、战斗和繁荣！",
+  "pt": "",
+  "un": "10月23日周五更新-v1.3.0（点击查看详细内容）\n10月23日周五\n僵尸启示录 - 补丁v1.3.0\n更简洁的改动似乎对大多数玩家来说都非常受欢迎。还有一些问题我还在关注，但这次都没解决。相反，这次更新将主要聚焦于技能，为所有技能树带来备受期待的功能：以精通技能形式出现的无尽节点。还有一个新的“最后订单”选项，可以在一天结束时收尾店铺，以及你报告中的一系列修复。\n特色\n精通技能：当技能树中每完成一个技能后，末端会开放两个精通技能。它们可以随意扣分，每点加一点，所以老玩家终于有地方可以无限期地花掉这些分数：\n生存：硬化（最大生命值），老练拾荒者（拾荒速度）\n服务：常客（因公平销售获得声誉）、大倾倒者（每次销售额外电池）\n制作：大师工匠（制作时间），幸运批（双倍制作几率）\n管理：不知疲倦的清洁工（清洁速度），坚韧小队（所有员工最高生命值）\n自耕自足：园艺大师（作物生长）、丰盛（额外农产品几率）\n精通技能会有其树色的动画光环，所以你不会错过。\n最后命令： 开合开关新增了一个次选项“最后订单”。拨打“最后订单”会响铃，提醒所有正在店里的顾客，你即将关门。这段时间不会再有顾客来了。携带物品的顾客将立即前往结账处。仍在浏览的顾客有30分钟时间选择商品或离开店铺。一旦所有顾客都被服务完毕，商店将自动关闭。\n还新增了技能：\n爆破垫（生存，承受爆炸伤害更少）\n稻草人之地（自给自足，稻草人保护更广泛的区域）。\n快速固定（制作，确保物品速度）。\n变更\n吉布医生的“高级切割”技能已被重新平衡。它让每一次旋转都落在传奇难度上;这大致上是你获得传奇奖品的机会的两倍。\n箱子里装有物品，升级或制作不再消耗。只有空箱子算数，所以你的货物永远不会被销毁。\n现在有几个技能可以拿超过一分。你已经解锁的技能效果完全相同，并计为1级：\n生存：体质，更好的医学\n服务：用腿举重，公关，奇迹制造者\n制作：机智、工业撕裂、快速固定\n管理层：武装警卫、广角观察、厚皮\n定居：深水浇水，保存种子\n漏洞修复\n用叠加的木板箱升级农场必需品后，堆叠不再会破坏堆叠，也不会让玩家在捡起时卡住。箱子现在总是从堆叠（或架子）顶部取出。\n客户付款后不应再被困在结账处，阻塞排队并损害声誉。\n回来还债的客户不再带着电池跑，也不再付零。如果你离开，他们会跟着你，如果他们够不到你，电池费用仍然会被计入你的收入。\n结账时被免除的顾客现在应该总是第二天再来支付他们应付的款项。\n顾客不再因为被僵尸吓到而僵住或永久陷入恐慌，包括当僵尸砸门或墙壁时。\n“快手”现在加快了农场工作，而不是拖慢了它。\n“买方市场”现在降低了客户卖给你时要的价格，而不是提高。\n绿巨人助手技能现在即使你在释放浩克助手之前购买了，也会生效。\n日内摘要不再显示收入线为0。\n更正的技能描述：快速翻找现在显示了其真实加成（100%），双倍制作几率技能现在显示为25%。\n罗宾在解锁当天不应该再在招聘板上橡皮筋。",
+  "vf": "僵尸启示录 下载 | v1.3.0 The Walking Trade | 2.97GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/3398110/The_Walking_Trade/",
+  "sr": {
+    "操作系统 *": "Windows 7/8/10/11 (64-bit)",
+    "处理器": "Intel Core i3-2100 / AMD FX-6300 or equivalent",
+    "内存": "4 GB RAM",
+    "显卡": "NVIDIA GTX 750 Ti / AMD Radeon HD 7850 with 2 GB VRAM or equivalent",
+    "DirectX 版本": "11",
+    "存储空间": "需要 4 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/1e6f90137a9faf9b7841e5204901cc5002b99ed6/ss_1e6f90137a9faf9b7841e5204901cc5002b99ed6.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/a543d307d53a61913670c0a6935f9950783b641c/ss_a543d307d53a61913670c0a6935f9950783b641c.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/e31666d184d61b8c254a69b316b20a836dae83c3/ss_e31666d184d61b8c254a69b316b20a836dae83c3.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/2f1ca1acddd008d8f72f7c867c6c753e18e0c16e/ss_2f1ca1acddd008d8f72f7c867c6c753e18e0c16e.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/a2d6b20f70a108bf8ffcbe9feb1a45724ca6e478/ss_a2d6b20f70a108bf8ffcbe9feb1a45724ca6e478.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/5c061f1cbb60c37970420193e78cf8ab2a171496/ss_5c061f1cbb60c37970420193e78cf8ab2a171496.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/23948e51f06bb7270a576e14dd9214eddfe665f8/ss_23948e51f06bb7270a576e14dd9214eddfe665f8.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/c234a7cbae9069dbf5ae38a9a709d9ad2bb7f0a9/ss_c234a7cbae9069dbf5ae38a9a709d9ad2bb7f0a9.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/ss_73e93c84bf0b65707f6e360832287a24fd278c34.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/fbba7b7228f7d8351a8ccbd0a38f7094048abdaa/ss_fbba7b7228f7d8351a8ccbd0a38f7094048abdaa.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/9d66117ca192ad14859c4ae0cb5d9f93e07ae119/ss_9d66117ca192ad14859c4ae0cb5d9f93e07ae119.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/25433e9c2f9a723d0b96450802aecffc9b26a977/ss_25433e9c2f9a723d0b96450802aecffc9b26a977.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/0fdb22441defc1b94a142148066d054f2a158065/ss_0fdb22441defc1b94a142148066d054f2a158065.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/c5f9efbdbdd2861cd510852d3872837c2b967aa8/ss_c5f9efbdbdd2861cd510852d3872837c2b967aa8.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/b3be2776883cc6ab1383fb743bbd2b211e8f0b38/ss_b3be2776883cc6ab1383fb743bbd2b211e8f0b38.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/da27fa3d4533779056ca01a978b6bd04c86e64a1/ss_da27fa3d4533779056ca01a978b6bd04c86e64a1.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/749dc70f295f85b8f0c1fd92bad90373b0533683/ss_749dc70f295f85b8f0c1fd92bad90373b0533683.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/a0b23c36eeef7c4fabd792dd88f367b5cba803a2/ss_a0b23c36eeef7c4fabd792dd88f367b5cba803a2.1920x1080.jpg?t=1772718685",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/c06be787a6210a34bdbd886b0b5cc8cb884b43da/ss_c06be787a6210a34bdbd886b0b5cc8cb884b43da.1920x1080.jpg?t=1772718685"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3398110/2244b05e1dcca28000c8bda123be64b333b0e2ad/header.jpg?t=1794405553",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/0100c46d6d1e",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F0100c46d6d1e",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOn1YhN2TqXoQtL4Phiev_3pA1?pwd=4zvj",
+      "pwd": "4zvj",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1kb3vx5Qa90pNu9AGIQPOig?pwd=d92h",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1kb3vx5Qa90pNu9AGIQPOig%3Fpwd%3Dd92h",
+      "pwd": "d92h",
+      "gi": 2
+    }
+  ]
+}

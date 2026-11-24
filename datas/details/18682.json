@@ -1,0 +1,90 @@
+{
+  "u": "https://www.steambk.com/18682.html",
+  "t": "星河战队：人类指挥部（Starship Troopers: Terran Command）v6.5.0 免安装中文版下载",
+  "id": 18682,
+  "sg": "更新",
+  "tm": "3周前",
+  "ct": "PC游戏",
+  "sub": "策略战略",
+  "tags": [
+    "即时战略",
+    "塔防",
+    "战争",
+    "战术",
+    "科幻"
+  ],
+  "sz": "16.3GB",
+  "rt": "特别好评",
+  "ver": "v6.5.0",
+  "rdate": "2022 年 6 月 17 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/1202130/143591935/3c2a58a459392a11bbf3a97dc8d8921508ff76b7/1761036311/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "在这款以《星河战队》电影宇宙为背景的即时战略游戏中，带领机动步兵团冲锋陷阵。通过分队类型的多样化组合来平衡你的部队组成，借助战术选位来克服视线与弹道挑战，以及利用丰富的特殊技能来击溃阿拉奇虫\n环境严酷的沙漠星球夸拉沙的居民需要我们的帮助。一个他们无法独自面对的新威胁扰乱了他们平静的采矿生活：阿拉奇虫族。在霍桑上校的指挥下，机动步兵团将夺回星球的控制权，并消灭一切超过两条腿的生物。加入这场激动人心的军事战役，结识极富个性的各个角色，探访令人赞叹的各处景观，并在对抗虫族的英勇战斗中尽到你的职责！\n阿拉奇虫族也许拥有几乎无限的数量，但它们缺乏全面的战术训练，而这正是机动步兵团的专长。将你的部队部署到占据上风的咽喉要道或高地之上。但务必要多加小心，诸如真实视线和真实弹道等作战机制可能会限制你的火力范围，并使诡计多端的虫族能够设下埋伏。\n通过从一系列各具专长的分队类型中选取所需来优化你的部队，他们各自拥有不同的强项、弱项和可解锁精英技能组合。步枪兵可以使用他们的霰弹枪技能来压制大量的阿拉奇虫族，M11掠夺者双足机器人可以倾泻令人望而生畏的迫击炮齐射火力网，而舰队联络人可以召唤来载有增援部队的运输船，或者引导空袭来消灭掉整片区域内的敌人。\n虫群入侵扎根于复杂的地下虫巢之中。这带来了一项独特的挑战，务必在攻守之间找到一个微妙的平衡点。留意数不清的隧道出口，阿拉奇虫群可能会从这些地方突然涌出。\n要一劳永逸地解决虫害问题，它们的巢穴必须被彻底根除！",
+  "pt": "",
+  "un": "7月28日周二更新（点击查看详细内容）\n7月28日周二\n《消灭者》DLC的成就\n小心，士兵们！\n联邦对您在古萨纳星球上的服务表示感谢。作为感谢的象征，我们将在“消灭者”DLC战役中加入新的成就！\n所以下次你在古塔纳击败虫子时，每个任务你将有两个独特的成就可挑战。你有能力完成它们吗？！\n今天就到这里。解散！\n补丁 6.5.0 更新日志\n变更\n被下药的虫子、警察无人机、猎杀雇佣兵无人机（以及更多）现在会穿过友军单位。\n《消灭者》DLC新增成就\n更改了领地模式任务“地狱洞”的蜂巢布置。\n有毒双足动物现在可以清除荨麻疹。\n为九头蛇增加了“酸性冲击波”能力。\n减少了领地模式中的“受攻击”通知数量。\n修复\n固定动力战士有时会随机游荡，而不是保持队形和服从命令。\n固定动力战衣辐照器在激活费洛蒙斗篷技能时播放T字姿态动画。\n固定的M11灭绝者不受技术影响，“掠夺者零件储存”。\n修正了动力官拥有重复强化能力。\n修正了燃烧者、掠夺者、蝎虫和等离子掷弹兵技能，除非是“消灭者”DLC时不会触发的。\n即使徽章在编辑器中不可见，AI 队号文字也会出现。\n修复了一个问题，即在古塔纳任务“高安全监狱”所有领土被占领后，油罐虫和蝎虫不总会刷新。\n固定辐射无人机无限复制自己。\n取消了部署辐射无人机的费用。\n修正了被心控的虫子能够传送/解散。\n修复了光工程师双足攻击时没有播放任何动画的问题。\n修复了被心灵控制的虫子，它们的图标并不总是在徽章上显示。\n修复了皇家卫队和焚烧者击杀在领地模式进度界面上不正确计数的情况。\n固定领地模式任务中，扑灭火焰目标在你失去消防队伍且所有投放点都在使用时自动失败。\n修复了第一个夸拉沙领地模式任务中错误触发的构造炮塔教程。\n固定领土教程，在轰炸手/毒刺手教程中展示喷射器文字。\n切换投递平台时无法修正缺少提示的问题，因为部署单位依赖当前投递平台。\n固定技术会改变单位类型，但捕获单位时不应用。\n为非消灭者战斗群在古塔纳的银色任务中添加了盖革虫突变。\n任务中 地击兵标本储存\n任务中，《地狱魔咒》的化学化合物\n任务中，和平守护者化学化合物\n修复了非消除者战斗群进度界面上未显示的盖革虫。",
+  "vf": "星河战队：人类指挥部 下载 | v6.5.0 Starship Troopers: Terran Command | 集成全DLC | 16.3GB 官中解压即玩",
+  "dl": [
+    "Starship Troopers: Terran Command - Raising Hell",
+    "Starship Troopers: Terran Command - Urban Onslaught",
+    "Starship Troopers: Terran Command - The Eradicators（新增）"
+  ],
+  "bl": "https://store.steampowered.com/app/1202130/Starship_Troopers_Terran_Command/",
+  "sr": {
+    "操作系统": "64-bit Windows 10",
+    "处理器": "Intel Core i5 or equivalent",
+    "内存": "8 GB RAM",
+    "显卡": "GeForce GTX 1050/ Radeon RX 560",
+    "DirectX 版本": "9.0",
+    "存储空间": "需要 10 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1202130/b9b626ea030a78fc66ad7b3d0013b4581cc905e6/ss_b9b626ea030a78fc66ad7b3d0013b4581cc905e6.1920x1080.jpg?t=1779812017",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1202130/2e4d43db75b24c0d404a8e9bc637bcc9ebf09e00/ss_2e4d43db75b24c0d404a8e9bc637bcc9ebf09e00.1920x1080.jpg?t=1779812017",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1202130/cc369a78dac65b3464d930c8af59eff3f16010cb/ss_cc369a78dac65b3464d930c8af59eff3f16010cb.1920x1080.jpg?t=1779812017",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1202130/5ea126df5b1e2750a9c28f4a4a4316122c1ff1d9/ss_5ea126df5b1e2750a9c28f4a4a4316122c1ff1d9.1920x1080.jpg?t=1779812017",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1202130/7b1b3b5cb5809f74ec96d92bb6d0e342ba987dbd/ss_7b1b3b5cb5809f74ec96d92bb6d0e342ba987dbd.1920x1080.jpg?t=1779812017",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1202130/2e0d320343041e12e5141a7e21211cfaaa9d59a9/ss_2e0d320343041e12e5141a7e21211cfaaa9d59a9.1920x1080.jpg?t=1779812017"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1202130/b4ca580246e8fb56649578a349b941ac645eb7d5/header.jpg?t=1792488369",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/bb488dc57116",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fbb488dc57116",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOtjJ25GP2iBU25MpblK_QqFA1?pwd=92av",
+      "pwd": "92av",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1kGS4XSUkYR7YMgYfVaTloA?pwd=y41a",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1kGS4XSUkYR7YMgYfVaTloA%3Fpwd%3Dy41a",
+      "pwd": "y41a",
+      "gi": 2
+    }
+  ]
+}

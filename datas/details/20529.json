@@ -1,0 +1,83 @@
+{
+  "u": "https://www.steambk.com/20529.html",
+  "t": "四方行 Build.23960992 免安装中文版下载",
+  "id": 20529,
+  "sg": "更新",
+  "tm": "2026-07-01",
+  "ct": "PC游戏",
+  "sub": "国风仙侠",
+  "tags": [
+    "中世纪",
+    "管理",
+    "经济"
+  ],
+  "sz": "266MB",
+  "rt": "好评",
+  "ver": "Build.23960992",
+  "rdate": "2026 年 6 月 24 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/4710460/1449848531/578dbbf9cfa56f82625d3c59f9ad4459a4b79921/1780670213/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "一位行商走遍山河，以货易货，以诚服人。议价、制造、鉴宝，从大同边塞走到番禺南洋，书写属于你的商路传奇。",
+  "pt": "",
+  "un": "",
+  "vf": "四方行 下载 | Build.23960992 | 266MB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/4710460/_/",
+  "sr": {
+    "操作系统": "Windows 10",
+    "处理器": "能动就行",
+    "内存": "2 GB RAM",
+    "显卡": "能亮就行",
+    "存储空间": "需要 500 MB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4710460/597ae7e0de33585045e0096c59525a3e670a5a8b/ss_597ae7e0de33585045e0096c59525a3e670a5a8b.1920x1080.jpg?t=1782287055",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4710460/498b7b0aa6f51fe590d3c6208ad4396f6e4e0667/ss_498b7b0aa6f51fe590d3c6208ad4396f6e4e0667.1920x1080.jpg?t=1782287055",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4710460/625f3e9418604ca0cc34a0f2730ecb222a58a62b/ss_625f3e9418604ca0cc34a0f2730ecb222a58a62b.1920x1080.jpg?t=1782287055",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4710460/d2dcc6d6a967c2f798b6b51ef65588e66911f7f1/ss_d2dcc6d6a967c2f798b6b51ef65588e66911f7f1.1920x1080.jpg?t=1782287055",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4710460/f1c1cb628d7511f5cb88fdf902c4e602b8c0ac82/ss_f1c1cb628d7511f5cb88fdf902c4e602b8c0ac82.1920x1080.jpg?t=1782287055"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4710460/7440000ee9c94468e592e0f3b97f819888261f65/header.jpg?t=1782287055",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/17910f501be3",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F17910f501be3",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOwSrmRjNGbPmFFMbSXnmCUEA1?pwd=xpt2",
+      "pwd": "xpt2",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1fZpMKmd8TPlROHOT24OJBQ?pwd=k71f",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1fZpMKmd8TPlROHOT24OJBQ%3Fpwd%3Dk71f",
+      "pwd": "k71f",
+      "gi": 2
+    }
+  ]
+}

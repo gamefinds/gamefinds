@@ -1,0 +1,94 @@
+{
+  "u": "https://www.steambk.com/18745.html",
+  "t": "星尘轨迹：魔女之愿（STARDUST: Wish of Witch）v260707 免安装中文版下载",
+  "id": 18745,
+  "sg": "更新",
+  "tm": "2026-07-07",
+  "ct": "PC游戏",
+  "sub": "回合战棋",
+  "tags": [
+    "动漫",
+    "卡牌",
+    "战术"
+  ],
+  "sz": "1.02GB",
+  "rt": "特别好评",
+  "ver": "v260707",
+  "rdate": "2026 年 5 月 29 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/3936730/1211761799/647273c76f44b08f44983571f257e253dcfa20ed/1778750746/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "时机已到——是时候踏上冒险之旅了！跟随少女战士「星」和少年法师「悠」，一起寻找愿望之星的秘密！体验精美的像素动画演出，感受经典SRPG战斗的策略魅力……命运的终点，正等待着你们共同揭晓。",
+  "pt": "",
+  "un": "2026年7月6日，《星尘轨迹：魔女之愿》260707 #P4 版本核心新增城镇手动存档功能，可自主保存家具、任务、神器、卡牌等全维度城镇进度，同步修复存档读取数据丢失、神器存档显示异常等存档相关漏洞；优化卡牌、城镇地图、神器、外宿背包等多处 UI 交互逻辑与操作 bug，修正角色移动、菜单快捷键冲突等操作异常；同时修复多名角色技能效果、文字描述、攻击机制、连携技能释放限制问题，新增技能地块残留画面的屏蔽处理，全面优化游戏存档、界面操作与战斗技能体验。\n2026年6月20日，本次三号补丁围绕游玩体验多维度优化修复：优化键鼠、手柄下方向指定范围技能的判定与操作逻辑，解决手柄施法方向偏移问题；优化敌人寻路运算，修复多款远程 / 施法敌人移动掉帧卡顿；批量修正卡牌混入、反击防御判定、敌方 buff 异常、单位选中困难、战场贴图残留等战斗技能 bug；修复解毒剂、清醒药水报错、无语音、重复使用数据异常等战斗道具故障；优化界面文字显示效果，提升神器等级辨识度；修正关卡地块渲染层级错误，统一角色特写视频规格、精简教程音视频素材。\n2026年6月4日，星尘轨迹：魔女之愿 热修复公告 ( 260604 )修复了操作角色 ActivePanel 时，偶尔会显示角色附近怪物移动范围的问题。修复了击败敌人且其尸体消失后，仍无法移动到该敌人原所在格子的问题。修复了可能导致鼠标光标固定在画面中央的可疑问题点。改进了使用 DualSense 控制器时，按键指南却显示为 Xbox 图标的相关逻辑。修复了「星」的技能「烛火」作为连携使用时，镜头会移动到移动前位置的问题。",
+  "vf": "星尘轨迹：魔女之愿 下载 | v260707 STARDUST: Wish of Witch | 1.02GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/3936730/_/",
+  "sr": {
+    "操作系统": "Windows 10 64-bit",
+    "处理器": "Intel Core i3 or equivalent",
+    "内存": "4 GB RAM",
+    "显卡": "Intel UHD Graphics 620 or equivalent",
+    "DirectX 版本": "11",
+    "存储空间": "需要 5 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/2aeb1ed15287e301ea292027b17c7990483ab6cb/ss_2aeb1ed15287e301ea292027b17c7990483ab6cb.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/90f23c4c5aa84922492ebe522593c33fef8d2605/ss_90f23c4c5aa84922492ebe522593c33fef8d2605.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/595744bcbb7d5947cb116757dca3217f5ae66d5d/ss_595744bcbb7d5947cb116757dca3217f5ae66d5d.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/bab448a06ce704f1491718d3faa7fce922f2e3aa/ss_bab448a06ce704f1491718d3faa7fce922f2e3aa.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/d9d0f9c091b69e74333b3a20a3271a374503378f/ss_d9d0f9c091b69e74333b3a20a3271a374503378f.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/7cb311fc9cca4f36a8ed39530010b1ed3898f415/ss_7cb311fc9cca4f36a8ed39530010b1ed3898f415.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/cdc77abcb68be27a878208e4c85e798978aee187/ss_cdc77abcb68be27a878208e4c85e798978aee187.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/a78107b4de241e4ea5000c324c244755faa5bed9/ss_a78107b4de241e4ea5000c324c244755faa5bed9.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/f6de8640969b090516ec3f0a962da9a436add26d/ss_f6de8640969b090516ec3f0a962da9a436add26d.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/b5b24b2ee999628dcea60edcc32bb429a7403af9/ss_b5b24b2ee999628dcea60edcc32bb429a7403af9.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/2b5a7a74902486ec37de2bbccf7f90561f1d3bca/ss_2b5a7a74902486ec37de2bbccf7f90561f1d3bca.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/aa2a2fd7864bb946b0b92c14d5c5c02bc6bd2017/ss_aa2a2fd7864bb946b0b92c14d5c5c02bc6bd2017.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/7dcf12782645d4ac7786b5972342735443d28ae8/ss_7dcf12782645d4ac7786b5972342735443d28ae8.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/9a91467779cc78ebb7ff4151831a19ac47bc526d/ss_9a91467779cc78ebb7ff4151831a19ac47bc526d.1920x1080.jpg?t=1780024988",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/5ab0003654e20455299ab1c986dfcd197f398547/ss_5ab0003654e20455299ab1c986dfcd197f398547.1920x1080.jpg?t=1780024988"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3936730/4a5b8539a36b3c5778980062c4ce653771b2bbac/header_schinese.jpg?t=1780024988",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/837276e8286c",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F837276e8286c",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOtsCTbJWY-mUxfQNR2fdmF7A1?pwd=nvk8",
+      "pwd": "nvk8",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1V9kXKGRv7CnCoSue5gVvlQ?pwd=ipti",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1V9kXKGRv7CnCoSue5gVvlQ%3Fpwd%3Dipti",
+      "pwd": "ipti",
+      "gi": 2
+    }
+  ]
+}

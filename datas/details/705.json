@@ -1,0 +1,111 @@
+{
+  "u": "https://www.steambk.com/705.html",
+  "t": "最后纪元（Last Epoch）v1.5.4 免安装中文版下载",
+  "id": 705,
+  "sg": "更新",
+  "tm": "6天前",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "刷宝",
+    "独立",
+    "类暗黑"
+  ],
+  "sz": "23.4GB",
+  "rt": "褒贬不一",
+  "ver": "v1.5.4",
+  "rdate": "2024 年 2 月 22 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/899770/29619754/9f8c74647f944e78a3d7c6d073f3ed20e4322935/1789736335/hls_264_master.m3u8",
+      "type": "hls",
+      "t": "赛季5更新视频"
+    },
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/899770/941502525/f3dda7960ec9d24f51604f2b91a467a6020bed16/1772130306/hls_264_master.m3u8",
+      "type": "hls",
+      "t": "正式宣传片"
+    }
+  ],
+  "vt": [
+    "赛季5更新视频",
+    "正式宣传片"
+  ],
+  "in": "揭示过往，重铸未来。在15个精通职业中选择其一，探索危险的地下城，追寻史诗级战利品，打造传奇武器，掌握百余种变形技能树的力量。请尽情体验由狂热的RPG游戏迷团队开发的《最后纪元》。\n《最后纪元》融合了时间旅行、精彩的地下城探险、引人入胜的角色定制，以及无尽的可重玩性，打造出一款可满足资深玩家和新手玩家游戏体验的动作RPG。穿越到伊泰拉的过去，直面黑暗帝国、愤怒诸神以及原始荒野，寻找拯救时间免受虚空侵蚀的方法。\n主要特色\n15个精通职业\n选择五种强大职业中的一种，开启你的冒险之旅，并在旅途中选择一个独特的精通职业进行转职，从而解锁更多的专门技能和流派选择。\n120+技能树\n每个技能都有专属的强化树，让你能够掌控、改变和增强你的游戏风格。让骷髅变身为弓箭手，把闪电冲击转化为连锁闪电，或者使用毒蛇冲击召唤出毒蛇，并与你并肩战斗！\n追寻稀有的强大战利品\n在你的武器库中装满精心制作的魔法物品，使用强大的独特和套装物品来改变你流派的玩法，并通过《最后纪元》的深度和随机战利品系统随时准备下一次升级。\n高回报的制作系统\n你所使用的物品将由你亲手打造！《最后纪元》中备受社区推崇的制作系统拥有强大且确定的升级机制，让你能掌控角色的变强过程。\n揭示过往，重塑未来\n穿越至不同的时间点，在其中发现伊泰拉世界中的众多派系和秘密，并奋力将时间线引向新的道路。\n无尽的可重玩性\n《最后纪元》拥有可供定制的丰富职业和技能、富有深度的游戏系统、随机化的战利品以及后续开发，是一款能让人重复游玩数年的游戏。\n入门易，精通难\n我们致力于打造一款能让新老玩家都能轻松上手的游戏，因此你可迅速投身战斗，并可收获大量的游戏内资源。但你不要因此就掉以轻心：伊泰拉世界里危机四伏，需要精通战斗和流派构建能才能游刃有余。\n绝无付费变强机制\n《最后纪元》永远不会提供通过花费现实货币来获取游戏优势的内容。我们坚信必须要为所有玩家创造公平的游戏环境。",
+  "pt": "",
+  "un": "11月6日周五更新-v1.5.4（点击查看详细内容）\n11月6日周五\n最后纪元 1.5.4 补丁说明\n随机遭遇更新\n预兆之窗\n将巨型风化雕像从预兆之窗中可生成的敌人列表中移除。\n为预兆之窗添加了光源，使其更好地融入周围环境。\n莫迪塔斯之怒\n修复了莫迪塔斯传送音效缺失的问题。\n新增在仪式窗口中快速领取物品的功能，操作方式类似于快速移动物品。\n选中物品后，按住Shift并右键点击，或长按X，即可快速领取。\n快速领取会执行以下操作：\n若物品为材料，则将其转移至材料库存。\n若物品栏有空间，则将物品移入物品栏。\n否则，将物品掉落在地上。\n编织者天赋树中的鲜血预兆节点触发时，仍会将一件腐化复制品掉落在地上。\n视觉与音效更新\n技能\n调整了暗金物品松鼠使者所提供的松鼠召唤物的音效。\n更新了野蛮人持法杖施放法术的动画。\n血液剥离：调整了特效的辉光。\n血肉转移：调整了特效的辉光。\n混沌箭：更新了射弹及命中时的特效。\n环境\n为玛加尔卡的爬梯过渡添加了音效。\n问题修复\n技能与天赋\n爆炸箭矢\n修复了分配精准轰炸节点后，间接使用爆炸箭矢可能导致下一支生成的箭矢伤害不断提高的问题。\n剥皮\n修复了施放技能后，侍祭手中仍残留剥皮的武器扭曲特效的问题。\n修复了地面贴花会覆盖在剥皮特效之上的问题。\n追心箭\n修复了穿体而出节点在击杀被冻结的敌人时未能正确生成穿刺的问题。\n神圣光环\n修复了神圣光环在离线模式下不提供增益的问题。\n寒冰弹幕\n修复了地面贴花可能覆盖在冰霜射弹之上的问题。\n修复了碎冰壁垒没有音效的问题。\n神射手天赋树\n修复了谨慎步伐天赋节点的“每5点敏捷提供伤害偏斜几率”阈值加成会导致伤害偏斜几率随时间无限提高的问题。\n环形盾阵\n修复了没有有效目标时，盾牌移位节点会消耗盾牌却不产生效果的问题。现在，只有成功施放盾牌投掷后才会消耗盾牌。\n血液剥离\n修复了视觉穿插问题，并调整了径向屏幕扭曲的强度和衰减，使施放技能时的画面更加清晰。\n符文咒祈\n修复了使用阔步避险跃起或使用闪避后，符文咒祈的元素三位一体未能继续附着在玩家身上的问题。\n盾牌猛击\n修复了强力冲锋（冲锋和盾牌冲锋结束时触发的盾牌猛击）的音效问题。此前，在冲锋或盾牌猛击后触发盾牌猛击时，无法听到其音效。\n召唤骷髅法师\n降低了其部分音量过大的攻击音效。\n修复了无法听到骷髅法师命中音效的问题。\n敌人\n提高了昆虫及虫群类敌人死亡特效的基础发光强度。\n受福者阿戈洛斯：修复了其生成后的短暂时间内无法受到伤害的问题。\n阿波罗斯与至尊阿波罗斯：修复了它们可能被定身的问题。\n修复了螃蟹类敌人无法退出现身状态，因而始终不会攻击的问题。\n猎神者阿根图斯：修复了其被冻结时动画播放异常的问题。\n赫罗特：修复了玩家能够穿过赫罗特冰墙的问题。\n物品\n渐强之怒现在会正确使伤害总增50%，而非150%。\n渐强之怒不再作用于引导技能。\n修复了使用暗金物品记忆重现时，漫游灵体的音效问题。\n修复了死亡之舞在使用闪避时触发盾牌投掷后，盾牌投掷仍会处于数秒冷却状态的问题。\n修复了具有变体修正值的暗金物品腐化并获得词缀后，其封印腐化栏位中显示的却是变体修正值，而非新增词缀的问题。\n战役\n修复了赫罗特的祝福中烟雾特效模糊的问题。\n命运巨石\n神龛及其他随机遭遇不再生成于赫罗特首领战中。\n修复了任务秘境和时间线首领有时给予的经验值低于预期的问题。\n纷争护手：修复了具有变体修正值的传奇物品，无法使用传奇潜能等于该传奇物品传奇词缀数量的物品进行重铸的问题。\n地下城\n无光深林：修复了地下城能力提供的亮度未能根据琥珀数量正确变化的问题。\n魂火堡垒：修复了玩家碎片不足时，地下城护盾能力未显示通知的问题。\n竞技场\n新增了防止无尽竞技场因波次停止推进而卡住的措施。\n界面\n修复了使用控制器浏览游戏内商店时，关闭时装预览后其音频仍继续播放的问题。\n修复了过早离开首领场景会导致选择祝福面板无法正常工作的问题。\n其他\n堕落浪人胸甲：修复了其上臂部位在视觉上被拉伸的问题。\n修复了未连接互联网的离线模式下，无法装备时装物品的问题。\n修复了未连接互联网的离线模式下，可能无法打开太古狩猎进化选择菜单的问题。\n雹裔重盔：修复了其在角色选择界面显示错误颜色的问题。\n改善了物品数量极多的仓库的性能。",
+  "vf": "最后纪元 下载 | v1.5.4 Last Epoch | 集成全DLC | 23.4GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/899770/Last_Epoch/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10",
+    "处理器": "Intel Core i5 6500 or AMD Ryzen 3 1200",
+    "内存": "16 GB RAM",
+    "显卡": "nVidia RTX 3060 or AMD RX 6600-XT with 6GB+ GB of VRAM",
+    "DirectX 版本": "11",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 22 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/36dfb279173da522836c6444dc70d5a232d5d8bb/ss_36dfb279173da522836c6444dc70d5a232d5d8bb.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_7bb351d2b4344d96123631deb9239448709e11ab.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/b147fd10d7b8dd0213c4acb99a6bc69be23ef220/ss_b147fd10d7b8dd0213c4acb99a6bc69be23ef220.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_82f015b200420398447bef8a1bbb75cd8951ed5c.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/b429c579742dcc789265f16e8c8ec78f10ad3ef6/ss_b429c579742dcc789265f16e8c8ec78f10ad3ef6.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_e51b2a99932a05cc5e97da15080b358835c66343.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/6a329eefc0bd1545843f235b4fac5564b7b6dba7/ss_6a329eefc0bd1545843f235b4fac5564b7b6dba7.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_2e36b4ef4b1682679932004ab95540ae2d4456f5.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_3c139fc4555ec7ff180310848c5f59a2b679598f.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_a4fc70632fb79fb6038649499050fcfcd18ea34b.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_8c8166cac21b3b2b6a46e9a801133f73ba8c85fc.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_9f209e5f353942b11c45ea35150c18a58a3bd2a4.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_aedd0bc0350da7c72d250da1976a697353f10803.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_25168f888d4803d2993867eb4330cf1051691a05.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_227295f2b5f3471edebfd401e8822befd05fca66.1920x1080.jpg?t=1755792910",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/ss_3d0b726afdabc5b741065fab2ca45516c92e5189.1920x1080.jpg?t=1755792910",
+    "https://www.steambk.com/wp-content/uploads/2025/08/29122320884.webp"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/899770/97d1008a28abfc6f08bb704d73ee055b81391dcc/header_alt_assets_2_schinese.jpg?t=1792426633",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/c4741799d1ea",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fc4741799d1ea",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VO7vnlTcRYFygSxNK36mKaSsA1?pwd=zsuf",
+      "pwd": "zsuf",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/17HHKR4Jn__i5dyO2SViwvw?pwd=gsei",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F17HHKR4Jn__i5dyO2SViwvw%3Fpwd%3Dgsei",
+      "pwd": "gsei",
+      "gi": 2
+    }
+  ]
+}

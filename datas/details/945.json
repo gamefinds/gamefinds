@@ -1,0 +1,103 @@
+{
+  "u": "https://www.steambk.com/945.html",
+  "t": "幻兽帕鲁（Palworld）v1.0.5.102999 免安装中文版下载",
+  "id": 945,
+  "sg": "更新",
+  "tm": "2026-09-16",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "建造",
+    "开放世界",
+    "沙盒",
+    "生存",
+    "生物收集"
+  ],
+  "sz": "41.4GB",
+  "rt": "好评如潮",
+  "ver": "v1.0.5.102999",
+  "rdate": "2026 年 7 月 10 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/1623730/1406784481/1a548e52e298c57e43ed354e1e1dd59b1c47f0a2/1783609836/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
+  "pt": "",
+  "un": "2026年9月15日，9 月 15 日周二版本 v1.0.5 进行问题修复，解决两项问题：一是部分玩家地形、建筑纹理加载分辨率偏低的问题；二是玩家重生后地图部分图标筛选项会自动关闭的 bug。\n2026年9月7日，幻兽帕鲁 v1.0.4 版本已于 9 月 7 日上线，本次更新新增两条支线任务，对帕鲁 AI、战斗、钓鱼、道具奖励、据点建造、地图地形等内容做平衡性与规则调整，扩充 UI 搜索、工作适应性详情等功能并优化音效；同时修复大量崩溃、多人联机、任务、帕鲁技能、建造、UI 显示、音效及 Mod 相关 bug，优化场景渲染、草木与技能触发带来的性能卡顿，另外还修正部分文本翻译，进一步提升游戏稳定性与游玩体验。\n2026年8月12日，《幻兽帕鲁》v1.0.3 版本围绕平衡性调整、内容优化与大量 BUG 修复展开：下调空涡龙、水上建造套装的解锁门槛与素材消耗，翻倍树木产出纤维，优化世界树圣水的重量、持续时长并拓展获取途径，同时改良原油提炼相关建筑的成本与产出；新增服务器敌对阵营据点生成开关，优化画面、音效表现；修复主线卡死、联机光照 / 卡顿、帕鲁 AI 异常、头目战斗判定、建筑放置、道具增殖、UI 显示、按键设置、地图渲染等多类崩溃与功能故障问题。\n2026年7月29日，《幻兽帕鲁》v1.0.2 版本正式推送，本次更新优化天阳乡运行性能，新增「攻击这个敌人！」与物品栏自定义键位；重点修复大量 BUG：解决专用服务器挑战奥沧鲸时断线、客户端崩溃，全屏输入日语闪退等崩溃问题；修正多人模式世界树地形加载异常、维克托 & 异构格里芬战斗消失、最终 BOSS 战复活后光源异常等联机故障；同时修复主线、支线任务黑屏卡住、多项成就达成无法解锁、玩家模型眼部显示异常、采矿伤害数字显示错误，以及多处键位设置识别冲突、选项缺失等问题。\n2026年7月15日，《幻兽帕鲁》7 月 15 日推出 v1.0.1 版本补丁，本次更新仅针对两处 BUG 进行修复：一是解决特定操作流程下存档数据存在丢失风险的问题，二是修正角色触碰篝火后燃烧效果无法自动消除的异常情况。\n2026年7月10日，《幻兽帕鲁》v1.0 正式版结束抢先体验，本次更新扩容游戏全域内容：新增天阳乡、世界树两大核心剧情新区域，追加 7 座特色小岛、多片全新聚落与翻新升级的三处禁猎区，重构全图帕鲁分布，开放 80 级等级上限，扩充古代遗迹、瞭望塔、随机地下城等探索内容并优化地图交互、移动与场景细节；剧情方面重做主线流程，新增大量支线、NPC 与世界观手记，同时重置全任务进度；帕鲁体系新增 72 只全新及亚种帕鲁，上线觉醒、突变两大养成系统，新增多款功能配种蛋糕，翻新超 200 只帕鲁伙伴技能并新增探测类专属技能，还重构帕鲁雕像养成体系，整体对据点建造、多人联机、画面表现、地下城、据点、BOSS、道具掉落等全模块完成大规模平衡性与体验翻新。",
+  "vf": "幻兽帕鲁 下载 | v1.0.5.102999 Palworld | 赠修改器 | 41.4GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/1623730/Palworld/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10 (64-Bit)",
+    "处理器": "Intel Core i5-9400F",
+    "内存": "16 GB RAM",
+    "显卡": "GeForce GTX 1660",
+    "DirectX 版本": "11",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 40 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/ss_f81b7c4f20be3b99f76a1415c4cdb9b444c99b97.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/648ed4266fc18f413292292741304ef648421c55/ss_648ed4266fc18f413292292741304ef648421c55.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/ss_b3cea7c9f04a67d784d4c6a0c157a11d6268b189.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/cd7b46028d10c21db8fc8217192094d309efcebc/ss_cd7b46028d10c21db8fc8217192094d309efcebc.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/ss_06e27c15c7b4b10233c937b887cf6a6925c83009.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/ss_a99fba5536acde781bd863cb3555c10b5b96c0ae.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/ss_1e6f7cf3c58086df2a3e9b13a988c2681d372b2d.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/b463e0cc770b5ea81230a1db561c100f5fdb3c30/ss_b463e0cc770b5ea81230a1db561c100f5fdb3c30.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/e2c34987fa3f3893480afed747b0c2ede52e5a31/ss_e2c34987fa3f3893480afed747b0c2ede52e5a31.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/348aae38bc825f667656e5f9c1287761c1d339f7/ss_348aae38bc825f667656e5f9c1287761c1d339f7.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/ss_6ce0960860f1009b7d10ba225ead4cc377286115.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/efec2f6aaaca15d66e30455e3b57383fdaa246c5/ss_efec2f6aaaca15d66e30455e3b57383fdaa246c5.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/ss_43ed640c916ec689981a74f0818e5b9c77204d1c.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/ss_c6a8e8dc8640ebd1409b1e72fe6e9db7d1c1d57a.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/c386fc9813a95c54a4c9c024bf21e5011bcaadad/ss_c386fc9813a95c54a4c9c024bf21e5011bcaadad.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/84c7d900e173e6933057bf2038eb61288db8f5bb/ss_84c7d900e173e6933057bf2038eb61288db8f5bb.1920x1080.jpg?t=1783654507",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/ss_88c603ab6cd66c229d3283d312a50d14e3e4c77c.1920x1080.jpg?t=1783654507"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1784714419",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/6e114e341d11",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F6e114e341d11",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VO0Q6viz978CvWVHBfiAounYA1?pwd=cq23",
+      "pwd": "cq23",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1y_RXFN9mybAxzUwUUG0lTw?pwd=mu6v",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1y_RXFN9mybAxzUwUUG0lTw%3Fpwd%3Dmu6v",
+      "pwd": "mu6v",
+      "gi": 2
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "u": "https://www.steambk.com/913.html",
+  "t": "战争召唤——地狱之门：东线（Call to Arms - Gates of Hell: Ostfront）v1.067.0 免安装中文版下载",
+  "id": 913,
+  "sg": "更新",
+  "tm": "2026-09-30",
+  "ct": "PC游戏",
+  "sub": "策略战略",
+  "tags": [
+    "二战",
+    "历史",
+    "战争"
+  ],
+  "sz": "113GB",
+  "rt": "特别好评",
+  "ver": "v1.067.0",
+  "rdate": "2021 年 6 月 12 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/400750/308316/a3f60e65347fbe65ad96ddda388c851c2b8a65b1/1750525910/hls_264_master.m3u8",
+      "type": "hls",
+      "t": "正式宣传片"
+    },
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/3691330/1777959751/05dfc10dc7c68dae982799be925579269f257bf4/1762947935/hls_264_master.m3u8",
+      "type": "hls",
+      "t": "光辉时刻DLC"
+    }
+  ],
+  "vt": [
+    "正式宣传片",
+    "光辉时刻DLC"
+  ],
+  "in": "",
+  "pt": "",
+  "un": "2026年9月24日，本次热修复版本 V1.067.0，针对音效、界面、多人库存、AI 机制等多项内容进行调整：根据反馈修复 StG44 与全部冲锋枪的 D1-D3 首尾音频音量；修复隐藏左侧图标栏时头顶图标消失的问题，解决多人模式下载具、箱子与玩家之间堆叠物品转移异常；新增采用全新机器人架构的征服模式模板任务（附带说明文件，存放于模组模板文件夹）；优化征服模式敌方 AI 空袭判定逻辑，改用前沿区域而非小型旗区侦测玩家；清理并优化脚本，调整机枪室内换弹音效音量，移除重复的 Kg m/21 条目，整理自动炮音效调用，同时新增游戏兼容标签本地化内容。\n2025年12月3日，该游戏 DLC “光辉时刻” 聚焦西线战场，新增英联邦阵营（含英格兰、苏格兰、加拿大、波兰部队，各有独特制服、装备、语音及特殊技能），是迄今规模最大的 DLC。单人模式包含英联邦（7 个战役任务 + 3 场遭遇战，覆盖 “黄色方案” 初期抵抗、诺曼底登陆夺飞马桥等关键战役）与德国（5 个战役任务 + 1 场遭遇战，展现 “闪电战” 及战争后期防守反击等内容）两大阵营战役，均具高水准电影化叙事与细节；多人模式引入英联邦早中末期内容（含 4 种作战学说 / 时期）、20 张全新西线对战地图及新增武器载具；征服模式新增 25 张西线地图（采用全新素材，还原荷兰、佛兰德斯等地风貌，同时扩充德军武器库）；视觉上升级全新系统，含数百个精细环境模型（含苏格兰风笛）、光泽度提升的材质纹理及上千种环境素材，还包含超 1000 个荷兰与佛兰德斯地区素材、170 辆英联邦与德国新载具、500 余个英联邦人物模型及 100 余件装备物品。",
+  "vf": "战争召唤——地狱之门：东线 下载 | v1.067.0 Call to Arms - Gates of Hell: Ostfront | 集成全DLC | 113GB 官中解压即玩",
+  "dl": [
+    "Call to Arms - Gates of Hell: Talvisota",
+    "Call to Arms - Gates of Hell: Scorched Earth",
+    "Call to Arms - Gates of Hell: Liberation",
+    "Call to Arms - Gates of Hell: Airborne",
+    "Call to Arms - Gates of Hell: Jubilee",
+    "Call to Arms - Gates of Hell: Supporter Pack",
+    "Call to Arms - Gates of Hell: Finest Hour（新增）"
+  ],
+  "bl": "https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/",
+  "sr": {
+    "操作系统": "64bit - Windows 10",
+    "处理器": "AMD Ryzen 7 3700X",
+    "内存": "32 GB RAM",
+    "显卡": "RTX 2070 / RX 6600",
+    "DirectX 版本": "12",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 80 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/5dfcef1dd4d55826049f4334a0126047cdbe5f70/ss_5dfcef1dd4d55826049f4334a0126047cdbe5f70.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/1a4407f930a29abbaeb36aa7f8bb5af09921237a/ss_1a4407f930a29abbaeb36aa7f8bb5af09921237a.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/6aa50a2fd2e49b8d726f81d0c9426021fe1e5f05/ss_6aa50a2fd2e49b8d726f81d0c9426021fe1e5f05.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/57fdddad13e41b7011133abbe046fe122a789c93/ss_57fdddad13e41b7011133abbe046fe122a789c93.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/b7199e8b506284f3427f433a7bdbec283b0b61ed/ss_b7199e8b506284f3427f433a7bdbec283b0b61ed.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/9de5c55b478d9b88e7fc3998b8b680eeb6273d78/ss_9de5c55b478d9b88e7fc3998b8b680eeb6273d78.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/d5615a5251bfdf255a45e5d8eaa47322aaf2eb34/ss_d5615a5251bfdf255a45e5d8eaa47322aaf2eb34.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/67d78f666b5a79e0adb29452e86117894a10f93f/ss_67d78f666b5a79e0adb29452e86117894a10f93f.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/13e76e8e342286d41a107161b36a6f28e7473c25/ss_13e76e8e342286d41a107161b36a6f28e7473c25.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/c5f948a9724ad5e5443f3d0a41b0beaccfe0b76a/ss_c5f948a9724ad5e5443f3d0a41b0beaccfe0b76a.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/2bc551cc8f4b1130ef105b64692043bcd9888dd7/ss_2bc551cc8f4b1130ef105b64692043bcd9888dd7.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/4e85e82cbcf7b142e5c97cd2d5798091760f8a25/ss_4e85e82cbcf7b142e5c97cd2d5798091760f8a25.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/fd9032f6ea9b40be6568147c066db208987e7251/ss_fd9032f6ea9b40be6568147c066db208987e7251.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/557932946620b5534262283b617f6f3c336d65ab/ss_557932946620b5534262283b617f6f3c336d65ab.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/1c7d46193a6e3b8a3a12b0f1792790c4d340747b/ss_1c7d46193a6e3b8a3a12b0f1792790c4d340747b.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/db3a5f0692d7dcc3dd47b42d5fc86c859d03694d/ss_db3a5f0692d7dcc3dd47b42d5fc86c859d03694d.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/a665486a50545c6dc9886e0ca6e0b4f7ce5e2398/ss_a665486a50545c6dc9886e0ca6e0b4f7ce5e2398.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/a120d1c8d771b14a1fabd37ca644c114a97849a8/ss_a120d1c8d771b14a1fabd37ca644c114a97849a8.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/568c230b6a92f3e1694df4317134ca69b82f554f/ss_568c230b6a92f3e1694df4317134ca69b82f554f.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/137f1dca1ebe43cd8f7722c093bdccc5ea8f0651/ss_137f1dca1ebe43cd8f7722c093bdccc5ea8f0651.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/dec35dae133100fd4070fdc35bf6e9894ce2a3ff/ss_dec35dae133100fd4070fdc35bf6e9894ce2a3ff.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/9d23cb6d815b1501278f0a133869d88fc892bc9d/ss_9d23cb6d815b1501278f0a133869d88fc892bc9d.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3691330/8bc3904ce8455164c42842d395a85393553b84b6/ss_8bc3904ce8455164c42842d395a85393553b84b6.1920x1080.jpg?t=1764698595",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_7c3968c3bfe94abd51adb4e76f26f235600d024c.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_a92b9dd80ee352574800b41b1265a7b69d6aebca.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_bc70aa2af1792b66e6eed90e5b7373c119e62297.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_7f5b54091665dd15ea7bc470789a755e7a98c666.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_245bc0604a86a221cb957c745cbf521be3ca2cc9.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_217577fc55980f3fccfc574d0c8d2300d6d334e2.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_e9e37f79e494d5386d68eab626974d21b4561a92.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_96573bda641965e7495e332de86dfb3906241e84.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_2e6e0492287bb26c69870fde52a7240e8ab2fc03.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_afe20fb6947f88f1a623e1d4f882c72ffe28b3c7.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_dd17edbe490012881c5072a99b7f0c8f3e41c8b5.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_3ade7fe82e20a91515f20ec5d061e63a172dfede.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_575ea540c8368370ff52b0eef5817c3f34dafb0e.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_d72243f6f719da570982b1d210bd32c0c3580aa9.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_f8ab240d7545fe7cc6bae89d31477fe464a5cbbe.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_a00e0c0941513b3892e91b646d608fdea5a9d5d3.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_236039b0ed59a39af6be4e1c1871a7adff94b161.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_0fa79cc5481bdd0096029ad9bb69366a95c8efe8.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_7bb297f988f3578eb072b5506bb43de1e0a601da.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_23741a8192d9ed5aee50195db540cf13e1e8616c.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_713f507ae070cad5df3a6c555cf94f127c5f3371.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_07d15ab2165d4b4e89dee7936451cc4d22e09dab.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_69ae7cc42ad9f0b2e7b5ff60498f9b54ee545c1f.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_542267dc3ff0ae78b30307b63d52ba1e9f6c4980.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_585a7551fb228298eb031f815f0bc55d88f7f634.1920x1080.jpg?t=1764717941",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/ss_00eb0ea835c6bf901e6fb0626bffd734f2c23cb2.1920x1080.jpg?t=1764717941"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/400750/dbbd1ee41869ac2bae52511ab9d171e1aba441e4/header.jpg?t=1764717941",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/c0dadcd252ab",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fc0dadcd252ab",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VNy_53AzG26R0dlabDvp7HzOA1?pwd=53x2",
+      "pwd": "53x2",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1fbjMpzGEmDsjOF2g0vgdRA?pwd=mkcg",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1fbjMpzGEmDsjOF2g0vgdRA%3Fpwd%3Dmkcg",
+      "pwd": "mkcg",
+      "gi": 2
+    }
+  ]
+}

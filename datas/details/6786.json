@@ -1,0 +1,60 @@
+{
+  "u": "https://www.steambk.com/6786.html",
+  "t": "辐射之海2（Sea Of Radiation 2）免安装中文版下载",
+  "id": 6786,
+  "sg": "更新",
+  "tm": "2025-12-22",
+  "ct": "PC游戏",
+  "sub": "恐怖惊悚",
+  "tags": [
+    "末日",
+    "生存"
+  ],
+  "sz": "957MB",
+  "rt": "特别好评",
+  "ver": "v2.2.10",
+  "rdate": "2024 年 11 月 29 日",
+  "vd": [
+    {
+      "u": "https://video.fastly.steamstatic.com/store_trailers/3191720/792834/d1ddcf1ca9b3808b303905f263358142d9355db9/1750879501/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "",
+  "pt": "",
+  "un": "1.修复了暂停时炮塔依然会转动的bug\n2.修复了完成探索模式后图鉴不能全解锁的bug\n3.修复了变异关节无法被正常替换的bug\n4.修复了灾变模式赏金可能会结算两次的bug\n5.增加了机枪炮塔的射程\n6.稍微增加了敌人的最低冷却时间\n7.在若干处进行了性能优化",
+  "vf": "",
+  "dl": [],
+  "bl": "",
+  "sr": {},
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3191720/ss_582417cc750de276275cc793e69d6440ac67b69f.600x338.jpg?t=1756453742",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3191720/ss_561bd81d9016cc873ff3017f1bbf820c324fb768.600x338.jpg?t=1756453742",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3191720/ss_f2d8bd8afeb58df04cf45c6ca79761d38422835e.600x338.jpg?t=1756453742",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3191720/ss_477a76d1800ce5e5ac28f340114ead31574054a9.600x338.jpg?t=1756453742",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3191720/ss_89e54c9a0261e80a93c3d6637529afa7f59f12bc.600x338.jpg?t=1756453742",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3191720/ss_0dedf0a20f5318d5b186516feb3039b36b409373.600x338.jpg?t=1756453742",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3191720/ss_09ac1d4193614f59843c6b2681c37ece83ef08fb.600x338.jpg?t=1756453742",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3191720/ss_faef3e38e22aea7ade784b6a3087836dcae60d59.600x338.jpg?t=1756453742"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3191720/964518a1a83708a6960e9fcab8e4d261f307817e/header_schinese.jpg?t=1756453742",
+  "db": {
+    "ds": [],
+    "note": "快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/9f58762158b4",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F9f58762158b4",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOc0QJKlG1oRoRvSfwnesxgJA1?pwd=tust",
+      "pwd": "tust",
+      "gi": 2
+    }
+  ]
+}

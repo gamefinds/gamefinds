@@ -1,0 +1,93 @@
+{
+  "u": "https://www.steambk.com/24424.html",
+  "t": "银松镇（Silver Pines）Build.26489514 免安装中文版下载",
+  "id": 24424,
+  "sg": "更新",
+  "tm": "1周前",
+  "ct": "PC游戏",
+  "sub": "恐怖惊悚",
+  "tags": [
+    "心理",
+    "探索",
+    "生存"
+  ],
+  "sz": "8.69GB",
+  "rt": "好评如潮",
+  "ver": "Build.26489514",
+  "rdate": "2026 年 10 月 9 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2333000/539338629/2a4a3622682e5c825f60e37dd24186d82596360a/1790858062/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "《银松镇》是一款生存、恐怖、类银河战士恶魔城游戏，背景设定在美国小镇。在噩梦般的恐怖中奋战，破解重重谜题，同时管理稀缺资源，逐步揭开那些可能掌握救赎之钥的谜团。\n寻找 Eddie Velvet。\n私家侦探 Red Walker 来到了半荒废、半遗忘的偏远小镇银松镇，只为追查 Eddie Velvet 的下落。Velvet 是一位失踪的音乐家。随着案件逐渐揭开一段黑暗的过往，Walker 很快便陷入了一种诡异且如噩梦般的失控坠落状态。\n踏上一段恐惧氛围十足的旅程。被往昔阴影所困扰的银松镇正等待着揭开它黑暗的秘密。\n一封致敬经典生存恐怖游戏的情书。在搜刮资源、破解阻挡去路的谜题时，你必须直面或躲避小镇中的种种恐怖。\n紧锁的门扉与隐秘的路径无处不在，每一次转弯都可能揭开未被发现的线索、资源或是黑暗中蛰伏的未知事物。随着更精良的工具和武器逐渐解锁，小镇中越来越多的区域将变得可探索。\n这座城镇的恐怖之处在于，这里栖息着种类繁多的强悍怪物与魁梧首领，每场遭遇战都充满紧张与危险。\n物品栏的空间有限。尽可能地寻找物品吧，每颗子弹、每瓶药品和每次升级都至关重要。",
+  "pt": "",
+  "un": "11月7日周六更新（点击查看详细内容）\n1月7日周六\n《银松镇热修3》现已在Steam上线\n银松的第三个Steam补丁现已上线。该补丁修复了包括警长部门磁带播放器软锁在内的多个软锁。该补丁还增加了数据损坏时的保存处理改进，界面和字体缩放调整等！请阅读下面的完整补丁说明。\n补丁说明（注意剧透！）\n新增设施\n对一些UI做了调整以增加字体大小，游戏UI现在允许通过“显示”设置中的“UI缩放”选项将缩放到110%。\n新增了一个选项，可以从快速物品菜单中排除相机。\n支持Dualsense灯条控制器。\n现在可以在游戏加载时从主菜单点击“新游戏”，这样你就不需要删除配置文件或切换配置文件来开始新游戏。\n修复\n修复某些纵横比下速通计时器的界面被切断的问题。\n修复殡仪馆地图上存储箱显示错误的问题。\n改进数据损坏时的节省处理。\n修复了在某些情况下拍摄比允许更多的照片。\n本地化和文本修复。\n楼梯和梯子移动图标的UI改进现在看起来更流畅，且在某些不必要的地方不再显示。\n调整警长保险箱谜题输入，防止误报。\n修正方法是，在尝试互动时被附近的敌人击中，导致玩家角色无法转身。\n在警长部门修复磁带播放器的软锁问题。\n对物品拾取逻辑进行了调整，试图修复一些罕见的情况，比如你可能无法捡到物品但物品仍然会从世界中移除。\n对某些楼梯的调整，缺少了永久碰撞，避免掉落。\n修复了红色覆盖层激活时游戏结束菜单不出现的问题。\n修复快速地图在噩梦区域用手柄打开时错误地重新定位到右下角的问题。\n修复噩梦废墟中的钟声。\n缩短了蹲下挥砍的帧数，减少了看起来像是直接击中敌人却没打到他们。\n修复了在墙边绘制武器时的一些动画问题。\n修复玩家因Boss门互动损坏而卡在警长大厅Boss战中的问题。\n修复 还原键绑定在游戏结束时不会被保存。\n在所有平台上播放启动介绍视频时，请隐藏光标。\n修复油箱没有正确设置为已损坏的情况。\n防止被击出Boss门的互动。\n修复了取消从仓库转移到库存的物品会让物品在视觉上消失的问题。\n修复玩家在转弯时没发现附近有掉落的问题。\n更新游戏完成度计算，包含所有相关升级。\n修复快速使用临时物品时，重新加载存档时出现物品重复的问题。\n修正：雾蹭者现在可以在玩家太近时攻击他们。\n修复敌人能跟着你进入某些Boss战区域的问题。\n防止玩家通过在墙边掉落物品而穿贴几何体或攀爬墙壁的修复方法。\n修复了游泳时解锁“无限耐力”时软锁的问题。\n固定的软锁，你可以在汽车旅馆兔子洞场景中射熄灯光，但没有手电筒时门就不能用。\n修正一些教程多次错误显示。\n修复了风铃在背景中某些场景中显示错误状态的问题。\n电视演播室消防逃生梯碰撞修复。\n调整手电筒电量不足通知，提前出现，并使用与其他元素相同的颜色。\n修正新游戏菜单中游戏解锁复选框，没有播放任何UI音频。\n选项 页面输入按钮 PC UI 调整。\n修复游戏中某些区域鼠标光标无法正确锁定在游戏窗口的问题。\n锁门和生锈挂锁的配音事件不再每次都触发。",
+  "vf": "银松镇 下载 | Build.26489514 Silver Pines | 8.69GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/2333000/_/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10",
+    "处理器": "Intel Core i5-4460 or AMD Ryzen 3 1200",
+    "内存": "8 GB RAM",
+    "显卡": "NIVIDIA GeForce GTX 660 Ti, AMD Radeon R9 270X",
+    "DirectX 版本": "12",
+    "存储空间": "需要 5 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/a7630a1d9bee1267d7ebec560e2285aff46d82c9/ss_a7630a1d9bee1267d7ebec560e2285aff46d82c9.1920x1080.jpg?t=1791483390",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/0f7aa4408737846524bdbe60d02279df99c6ab3a/ss_0f7aa4408737846524bdbe60d02279df99c6ab3a.1920x1080.jpg?t=1791483390",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/3ab713a4a26d907522067941ecff9376bd5e7401/ss_3ab713a4a26d907522067941ecff9376bd5e7401.1920x1080.jpg?t=1791483390",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/db5c8786cb3398017379a6d8d9df505b7e40eb46/ss_db5c8786cb3398017379a6d8d9df505b7e40eb46.1920x1080.jpg?t=1791483390",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/57ae4a463c25fe5a06ad03dcdefc48b9b4d3ebb9/ss_57ae4a463c25fe5a06ad03dcdefc48b9b4d3ebb9.1920x1080.jpg?t=1791483390",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/2e1a1a86a223ee5e2e8eb64e61cffabbc669d866/ss_2e1a1a86a223ee5e2e8eb64e61cffabbc669d866.1920x1080.jpg?t=1791483390",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/25d572980312d1b992301eb9d3fcd06f22024bf6/ss_25d572980312d1b992301eb9d3fcd06f22024bf6.1920x1080.jpg?t=1791483390",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/2bf2ccbadb0bd68ca3d1c6d55d308e75a442de27/ss_2bf2ccbadb0bd68ca3d1c6d55d308e75a442de27.1920x1080.jpg?t=1791483390",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/ee75589e9bc5179e298dc3560868f74104afdc98/ss_ee75589e9bc5179e298dc3560868f74104afdc98.1920x1080.jpg?t=1791483390",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/e039a95bd262bd2214b8b447145f4f6a9eb50ee3/ss_e039a95bd262bd2214b8b447145f4f6a9eb50ee3.1920x1080.jpg?t=1791483390"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2333000/4a1a2b88d7536022bba475e7d13879c03853f8b5/header_schinese.jpg?t=1793974979",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/946152a388c1",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F946152a388c1",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VP3UjYhcr0GMVg9XbiTAiFU2A1?pwd=sxme",
+      "pwd": "sxme",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1OHoXPBT8DJV8hEGvX5-4lg?pwd=egmk",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1OHoXPBT8DJV8hEGvX5-4lg%3Fpwd%3Degmk",
+      "pwd": "egmk",
+      "gi": 2
+    }
+  ]
+}

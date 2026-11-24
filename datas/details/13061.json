@@ -1,0 +1,100 @@
+{
+  "u": "https://www.steambk.com/13061.html",
+  "t": "太空工程师2（Space Engineers 2）v2.4.0.93 免安装中文版下载",
+  "id": 13061,
+  "sg": "更新",
+  "tm": "2026-08-29",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "建造",
+    "探索",
+    "沙盒",
+    "物理",
+    "生存",
+    "破坏",
+    "科幻"
+  ],
+  "sz": "70GB",
+  "rt": "多半好评",
+  "ver": "v2.4.0.93",
+  "rdate": "2025 年 1 月 28 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/1133870/282955487/5318060f9e65e3a9b2540c22c5269ffc57734cfb/1764349481/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "《Space Engineers 2》是一款可游玩的抢先体验 Alpha 沙盒游戏，专注于在一个完全可破坏的宇宙中进行工程建造、探索与殖民。设计并建造飞船、空间站和行星基地，同时揭开 Miro 与 Ivan Sokol 的故事。帮助塑造 Almagest 星系的未来。",
+  "pt": "",
+  "un": "2026年8月27日，《太空工程师 2》发布 2.4.0.93 热修复版本，本次更新重点修复多项崩溃问题，解决 AMD Radeon RX 9000 系列显卡搭配 26.8.1 驱动、纹理流加载、低显存下显卡设备异常、加载世界植被数据、删除存档、炮塔切换目标、方块撤销 / 重做放置时的程序崩溃；修复太阳能板带来的帧率下跌问题，同时修正重力发生器修改强度后最大功率永久锁定至 10% 的功能故障，提升游戏整体稳定性与运行表现。\n2026年2月10日，《太空工程师 2》正式上线 Helionis 星域探索内容，该星域现阶段聚焦太空航行、合约体系与基础玩法搭建，暂未加入 NPC 和战斗内容，同步新增 2 个专属合约，后续还将依托全新 VRAGE3 工具丰富合约设计与游戏内容；官方十分重视玩家反馈，可通过指定支持门户提交建议与问题，同时为迎新与壮大社区，游戏开启 20% 折扣优惠，活动持续至 2 月 17 日。",
+  "vf": "太空工程师2 下载 | v2.4.0.93 Space Engineers 2 | 70GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/1133870/Space_Engineers_2/",
+  "sr": {
+    "操作系统": "Microsoft Windows 10 (latest SP) 64-bit",
+    "处理器": "4core 3GHz CPU / AMD Ryzen 5 2400G / Intel Core i3-10100F",
+    "内存": "16 GB RAM",
+    "显卡": "4TFlop GPU / Radeon RX 5600 XT / Geforce 1660 Super",
+    "DirectX 版本": "12",
+    "存储空间": "需要 40 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/57c77f1498e1e884a905fa62b42834e58a9501a7/ss_57c77f1498e1e884a905fa62b42834e58a9501a7.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/3d9285566f2a150219a86efb232c3629aa1abb2e/ss_3d9285566f2a150219a86efb232c3629aa1abb2e.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/05fec403055a31620092326933d800a6964aa114/ss_05fec403055a31620092326933d800a6964aa114.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/8d767ff6c5c46f2d4212ef7f146fe1fc64a36b09/ss_8d767ff6c5c46f2d4212ef7f146fe1fc64a36b09.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/03a620e3fdef88e8d9cda6e5ab2c69b159430f54/ss_03a620e3fdef88e8d9cda6e5ab2c69b159430f54.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/398794ee411fb4a45b72f73cd3af6e172d160024/ss_398794ee411fb4a45b72f73cd3af6e172d160024.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/470f5d7c1329dd9ee5b3c40961303edaa437b224/ss_470f5d7c1329dd9ee5b3c40961303edaa437b224.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/9ae342778bfe61df0263ce95cda8ce1e3bc9cd87/ss_9ae342778bfe61df0263ce95cda8ce1e3bc9cd87.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/0125100f8cb9e574aa70f02c7f7fd2993a2baf1e/ss_0125100f8cb9e574aa70f02c7f7fd2993a2baf1e.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/79c0336374dff33531390ac5d1f18e42a5897f52/ss_79c0336374dff33531390ac5d1f18e42a5897f52.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/c9b0be262b3fd77c7bd950084b50e2ee16cc34fb/ss_c9b0be262b3fd77c7bd950084b50e2ee16cc34fb.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/5480ab57100ecd037fc026253e245d32b1ab3983/ss_5480ab57100ecd037fc026253e245d32b1ab3983.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/213460cd237f34ed9bb3b964c6d84d0b59916f43/ss_213460cd237f34ed9bb3b964c6d84d0b59916f43.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/e962938828d4e7d9dc06853dcaaf0e1de44132c4/ss_e962938828d4e7d9dc06853dcaaf0e1de44132c4.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/559190bca51cb13051bfafd3c758b8eb8f897a68/ss_559190bca51cb13051bfafd3c758b8eb8f897a68.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/a7ba25d7610bf87042a94451c6dab010d2b846d8/ss_a7ba25d7610bf87042a94451c6dab010d2b846d8.1920x1080.jpg?t=1787036003",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/1d9aa315b45e261f17306d4b5e69eed53c318ae1/ss_1d9aa315b45e261f17306d4b5e69eed53c318ae1.1920x1080.jpg?t=1787036003"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1133870/73a8ca71f85e8e7a10c852c06cdf1aae1ff0d859/header.jpg?t=1787036003",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/fd6b2d8f7602",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Ffd6b2d8f7602",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOlAEx11A0PvmqwI1J7V7kL7A1?pwd=23nm",
+      "pwd": "23nm",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1Othf3yAVBS-nUi3p5YplQA?pwd=tuq7",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1Othf3yAVBS-nUi3p5YplQA%3Fpwd%3Dtuq7",
+      "pwd": "tuq7",
+      "gi": 2
+    }
+  ]
+}

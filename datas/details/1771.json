@@ -1,0 +1,121 @@
+{
+  "u": "https://www.steambk.com/1771.html",
+  "t": "翼星求生（ICARUS）v3.0.30.158174 免安装中文版下载",
+  "id": 1771,
+  "sg": "更新",
+  "tm": "2026-10-07",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "建造",
+    "开放世界",
+    "生存"
+  ],
+  "sz": "49.9GB",
+  "rt": "多半好评",
+  "ver": "v3.0.30.158174",
+  "rdate": "2021 年 12 月 4 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/1149460/420900/85bd381a5b74b567bffa86463429c72b42aad120/1750628447/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "",
+  "pt": "",
+  "un": "2026年9月11日，本次《翼星求生》更新新增工坊道具伊纳瑞斯移动电源，可在野外为电池类手持设备与高阶锂装备充电；调整火山生物熔岩践踏者外观使其更贴合火山环境，重做有毒地壳机制，新增腐化时效，堆叠满 50 个会在 4 小时多后腐烂还原为基础矿石，普通有毒地壳保留最高 5 倍产出（最低 2 倍），异星有毒地壳产出倍率由 5 倍下调至 3 倍；修复多项 BUG，包含驯服针叶狼死亡丢失外观、SMPL3 隐藏宝箱任务生物生成异常等问题，优化大量图标贴图；同时预告下周将上线四级种子提取器，新版本还为围攻模式精英生物增加史诗名称标识、NPC 士兵支持点燃，新增五级科技树背景图等内容。\n2026年6月19日，本次更新拓展诺雷克斯商人商品池，玩家可用生物质兑换全地图世界 BOSS 残迹，同步修正该商人兑换配方、场景光影、碰撞、字幕等多项 BUG；平衡沙虫女王掉落，新增沙虫翼碎片资源并配套调整相关制作配方；优化各类生物孕育时长、运输舱性能与建筑阴影渲染逻辑，修复道具穿模、辐射异常、服务器设置缩放等大量底层 bug；预告下周上线三级 cured 皮革背包，同时披露辐射新地图、五级科技、畸变 BOSS、角色外观等后续开发内容，还同步调整狩猎 BOSS 残迹兑换成本、精简数据表以优化游戏内存与运行效率。\n2026年6月12日，6 月 12 日《翼星求生》迎来第 236 周版本更新，本次正式上线乌比斯鸟类繁育系统与 7 种不同外观形态；同时优化了模型碰撞、水族馆界面、画面细节与层级显示等内容，诺雷克斯商人的兑换道具也由洞穴蠕虫鳞片改为沙虫鳞片。下周该商人还将新增全地图世界首领残魂兑换功能，让玩家在首领未刷新的地图也能获取对应专属制作道具。\n2026年3月8日，3 月 8 日周日发布热修复版本 3.0.0.150086-rel-DangerousHorizons，本次更新主要修复内容如下：修正石灰岩建筑配方，使其可正常制作石灰岩而非混凝土；修复极乐世界：冰屋任务中目标判定错误及温度计算异常问题；修复极乐世界：伏击任务里存档重载后士兵无法正常生成、玩家远离后出现的相关 BUG；同时解决大狩猎行动中因 NPC 调整导致部分任务步骤无法完成的问题，玩家可重新与 NPC 交互并完成任务。\n2026年2月6日，本次《翼星求生（ICARUS）》218 周更新，新增幼年小鸡与羔羊，需饲养至成年才可产出资源，为后续畜牧与基因系统铺垫；修复针刺怪图鉴奖励、MX 燃料罐燃料传输、便携式水箱水质效果异常等问题，优化骑马动画、生物寻路、屋顶积雪系统与碳织背包效果；同时预告第二款大型扩展包《危险领域》与免费开普勒更新，将推出全新地图、生物、坐骑、T5 科技、人形 NPC 及大量建筑、装备与作物内容。",
+  "vf": "翼星求生 下载 | v3.0.30.158174 ICARUS | 集成全DLC | 49.9GB 官中解压即玩",
+  "dl": [
+    "Icarus: New Frontiers Expansion",
+    "Icarus: Holdfast Outpost",
+    "Icarus: Iceholm Outpost",
+    "Icarus: Styx Expansion",
+    "Icarus: Interior Decorations Pack",
+    "Icarus: Tecton Outpost",
+    "Icarus: Everbark Outpost",
+    "Icarus: Cactus Outpost",
+    "Icarus: Arcticus Outpost",
+    "Icarus: Industrial Furniture Pack",
+    "Icarus: Art Deco Furniture Pack",
+    "Icarus: Creature Comforts Pack",
+    "Icarus: Pet Companions Pack",
+    "Icarus: Zebra Rescue Mission",
+    "Icarus: Matariki Mission",
+    "Icarus: Great Hunts Campaigns",
+    "Icarus: Frostfall Outpost",
+    "Icarus: Aquatica Isle Outpost",
+    "Icarus: Dangerous Horizons Expansion（新增）"
+  ],
+  "bl": "https://store.steampowered.com/app/1149460/_ICARUS/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10 (64-bit versions)",
+    "处理器": "Intel i5 8400",
+    "内存": "16 GB RAM",
+    "显卡": "Nvidia GTX 1060 6GB",
+    "DirectX 版本": "11",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 70 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_71323ca651735d89764fa9e62c5d1756a9b64d4f.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_aa5a09717e6432d3bd61e6d7b20ac622c6f27502.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3364360/e7604432d3c4049ce19802eba639b3807409845f/ss_e7604432d3c4049ce19802eba639b3807409845f.1920x1080.jpg?t=1764892671",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_c7178f83bce2cff9872632ec9bc83da9daf11355.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_639d27fd3e963f7713db60b353ad1f5d1c3559b9.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_0a6be800d054e0715084abd6ad893184b4b35ec4.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_562383a9069bf6f16fac8b158a287b1f184dae08.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_30a7f2080502fc1dd801195875f6040c90321dce.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_a5acdbe4baacd87e75ccc5666ca610a4892cb5a9.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_08ebc715b3c3ba231dd6168abd9bb24fb48322fb.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_dbac63f61c41aaeedc7cf205cfb2d027f5601fc5.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_575ee577c444afc65f8bbf8f7f18d705eacbca15.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_d9da7ae25c3675277b9982cef8180469cb5081c4.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_ea75b5076ae031f2a39ee4d5d0448d70ea8e54ed.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/ss_30776e22c695c02c12a2bb28967e3dae52615e39.1920x1080.jpg?t=1764892501",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3364360/a64fc67d03825eb8c3b68951e76593bba861f53a/ss_a64fc67d03825eb8c3b68951e76593bba861f53a.1920x1080.jpg?t=1764892671",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3364360/6a56767c843325d4e29f35052ac4795d3b9ae785/ss_6a56767c843325d4e29f35052ac4795d3b9ae785.1920x1080.jpg?t=1764892671",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3364360/b34a417878e99b70fc4d53688c382c198dd5e6f5/ss_b34a417878e99b70fc4d53688c382c198dd5e6f5.1920x1080.jpg?t=1764892671"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1149460/header_schinese.jpg?t=1772745915",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/4865458cf1f6",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F4865458cf1f6",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VODdwk5PSxw4BNDNl39f47CjA1?pwd=cc93",
+      "pwd": "cc93",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1xzAnznklisvWDvYXC4ol4A?pwd=tuwa",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1xzAnznklisvWDvYXC4ol4A%3Fpwd%3Dtuwa",
+      "pwd": "tuwa",
+      "gi": 2
+    }
+  ]
+}

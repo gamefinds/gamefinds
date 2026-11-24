@@ -1,0 +1,101 @@
+{
+  "u": "https://www.steambk.com/7143.html",
+  "t": "静脉（VEIN）v0.024.Hotfix2 免安装中文版下载",
+  "id": 7143,
+  "sg": "更新",
+  "tm": "2026-06-23",
+  "ct": "PC游戏",
+  "sub": "恐怖惊悚",
+  "tags": [
+    "僵尸",
+    "开放世界",
+    "探索",
+    "生存"
+  ],
+  "sz": "70GB",
+  "rt": "特别好评",
+  "ver": "v0.024.Hotfix2",
+  "rdate": "2025 年 10 月 24 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/1857950/857006810/7fb3676a05f8500bfa24b0ff57fe16a49f62e004/1751039254/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "VEIN是一款后末日生存多人沙盒游戏。收集物资以求生存，探索废弃建筑，保卫你的家园，并重建社会，无论是独自一人还是与朋友一起。",
+  "pt": "",
+  "un": "2026年6月20日，本次 VEIN 0.024 Hotfix 2 版本补丁完成大量网络、画面、玩法、道具、建筑、操控与稳定性修复及功能优化：优化尸体、玩家组队相关网络同步逻辑，修复光照、家具摆放、物品判定、容器容量、刷新、流体混合、碰撞伤害、界面显示、多人交互、存档加载等各类 bug，削弱速刷、刷物资等游戏漏洞；调整肾上腺素狂人天赋强度，优化工作台搜索栏、按键图标、喷漆音效等交互细节，锯木厂开放建造并修复其损毁消失问题，密码锁新增 5 秒冷却，掉落野外物品默认 2 小时后自动清除且支持参数自定义；升级 DLSS 至 4.5，新增手柄 UI 控制台指令、手柄界面导航前期开发内容，新增模组安装检测弹窗提示，完善主机手柄轮盘菜单操控问题，补充弹药管理员指令、钥匙复制负重判定相关逻辑，同时修复大量崩溃问题。\n2026年6月3日，本次 VEIN 0.024 Hotfix1 补丁针对游戏多人、单机、道具、载具、建筑、植物、音效、操作设置、性能及地图等多方面进行漏洞修复与优化：修复多人联机载具物件脱落、睡眠全局跳时、线路界面断开按钮失效、载具异常消失与音量过高等问题，修正药品无法使用、容器移位后自动上锁、熔炉素材异常、火柴拆解产出错误、室内商铺漏雨、植物异常复生与生长速率失衡、外接设备及电池供电充能故障等 BUG，完善手柄 / 掌机按键设置菜单、屏蔽单人模式机器人指令、修正单人管理员全图显身、菜单筛选异常留存等设定，补充异常物品生成日志并精简冗余日志，补齐 DLSS 相关文件、优化交互系统运行效率，同时修缮房屋门窗模型、富兰克林郡相关内容及多处美术瑕疵。\n2026年3月18日，本次《VEIN》热修复 2 更新主要优化了崩溃报告系统并修复大量崩溃问题，改进按键显示底层逻辑以支持后续自定义手柄图标显示；修复物品变体加载异常问题，拆解枪械可返还子弹；管理员区域新增排除僵尸、动物生成功能，上帝模式可无视权限区域限制放置物品与移动家具；修复多人模式下手榴弹、AT4 炮弹不爆炸及学校投影仪存档加载异常等 BUG，同时调整织物柔顺剂瓶等部分瓶类物品的重量设定，使其符合现实逻辑。",
+  "vf": "静脉 下载 | v0.024.Hotfix2 VEIN | 70GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/1857950/VEIN/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10",
+    "内存": "12 GB RAM",
+    "显卡": "NVIDIA RTX 2060 or equivalent",
+    "DirectX 版本": "12",
+    "存储空间": "需要 60 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/4cf2ffb8af7825c85d05e8a23487d931c1cb43a7/ss_4cf2ffb8af7825c85d05e8a23487d931c1cb43a7.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/85a5497dd8a19f3f8c8def786914299382d8ebb6/ss_85a5497dd8a19f3f8c8def786914299382d8ebb6.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/2769f4bc3a669f24d6a445de16a2a6f4515d0cef/ss_2769f4bc3a669f24d6a445de16a2a6f4515d0cef.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/e2c2e1f3a9e6e50f4f20bb7d1563aa0d113e557c/ss_e2c2e1f3a9e6e50f4f20bb7d1563aa0d113e557c.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/05d559ad45f0ace5f6b7ec382ea1259ce0db960a/ss_05d559ad45f0ace5f6b7ec382ea1259ce0db960a.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/c127178b04634c260eafa544d6b5ded43bca7eb6/ss_c127178b04634c260eafa544d6b5ded43bca7eb6.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/7fdd53c3652f3136db1a82c9b3ded71be79e16f5/ss_7fdd53c3652f3136db1a82c9b3ded71be79e16f5.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/a7226f0f60e131f06e5fb0be05a0660b9031f199/ss_a7226f0f60e131f06e5fb0be05a0660b9031f199.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/eb85de225eda06410209a740006a6cb4891e0ed3/ss_eb85de225eda06410209a740006a6cb4891e0ed3.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/886bccc5c089cc6627964c8d8c37d6a57599be0a/ss_886bccc5c089cc6627964c8d8c37d6a57599be0a.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/bd9d24df7c8a1c692a34960501eda9f0cd03d5d9/ss_bd9d24df7c8a1c692a34960501eda9f0cd03d5d9.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/fd45f78dd051e767a35d27be09d53edf3dce7e0a/ss_fd45f78dd051e767a35d27be09d53edf3dce7e0a.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/1586622be2cbd1cd4e9af9354ccc34b0171c3c34/ss_1586622be2cbd1cd4e9af9354ccc34b0171c3c34.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/72c36afe89e740c8ca65101db5f8c30ea8017d44/ss_72c36afe89e740c8ca65101db5f8c30ea8017d44.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/709d525516dab5dfda3dae811107518445a7f81b/ss_709d525516dab5dfda3dae811107518445a7f81b.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/956e1ccdaff5ba075e0fd5327685e191fcc4ef84/ss_956e1ccdaff5ba075e0fd5327685e191fcc4ef84.1920x1080.jpg?t=1774253866",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/90b424a20001e507b2baa98045050c4acfbaf02a/ss_90b424a20001e507b2baa98045050c4acfbaf02a.1920x1080.jpg?t=1774253866",
+    "https://s1.imagehub.cc/images/2026/03/25/0a1b5159349227d3f944c3e0701b5c2a.jpg"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1857950/header.jpg?t=1774253866",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/3372107d461e",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F3372107d461e",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOcZ2iYKcb8Ebx45rDVR4PNxA1?pwd=q62j",
+      "pwd": "q62j",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1uMsuMSHfpXI2Z6DthujF4w?pwd=x8rg",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1uMsuMSHfpXI2Z6DthujF4w%3Fpwd%3Dx8rg",
+      "pwd": "x8rg",
+      "gi": 2
+    }
+  ]
+}

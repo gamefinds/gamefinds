@@ -1,0 +1,88 @@
+{
+  "u": "https://www.steambk.com/1584.html",
+  "t": "戴森球计划（Dyson Sphere Program）v0.10.35.29104 免安装中文版下载",
+  "id": 1584,
+  "sg": "更新",
+  "tm": "2026-10-09",
+  "ct": "PC游戏",
+  "sub": "益智休闲",
+  "tags": [
+    "建造",
+    "沙盒",
+    "科幻",
+    "管理",
+    "自动化"
+  ],
+  "sz": "4.62GB",
+  "rt": "好评如潮",
+  "ver": "v0.10.35.29104",
+  "rdate": "2021 年 1 月 21 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/1366540/311374/8bb432a196e5ff651e01b4b41dd699fb30631e7b/1750678726/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "浩瀚无垠的宇宙，未知的征程，作为戴森球计划的一名工程师，你将前往陌生的星系，建造戴森球。从一无所有白手起家，采集资源，规划设计生产线，逐步实现全自动化，将你的工厂从一个小作坊，发展成为庞大的跨星系工业帝国。探索未知的星球，发现珍奇，让你的足迹遍布星辰大海。",
+  "pt": "",
+  "un": "2026年9月24日，本次 V0.10.35.29088 版本更新，针对已上线的植被移植与地形还原功能进行多项调整与 BUG 修复：调整地形还原模式光标颜色，将射线接收站引力透镜最大自动缓存由 20 下调至 10；修复存档加载时引力透镜余量不足 1 个导致增产等级计算报错、新游戏回收空投仓物资种类数量异常、气态行星点击地形还原按钮后按钮错误高亮这三处问题。\n2026年9月23日，本次《戴森球计划》V0.10.35.29057 版本更新，上线环境改造类的植被移植与地形还原功能，清理得到的岩石植被可回收复用，也能把改造地形恢复为原生地貌；新增黑雾引力透镜及配套科技配方，优化行星视图操作、科技树导航、开局天体命名等多项功能，扩充快捷键、排序与拾取筛选等设置选项，调整原油生成、传送带建造、分拣器显示等游戏机制，同时修复蓝图、地形、UI、物流设施等多处 BUG，另外官方说明载具与空间站组成的创建系统仍在开发，受开发模式影响后续内容更新节奏会放缓。\n2026年4月27日，《戴森球计划》V0.10.34.28524 版本更新，新增全息信标的黑雾投放信标功能（仅战斗模式生效），开启后黑雾巢穴会向该信标位置派遣中继站，使用需保证信标持续供电，且可见性设置至少为本星系。\n2026年3月12日，本次 V0.10.34.28485 版本更新，新增恒星（行星系）信息面板备忘录设置功能，追加 3 首战斗情境背景音乐（播放逻辑随战斗情况与历史频率动态调整，可在设置中开关）；优化带撤销功能输入框在连续输入非拉丁字符时撤销 / 重做操作手感；修复工作状态研究站取消任务后表现异常的问题。\n2026年2月6日，本次《戴森球计划》V0.10.34.28455 版本更新，主要新增设置数据复制、全息信标与流速监测器联动、输入框快捷键等功能；优化文本图标选择、分馏塔碰撞、颜色选择界面及研究取消提示；同时修复全息信标、图标显示、分拣器运力、存档兼容、界面交互等多项 BUG。",
+  "vf": "戴森球计划 下载 | v0.10.35.29104 Dyson Sphere Program | 4.62GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/1366540/_/",
+  "sr": {},
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_7886f76352c9e2bf2bf2fe74434b8a50bb3312d3.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_ca1c8ba11e539cbeb8f4d91f6685b0fa01ddf705.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_a71196b1ed88c8157a052aa5bf2cbb41a0970fde.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_36242c2930a50355982a0da128f37e23e25a1047.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_602b6ca003277c4a70f63bd723a494a5558e1aee.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_7b635ae1ca6d88b52fca183407f06cfd94850b26.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_b5fdcae44ab61e86820d156a74bd030b4782b8a8.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_475933730894ab89e3a8b961f8fc18399ee2a1df.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_995e50fbac3e936624d0bd4d1493140f77f78d11.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_1b22058e7b58db0f2d9770757974af6a7fb719c0.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_9e06789bd41f956531e946597c81d57fce862ad4.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_da7276928ed645446501c3465ec0aaeb24998826.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_5a7b3dac5064a6ac09ddef5d9554987b47fa4fbe.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_1f699b2ba7ce5025064050cf5498f6a576b89d31.1920x1080.jpg?t=1765532615",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/ss_23c17fdd4a2ab51f48d7c2a64cdde92104dbac99.1920x1080.jpg?t=1765532615"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1366540/header_schinese.jpg?t=1776523171",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/4bf18824eed7",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F4bf18824eed7",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VO609ApHAzCuq-bZgIYYBQKLA1?pwd=yxpw",
+      "pwd": "yxpw",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1p2Lh_DCm8osDWuGhZ2tqjA?pwd=4i3p",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1p2Lh_DCm8osDWuGhZ2tqjA%3Fpwd%3D4i3p",
+      "pwd": "4i3p",
+      "gi": 2
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "u": "https://www.steambk.com/16002.html",
+  "t": "终落之城（ALL WILL FALL）v1.4.2f1 免安装中文版下载",
+  "id": 16002,
+  "sg": "更新",
+  "tm": "2026-09-28",
+  "ct": "PC游戏",
+  "sub": "模拟经营",
+  "tags": [
+    "末日",
+    "沙盒",
+    "自动化"
+  ],
+  "sz": "5.41GB",
+  "rt": "特别好评",
+  "ver": "v1.4.2f1",
+  "rdate": "2026 年 4 月 3 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2706020/1954613212/ab3e91d01f17db453395f183f000598e184294af/1775222504/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "在这款末日废土生存殖民地模拟游戏中，建造庞大的海上城市，带领你的人民走向繁荣。游戏拥有基于物理的3D建造系统、复杂的资源管理、探索、艰难的政治抉择、供应链体系以及强大的沙盒模式。",
+  "pt": "",
+  "un": "2026年9月26日，本次 1.4.2 版本补丁带来大量优化与问题修复：调整水体接收器执行时机，修复存档 ID 重复、加载后市民布娃娃异常、地面阴影过黑等存档与场景 bug；优化事件系统，修正事件判定、提示显示与文本，调整事件列表默认选项；改动建筑生产增益机制，反转工作速度效果并补充提示栏说明，新增科技对建筑属性的提示、建筑资源吞吐的生产时长显示；优化建造与采集点位判定，混凝土楼梯可被采集，移除环境路径与楼梯的体素清除限制；修复旧存档、沙盒 / 全新开局场景地形高度问题，升级旧存档数据；优化船只航行节点、压力数据存储等性能，同时修正流浪商人研究池、悬浮建筑建造规则、网络塔事件计数、流民身份等各类逻辑漏洞。\n2026年6月16日，本次小型补丁主要完成多项漏洞修复与功能优化：修正起重机建造范围提示、建筑事件空白提示文本问题，解决阴影代理临时任务、居民寻路请求两类内存泄漏故障；高度计量数值统一取 0.5 为单位取整，新增 Ctrl + 滚轮调节高度计量的操作方式并在提示栏补充按键说明；同时开放现代公寓残骸的资源采集功能。\n2026年5月27日，5 月 27 日更新的 1.1.3 版本补丁以问题修复与内容优化为主：修正多项进度检测事件、钻井平台地图船只刷新、高级船只吊机动画、树木增益范围偏移、资源数值显示异常等 bug，同时关闭主菜单内壁炉音效；新增脚手架涂装功能与推进器动画。\n2026年5月21日，本次 1.1.1 版本更新优化多项游戏细节，移除低矮植物对建筑搬迁的阻挡，调整音效音量并新增环境天气音效；更改音乐加载方式为流式播放，修复市民睡眠后身份卡死问题；工坊物品界面改为按热度排序，修正正数浮动资源数值显示问题，完善自定义剧情地图初始配置，同时优化热带岛屿树木爆破事件判定逻辑，官方也呼吁玩家持续反馈游戏漏洞。\n2026年4月17日，1.0.15 版本更新主要针对市民系统进行优化，通过并行计算提升市民移动运算性能，修复市民卡入水中、建筑工人在危险区域未撤离、洪水建筑仍提供休闲教育服务等问题，调整涡轮机碰撞体、管道容量计算逻辑，优化摄像机缩放与平滑移动等操作体验，新增生产建筑暂停功能；同日推送的 1.0.15f3 与 f4 热修复则解决了场景选择无继续按钮、事件异常、内存泄漏、buff 界面响应延迟、建筑生产卡死及撤销、存档加载崩溃等漏洞。\n2026年4月6日，本次游戏发布 1.0.7 与 1.0.8 版本热修复补丁，主要针对崩溃、性能、关键 BUG 及翻译缺失问题进行优化，具体内容如下：修复撤销坍塌后错误提示刷屏、可采集物被摧毁后仍残留数据导致报错崩溃、局外人事件人数统计错误等问题；调整接雨器、浮渣自动采集优先级与建筑列表，修正希望灯塔文本错误；优化失事船只拆除、高消耗建筑建造数量、市民建筑列表与特殊办公楼平衡；1.0.8 版本进一步修复船只员工分配内存、管道网络建筑识别、码头储水异常、船只删除及浮渣无法采集等 BUG，建议玩家通过游戏内反馈工具上报问题。",
+  "vf": "终落之城 下载 | v1.4.2f1 ALL WILL FALL | 5.41GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/2706020/_/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Win 10 x64",
+    "处理器": "Ryzen 5 3600, i5 12400",
+    "内存": "16 GB RAM",
+    "显卡": "GTX 1660 Super",
+    "DirectX 版本": "11",
+    "存储空间": "需要 5 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/d1e278571808edec7310ff5f8129723f47b7ba30/ss_d1e278571808edec7310ff5f8129723f47b7ba30.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/591dd1be03d626cfd0aa8da3b38441627f93df0a/ss_591dd1be03d626cfd0aa8da3b38441627f93df0a.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/de86586534c6b13312e8af67f752a2877b6291dd/ss_de86586534c6b13312e8af67f752a2877b6291dd.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/69e49100cecc7d2e61ec4e230b6b6c57e3e65056/ss_69e49100cecc7d2e61ec4e230b6b6c57e3e65056.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/0982fa6ceceb31c26a614cef40a1c4b29a277f09/ss_0982fa6ceceb31c26a614cef40a1c4b29a277f09.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/b0148b697f8b7b01fdb1acbb5133dfc91b20fd49/ss_b0148b697f8b7b01fdb1acbb5133dfc91b20fd49.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/d3562b448e1c788254934cb2588c92ab7453541c/ss_d3562b448e1c788254934cb2588c92ab7453541c.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/3639c24748b05ca26b8acc66fc425b8ea4562d2c/ss_3639c24748b05ca26b8acc66fc425b8ea4562d2c.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/4bdeceeaaa5a007a0a4bcecd680063130ae5ca5a/ss_4bdeceeaaa5a007a0a4bcecd680063130ae5ca5a.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/d18aa9e09adf230919243b8b1329ba42259f9121/ss_d18aa9e09adf230919243b8b1329ba42259f9121.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/46c5dd09262153cd86df9422a6018b1774a2493c/ss_46c5dd09262153cd86df9422a6018b1774a2493c.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/9775406932bb6b037c5192e49dae56331d3236c7/ss_9775406932bb6b037c5192e49dae56331d3236c7.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/0e347cd55771f43bfc8302a4221d54beb1c2b64b/ss_0e347cd55771f43bfc8302a4221d54beb1c2b64b.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/fc85d4117a9b6546b6021b8f06580ba47fee54e9/ss_fc85d4117a9b6546b6021b8f06580ba47fee54e9.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/30a4c603131756de059a39373b566ad44f6b67c6/ss_30a4c603131756de059a39373b566ad44f6b67c6.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/6f1aa2e3cab9eec484a5b8c23e42dbff6aa55a39/ss_6f1aa2e3cab9eec484a5b8c23e42dbff6aa55a39.1920x1080.jpg?t=1775261438",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/340614425ea7237dfdc914e61500f6721f428046/ss_340614425ea7237dfdc914e61500f6721f428046.1920x1080.jpg?t=1775261438"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2706020/header_schinese.jpg?t=1789227391",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/e2ca9724036d",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fe2ca9724036d",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOpMDyI4Q8q7p7txIzE8CPdZA1?pwd=ipzg",
+      "pwd": "ipzg",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1T2sZ7ihVI4jH0nQxCyMiYw?pwd=t67n",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1T2sZ7ihVI4jH0nQxCyMiYw%3Fpwd%3Dt67n",
+      "pwd": "t67n",
+      "gi": 2
+    }
+  ]
+}

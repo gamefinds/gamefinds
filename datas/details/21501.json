@@ -1,0 +1,92 @@
+{
+  "u": "https://www.steambk.com/21501.html",
+  "t": "怪奇漫游指南（Wonderia）v0.5.20.2287 免安装中文版下载",
+  "id": 21501,
+  "sg": "更新",
+  "tm": "2026-08-17",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "探索",
+    "沙盒",
+    "生存",
+    "程序生成"
+  ],
+  "sz": "2.97GB",
+  "rt": "特别好评",
+  "ver": "v0.5.20.2287",
+  "rdate": "2026 年 7 月 23 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2593340/32086034/40d94ac96b21e4933f1a78cd7f987ceeb34c5012/1782978475/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "“怪奇漫游指南”是一款复古漫画风格的开放世界沙盒游戏，适合1-8名玩家探索畅玩。融合了科幻生活模拟+地下城冒险，还能变身可爱的外星怪物！采矿、制造、战斗，升级……亦可躺平种田，泛舟垂钓，为古怪的星际漫游者建造家园，以及更多惊喜等你发现！",
+  "pt": "",
+  "un": "2026年8月17日，v0.5.20 Hotfix（8 月 17 日周一）更新优化单机暂停机制，开启对应选项后，单机模式下打开地图、天赋、指南界面可暂停游戏，暂停时依旧支持地图拖拽缩放，对话暂停功能已记录需求暂未实装；同时修复多项 bug：解决联机狼兔搬运生物出现生物重复、随机消失故障，修正回旋镖、拳套手枪、纷争解决枪流派识别错误，使其正确享受近战相关加成与近战学院经验，修复举盾打断装备动作、材料学院累计加成说明显示异常问题，并统一部分物品与设置界面文本。\n2026年7月26日，本次双版本热修复更新，v0.5.8.2135 解锁绷带制作功能，优化游戏运行稳定性并修复各类已知 BUG；后续 v0.5.8.2140 追加专项修复，重点解决多人联机中遭石头怪攻击后客户端闪退、角色死亡掉落背包丢失的严重故障。",
+  "vf": "怪奇漫游指南 下载 | v0.5.20.2287 Wonderia | 2.97GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/2593340/_Wonderia/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10 64-bit",
+    "处理器": "Intel Core i5-2300 / AMD Ryzen 3 1200",
+    "内存": "8 GB RAM",
+    "显卡": "GeForce GTX 460 / Radeon HD 5850",
+    "存储空间": "需要 3 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/1fd39fb5a1d900de65da2f5a3770bab2fe083173/ss_1fd39fb5a1d900de65da2f5a3770bab2fe083173.1920x1080.jpg?t=1784789751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/bffbbbb98995837a3838a542e9279adaf6966799/ss_bffbbbb98995837a3838a542e9279adaf6966799.1920x1080.jpg?t=1784789751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/eaca484078d6fb4dc1be63075cbea8aaa846686e/ss_eaca484078d6fb4dc1be63075cbea8aaa846686e.1920x1080.jpg?t=1784789751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/5f685eb9153c1f147e77672a14cff33f6759df1d/ss_5f685eb9153c1f147e77672a14cff33f6759df1d.1920x1080.jpg?t=1784789751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/ss_caf90136ac521236313dc5a5f24fdd35f0c470bb.1920x1080.jpg?t=1784789751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/35857005cf6e1fff815b8081ca46f3a65d142fa3/ss_35857005cf6e1fff815b8081ca46f3a65d142fa3.1920x1080.jpg?t=1784789751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/a1309243a240b82f2374e3518683f5eb3ba769eb/ss_a1309243a240b82f2374e3518683f5eb3ba769eb.1920x1080.jpg?t=1784789751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/101d98811ac05a43cce29a2ab3fb8380da9a2bb4/ss_101d98811ac05a43cce29a2ab3fb8380da9a2bb4.1920x1080.jpg?t=1784789751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/ss_422f6b1a223ee6dd7bb4987fb178cb79374323a0.1920x1080.jpg?t=1784789751"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2593340/33ef8a7bfdddaf85370feacb81c8a37afa1789f0/header_schinese.jpg?t=1785405495",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/bc37347f1a8c",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fbc37347f1a8c",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOyD8priOHK1qsU8HUzYrmmrA1?pwd=kvde",
+      "pwd": "kvde",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1XaBHLpXk5L0iFWmkNBIuaA?pwd=ircb",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1XaBHLpXk5L0iFWmkNBIuaA%3Fpwd%3Dircb",
+      "pwd": "ircb",
+      "gi": 2
+    }
+  ]
+}

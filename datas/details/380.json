@@ -1,0 +1,88 @@
+{
+  "u": "https://www.steambk.com/380.html",
+  "t": "使命召唤4：现代战争重制版（Call of Duty 4：Modern Warfare Remastered）v1.13+v1.15 免安装中文版下载",
+  "id": 380,
+  "sg": "已测试",
+  "tm": "2026-07-08",
+  "ct": "PC游戏",
+  "sub": "枪战射击",
+  "tags": [
+    "使命召唤",
+    "剧情",
+    "战争"
+  ],
+  "sz": "111GB",
+  "rt": "褒贬不一",
+  "ver": "v1.13+v1.15",
+  "rdate": "2017 年 7 月 28 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/393080/115526/8b7ccdb41f409bfa0250bb14fa550ef9f8d165c6/1750525075/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "《使命召唤：现代战争》作为史上口碑极佳的经典游戏之一重磅回归，本作采用纯正高清画质重制，优化了纹理贴图，搭载基于物理的渲染技术、高动态范围光照等多项升级内容。",
+  "pt": "",
+  "un": "",
+  "vf": "使命召唤4：现代战争重制版 下载 | v1.13+v1.15 Call of Duty 4：Modern Warfare Remastered | 集成存档&修改器 | 111GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered_2017/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统 *": "Windows 7 64-Bit or later",
+    "处理器": "Intel Core i3-3225 @ 3.30GHz or equivalent",
+    "内存": "8 GB RAM",
+    "显卡": "NVIDIA GeForce GTX 660 2GB / AMD Radeon HD 7850 2GB",
+    "DirectX 版本": "11",
+    "网络": "宽带互联网连接",
+    "声卡": "DirectX 11 Compatible",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/393080/ss_baab41763828721dd15f6dcba7c860b091a732ed.1920x1080.jpg?t=1780963789",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/393080/ss_2b4d64fa2d2bf220b977313d0dfddc8cdb2a69d8.1920x1080.jpg?t=1780963789",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/393080/ss_1a25c64a4859259891d17b1d9f61565464d8371c.1920x1080.jpg?t=1780963789",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/393080/ss_e038703be57131b2a3535015dadcba7e603e7baf.1920x1080.jpg?t=1780963789"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/393080/header.jpg?t=1780963789",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/0dbd56004b0b",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F0dbd56004b0b",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOwzF1UqAkfJmIoRrfzsli_UA1?pwd=mcjc",
+      "pwd": "mcjc",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1hpvBT7gqlWNEfKorNFz3zA?pwd=g1jj",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1hpvBT7gqlWNEfKorNFz3zA%3Fpwd%3Dg1jj",
+      "pwd": "g1jj",
+      "gi": 2
+    }
+  ]
+}

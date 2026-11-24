@@ -1,0 +1,88 @@
+{
+  "u": "https://www.steambk.com/8810.html",
+  "t": "传染病（Contagion）免安装中文版下载",
+  "id": 8810,
+  "sg": "更新",
+  "tm": "2025-12-17",
+  "ct": "PC游戏",
+  "sub": "恐怖惊悚",
+  "tags": [
+    "僵尸",
+    "末日",
+    "生存"
+  ],
+  "sz": "15.9GB",
+  "rt": "特别好评",
+  "ver": "v2.3.0.1.7",
+  "rdate": "2014 年 4 月 14 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/238430/415814/81db5cd802be2dce2e6b00ebe36b33a542373bf0/1750483378/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "《传染病（Contagion）》并不是那种无脑爽快型的僵尸射击游戏，而是采用了更加写实、生存向的设计思路。游戏内置随机系统，每一局的资源分布、目标位置、行动路线都可能发生变化，大幅提升了重复游玩的新鲜感。\n丧尸并非高速狂奔的怪物，而是传统意义上的“行尸走肉”——行动缓慢，但数量多、压迫感极强，想真正放倒它们，往往需要精准爆头或持续火力输出。配合真实的音效与血腥断肢系统，整体氛围非常沉浸。\n游戏提供了丰富的生存装备，包括枪械、近战武器、爆炸物、工具和支援道具等，玩法上既支持合作求生，也有对抗、撤离、营救等多种模式可选。本页面提供的是《传染病》免安装版游戏下载资源，解压即可体验完整内容，适合喜欢紧张生存体验的玩家入坑。",
+  "pt": "",
+  "un": "11 月 9 日（周日）发布的 2.3.0.1.7 版本小型更新，主要包含地图优化与漏洞修复两方面内容：地图层面，对 ce_laststop 系列（08、09、06）、ce_downtown_02、ce_montclair、chm_losmuertos、chm_barlowesquare 等多幅地图进行调整，涉及电梯功能修正（如 08 地图修复 Akira 电梯、09 地图设为损坏并改为步行上楼）、物体生成问题解决、灯光属性调整、导航与碰撞优化、门体状态修复等；漏洞修复层面，解决了 “cg_” 控制台指令重置、武器 / 弹药发光异常、僵尸 AI 卡顿、Barlowe 战役导航网格错误、匹配系统无法连接主服务器、僵尸破门致服务器崩溃及客户端崩溃漏洞等问题。",
+  "vf": "",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/238430/_/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows® 10 (64-bit)",
+    "处理器": "2.4 GHz Intel Dual Core Processor",
+    "内存": "8 GB RAM",
+    "显卡": "DirectX® 9 compatible video card with 512 MB, Shader model 3.0. ATI X1600, NVidia 7600 or better",
+    "DirectX 版本": "9.0c",
+    "存储空间": "10 GB HDD Space",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_fa25d32350161367c0dc7411ec5ec1b8bfa5cef0.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_5ae7d7425c22a70c5c1ba163ccd677525813eaab.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_00a8e871689c243c4fde6b66f9355939fe536029.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_9a2d0a6cdf1419497a6679e9b142129656cb02d8.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_8ea06ff52f1c9238010ddac34f0b589287e0ae57.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_f24d66a811d0f1c0e228bbdacc504be60eef8799.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_9ab2b3f027786221912c00c7ada5af270d6f1d55.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_b96fecbec998a3997d9aadca821ea3c659aad8cb.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_3e425aff6b3da0e8d38ee4f4345c4bacadaecb73.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_0ebd633ca3fcd87e60067d0315a483b0b515b3cf.1920x1080.jpg?t=1746934221",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/ss_c08b25d2a26a4a515db24b9c643d0f73f8292380.1920x1080.jpg?t=1746934221"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/238430/header_schinese.jpg?t=1746934221",
+  "db": {
+    "ds": [],
+    "note": "快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/cd0df83c620a",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fcd0df83c620a",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VO1JMIfg76ruzhfELKCGVNqNA1?pwd=86fr",
+      "pwd": "86fr",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1wXto4Z4NxvJyWqYqFuz-eQ?pwd=mpc4",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1wXto4Z4NxvJyWqYqFuz-eQ%3Fpwd%3Dmpc4",
+      "pwd": "mpc4",
+      "gi": 2
+    },
+    {
+      "pan": "移动",
+      "share_url": "https://yun.139.com/shareweb/#/w/i/2rJV8pwSEPNva",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fyun.139.com%2Fshareweb%2F%23%2Fw%2Fi%2F2rJV8pwSEPNva",
+      "gi": 2
+    }
+  ]
+}

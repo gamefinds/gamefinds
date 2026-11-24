@@ -1,0 +1,92 @@
+{
+  "u": "https://www.steambk.com/20660.html",
+  "t": "游戏大亨：都市工作室（City Game Studio）v1.27.4 免安装中文版下载",
+  "id": 20660,
+  "sg": "更新",
+  "tm": "2026-07-03",
+  "ct": "PC游戏",
+  "sub": "模拟经营",
+  "tags": [
+    "管理",
+    "经济",
+    "重玩价值"
+  ],
+  "sz": "386MB",
+  "rt": "特别好评",
+  "ver": "v1.27.4",
+  "rdate": "2021 年 8 月 25 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/726840/715862995/9f5b5606ed95994a41009a0f613f13a144cb02ba/1777380774/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "您是电子游戏公司的创始人。起点由您决定：在车库里起步，或者放眼长远，直接购买第一个办公室。最终，您的决策将使工作室走向成功，并在电子游戏史上留下浓墨重彩的一笔。",
+  "pt": "",
+  "un": "2026年7月2日，本次更新优化了游戏内结局事件生成逻辑与头部竞品、企业榜单展示效果，同时修复多项 BUG：解决主机销量达特定阈值时无故暴跌、重复取消移植项目触发双份事件导致游戏崩溃、购入股票后竞品排序错乱的问题，还修正报表计税顺序错误（原计税前置工作室分成导致分成数值异常，旧报表不回溯修正，新报表计算逻辑恢复正常）。",
+  "vf": "游戏大亨：都市工作室 下载 | v1.27.4 City Game Studio: a tycoon about game dev | 386MB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/726840/_City_Game_Studio/",
+  "sr": {
+    "操作系统 *": "Windows Vista, 7, 8, 8.1, 10, 11",
+    "处理器": "单核",
+    "内存": "2 GB RAM",
+    "显卡": "OpenGL 3.0 (1280x720)",
+    "存储空间": "需要 512 MB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/ss_f6e35ebe69dcce66f042e58c03b4364fe0629226.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/ss_ca3bae42c03d23aef21a4f6d32c942cf44529bca.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/d10ef4960a6f73e0453bba1118cba78f547fdaf4/ss_d10ef4960a6f73e0453bba1118cba78f547fdaf4.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/ss_d35718c290ae6a96a879684396d43c12fa4237c5.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/6e1b4e0903e2769b6696928bf6433b93695ed9ab/ss_6e1b4e0903e2769b6696928bf6433b93695ed9ab.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/ss_ef94171eed7f2d7b06c4e13b7efc2c6379b986e1.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/ddc16ce741a9f52cba4c16b74b7e19fd678ac923/ss_ddc16ce741a9f52cba4c16b74b7e19fd678ac923.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/ss_1aab46954a5bc430afe012952e0fc155b79fedef.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/ss_c3448fe95d2980f7bd734dec097d3c3705852ebc.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/1c2b8b6f330654facaeb2b6b61502a0fbdfefa0f/ss_1c2b8b6f330654facaeb2b6b61502a0fbdfefa0f.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/ss_5293f367bd079f5cce0dc60639d019704c2e2d0b.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/ss_365a8c91d06194ec61a85c2a52f8316ac05e2af8.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/6a11db615facd8779dd839f54274a6a9994bfd6a/ss_6a11db615facd8779dd839f54274a6a9994bfd6a.1920x1080.jpg?t=1780998427",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/736941f5026c0468ddfc8a16718243c1dc6b9102/ss_736941f5026c0468ddfc8a16718243c1dc6b9102.1920x1080.jpg?t=1780998427"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/726840/c1845e0f55020a02c43a08af892c48386ced9c55/header_alt_assets_17.jpg?t=1780998427",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/f65fb829a519",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Ff65fb829a519",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VO-Z6XU4bw_m1DqEX1yaBVE_A1?pwd=mmhp",
+      "pwd": "mmhp",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1XIv2OhancZUeWvk8PY_cyA?pwd=pdbb",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1XIv2OhancZUeWvk8PY_cyA%3Fpwd%3Dpdbb",
+      "pwd": "pdbb",
+      "gi": 2
+    }
+  ]
+}

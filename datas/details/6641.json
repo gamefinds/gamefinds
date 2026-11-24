@@ -1,0 +1,61 @@
+{
+  "u": "https://www.steambk.com/6641.html",
+  "t": "亡者之地（The Land Beneath Us）免安装中文版下载",
+  "id": 6641,
+  "sg": "更新",
+  "tm": "2025-12-22",
+  "ct": "PC游戏",
+  "sub": "回合战棋",
+  "tags": [
+    "像素",
+    "探索",
+    "程序生成",
+    "迷宫"
+  ],
+  "sz": "1.54GB",
+  "rt": "多半好评",
+  "ver": "v1.8.5.3",
+  "rdate": "2024 年 5 月 13 日",
+  "vd": [
+    {
+      "u": "https://video.fastly.steamstatic.com/store_trailers/2131010/699898/0fc2db703a8edaf947a155bb0e0e99ca524cff5b/1751079926/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "",
+  "pt": "",
+  "un": "1.8.5.3 版本更新日志\n各位玩家好，本次带来《我们脚下的土地》1.8.5.3 版本更新，内含多重好消息！\n本次更新新增 “祝福与诅咒”（Blessing & Curse）礼包，可在完成主线剧情后解锁的 “魂晶商店”（Soul Shard Shop）中获取。此外，更新还加入了全新武器、 relic（遗物）、芯片（Chip）与高难度新任务，同时补充了全新动画效果，优化了游戏平衡与状态效果机制，并修复了大量漏洞以全面提升 gameplay（游戏体验）。目前开发团队还在推进 “续玩功能”（Resume feature）开发，该功能将允许玩家中途退出游戏后，下次登录时从上次退出节点继续游玩。\n一、新增内容\n• “祝福与诅咒” 礼包（需完成主线剧情解锁魂晶商店后获取）\n（1）武器（Weapons）\n武器名称 魂晶成本 基础描述 满级效果\n祝福武士刀（Blessing Katana） 20,000 魂晶 攻击 1 格范围内的敌人，随后移动至敌人身后格子；命中敌人时有 10% 概率获得随机增益效果，持续 3 回合 获得随机增益效果的概率提升至 20%\n祝福狙击枪（Blessing Sniper） 20,000 魂晶 攻击 5 格范围内的敌人，伤害随攻击距离变化；命中敌人时有 10% 概率获得随机增益效果，持续 3 回合 攻击范围从 5 格提升至 7 格\n诅咒狙击枪（Curse Sniper） 20,000 魂晶 攻击 7 格范围内的敌人，伤害随攻击距离与状态效果回合数变化；命中敌人时有 20% 概率获得随机增益效果（持续 2 回合） 新增 “诅咒” 机制：命中敌人时有 20% 概率获得随机减益效果，持续 2 回合\n（2）遗物（Relics）\n遗物名称 魂晶成本 稀有度 基础描述 强化后描述\n红色计数盒（Red Counting Box） 20,000 魂晶 史诗（Epic） 每拥有 1 种状态效果，暴击率 + 5%（当前状态效果种类：x 种，当前暴击率加成：+x%，上限：x%） 每拥有 1 种状态效果，暴击率 + 10%（当前状态效果种类：x 种，当前暴击率加成：+x%，上限：x%）\n黄色计数盒（Yellow Counting Box） 20,000 魂晶 史诗（Epic） 每拥有 1 种状态效果，闪避率 + 2.5%（当前状态效果种类：x 种，当前闪避率加成：+x%，上限：x%） 每拥有 1 种状态效果，闪避率 + 5%（当前状态效果种类：x 种，当前闪避率加成：+x%，上限：x%）\n橙色计数盒（Orange Counting Box） 20,000 魂晶 史诗（Epic） 每拥有 1 种状态效果，暴击伤害 + 2.5%（当前状态效果种类：x 种，当前暴击伤害加成：+x%，上限：x%） 每拥有 1 种状态效果，暴击伤害 + 5%（当前状态效果种类：x 种，当前暴击伤害加成：+x%，上限：x%）\n黑色计数盒（Black Counting Box） 20,000 魂晶 传说（Legendary） 提升其他计数盒的效果上限 + 10%；每拥有 1 种状态效果，基础伤害 + 1（当前状态效果种类：x 种，当前基础伤害加成：+x） 提升其他计数盒的效果上限 + 20%；每拥有 1 种状态效果，基础伤害 + 1（当前状态效果种类：x 种，当前基础伤害加成：+x）\n（3）芯片（Chips）\n芯片名称 魂晶成本 1 级描述\n随机增益（Random Buff） 20,000 魂晶 释放 “随机增益”：为自身施加 2 种随机增益效果，持续 2 回合\n快速推进（Fast Forward） 20,000 魂晶 释放 “快速推进”：立即重置所有芯片冷却与传送冷却\n消耗浪潮（Consume Wave） 30,000 魂晶 释放 “消耗浪潮”：清除自身所有增益与减益效果，每清除 1 层效果，对所有敌人随机造成 11-15 点伤害\n荣耀（Gloria） 30,000 魂晶 为自身释放 “荣耀” 效果，持续 3 回合：攻击时有 25% 概率获得 3 个灵魂（Soul）或魂晶（Soul Shard）\n• “勇猛 warrior 王” 任务（A Fierce Warrior King Quest）\n解锁条件：遭遇 Nuada（角色名，暂译 “努阿达”）\n任务目标：击败 Nuada\n任务奖励：解锁武器 “绯红燃烧之刃”（Crimson Burning Blade）\n武器描述：攻击 1 格范围内的敌人；每持有 3 个 “领主之魂”（Lord Soul），攻击时为敌人施加 1 层 “燃烧”（Burn）效果；并有 20% 概率消耗敌人身上的 “燃烧” 层数，每层造成 5 点伤害（当前施加燃烧层数：x 层）\n• 其他新增内容\n新增状态效果：“命中获魂概率”（Receive Souls Per Hit Chance）—— 攻击时有 x% 概率获得 3 个灵魂或魂晶\n新增 2 段 Sven（角色名，暂译 “斯文”）动画：使用 “枪械”（Gun）与 “狙击枪”（Sniper）射击的动作\n二、漏洞修复\n修复 “零式斯文”（Zero Sven）可能不生成的问题\n修复首领档案（Boss Archive）中 Nuada 头像显示错误的问题\n修复激活芯片时，“芯片模式”（Chip Mode）自动从 “手动”（Manual）切换为 “自动”（Auto）的问题\n修复遗物 “隐秘匕首”（Hidden Dagger）对首领无效的问题\n修复遗物 “努阿达之戒”（Nuada Ring）未按总伤害的 5% 回血的问题\n修复遗物 “阿达尔・卢赫之羽”（Adar Llwch Feather）在暴击时错误施加 “额外伤害”（Bonus Damage）状态效果的问题\n修复武器 “重击者”（The Basher）在单个回合内每次攻击都错误叠加 “额外伤害” 状态效果的问题\n修复移除 “挑衅面具”（Provoking Mask）后，未重置敌人伤害减免的问题\n修复 “雷霆”（Thunder）芯片施加的眩晕（stun）层数错误的问题\n修复 “爆炸”（Explosion）芯片显示错误图标的问题\n修复 “额外固定伤害”（Additional Flat Damage）在单个回合内被重复计算的问题\n修复使用 “消耗浪潮” 芯片时，永久状态效果被清除的问题\n修复强化 “免疫手环”（Band of Immunity）遗物后，“永久免疫”（Permanent Immunity）状态效果显示两个图标的问题\n修复部分状态效果图标显示数值错误的问题\n修复状态效果图标在生效后未禁用（显示失效状态）的问题\n修复切换至其他模式时，挑战条件未重置的问题",
+  "vf": "",
+  "dl": [],
+  "bl": "",
+  "sr": {},
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2131010/ss_d0c0a9c823218f5aa8dd6d58eacbe65282b4b50f.600x338.jpg?t=1753415512",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2131010/ss_189ed3775e105eeeab1f8ccdaf18801a5a1747be.600x338.jpg?t=1753415512",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2131010/ss_1573d5ae7d22a67999f489957d4a975e80944fc0.600x338.jpg?t=1753415512",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2131010/ss_081f8f99e863df12be8e6ea85770603fac7ac7a8.600x338.jpg?t=1753415512",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2131010/ss_cb917329913e6893407897437ada8eae3228a4cf.600x338.jpg?t=1753415512",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2131010/ss_a9a82712c9c96ec6f2df445b4d1a1ad085e596a8.600x338.jpg?t=1753415512",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2131010/ss_8d52d9d549116a93de292566c3bd164a040354c8.600x338.jpg?t=1753415512"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2131010/header_schinese.jpg?t=1753415512",
+  "db": {
+    "ds": [],
+    "note": "快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/712d3a4cd074",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F712d3a4cd074",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VNxuaiStZw64RqQGXiWTx-7aA1?pwd=e3jb",
+      "pwd": "e3jb",
+      "gi": 2
+    }
+  ]
+}

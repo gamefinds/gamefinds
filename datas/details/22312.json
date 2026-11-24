@@ -1,0 +1,88 @@
+{
+  "u": "https://www.steambk.com/22312.html",
+  "t": "磐石守卫（Stonewards）v0.2.2 免安装中文版下载",
+  "id": 22312,
+  "sg": "更新",
+  "tm": "2026-10-07",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "探索",
+    "生存",
+    "程序生成"
+  ],
+  "sz": "1.86GB",
+  "rt": "特别好评",
+  "ver": "v0.2.2",
+  "rdate": "2026 年 8 月 11 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/4502710/601002952/1f9ae712bfcda5564a573bded288bf1e4d0557d2/1785934513/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "矮人开战！Stonewards 是一款支持 1–4 人合作的第一人称 roguelite 防御游戏。带领一队倔强的矮人从你的大本营出发，援助附近的王国，深入地下采集资源，打造强大的升级，并坚守防线，抵御无情的怪物进攻。",
+  "pt": "",
+  "un": "2026年9月21日，Stonewards 抢先体验版推送 0.2.2 热修复更新，本次调整金币戒指倍率上限至 200 倍；修复多人对局重连进度保存、倒地复活触发游戏结束画面、佣兵 / 弩炮击杀金币归属等问题，伙伴新增金币掉落与暴击能力，修正投射物命中伙伴、伙伴越界索敌 bug；巧匠炸弹统一伤害计算逻辑，移除与可搬运物体的碰撞判定，同时解决部分敌人仅锁定房主的问题。\n2026年8月14日，《Stonewards》抢先体验版 0.1.5 热修补丁上线，本次更新在洞穴追加了可探索的故事页面，上调铁匠等级上限至 999 级，调整巧匠炸弹金币掉落量；修复多项任务逻辑、Steam 界面、资源提交交互、地牢地图边界、大门状态、弩炮升级数值显示等问题，同时新增卡死死亡玩家救援传送的临时选项，官方预告下周起将着手新增与优化游戏本体内容。",
+  "vf": "磐石守卫 下载 | v0.2.2 Stonewards | 1.86GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/4502710/_/",
+  "sr": {
+    "操作系统": "Windows (64-bit) 10",
+    "处理器": "Intel Core i5 @ 2.5 GHz or equivalent",
+    "内存": "8 GB RAM",
+    "显卡": "NVIDIA GTX 1060 / AMD RX 480",
+    "DirectX 版本": "11",
+    "存储空间": "需要 5 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/b53d325e1fa0feb617e60f1a15321a7608c29bb3/ss_b53d325e1fa0feb617e60f1a15321a7608c29bb3.1920x1080.jpg?t=1786461683",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/834418906ecb11422ff5a529c71843f55a75eafe/ss_834418906ecb11422ff5a529c71843f55a75eafe.1920x1080.jpg?t=1786461683",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/9e3a20d5498f75e3f43a0934358bf94cdf42fa70/ss_9e3a20d5498f75e3f43a0934358bf94cdf42fa70.1920x1080.jpg?t=1786461683",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/94140becb51ad6291fc1c4b4c2b2e1866cb9d9d5/ss_94140becb51ad6291fc1c4b4c2b2e1866cb9d9d5.1920x1080.jpg?t=1786461683",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/65256087a9f660ac7a029013ca249110d7f8ff12/ss_65256087a9f660ac7a029013ca249110d7f8ff12.1920x1080.jpg?t=1786461683",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/0619c734627c59bef2864105ccd7d855ad7e55f2/ss_0619c734627c59bef2864105ccd7d855ad7e55f2.1920x1080.jpg?t=1786461683",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/e7f9c83f91bd9563c1e3635bb55bfdd8ce099cba/ss_e7f9c83f91bd9563c1e3635bb55bfdd8ce099cba.1920x1080.jpg?t=1786461683",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/acb19589a4e5672ee5132328099ab48fb910cdd9/ss_acb19589a4e5672ee5132328099ab48fb910cdd9.1920x1080.jpg?t=1786461683",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/750ed9b5832a97d22b5316b9c23af35da8ee3824/ss_750ed9b5832a97d22b5316b9c23af35da8ee3824.1920x1080.jpg?t=1786461683",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/61bf0139768504de7d750e42e35dec158bf6a87f/ss_61bf0139768504de7d750e42e35dec158bf6a87f.1920x1080.jpg?t=1786461683"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4502710/c57ab526296dfdab54cbc5aa2b93bc1fb46f5acd/header.jpg?t=1789388340",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/cd778cd0920c",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fcd778cd0920c",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VP-4OGNMQmSOklT5Cjg0rFIBA1?pwd=28ai",
+      "pwd": "28ai",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1H826rxkgjoaxvT5LXtYajQ?pwd=r7sw",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1H826rxkgjoaxvT5LXtYajQ%3Fpwd%3Dr7sw",
+      "pwd": "r7sw",
+      "gi": 2
+    }
+  ]
+}

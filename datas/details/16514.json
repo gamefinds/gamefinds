@@ -1,0 +1,91 @@
+{
+  "u": "https://www.steambk.com/16514.html",
+  "t": "REPLACED v1.1.2.0 免安装中文版下载",
+  "id": 16514,
+  "sg": "更新",
+  "tm": "2026-05-24",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "像素",
+    "暴力",
+    "科幻",
+    "血腥",
+    "赛博朋克"
+  ],
+  "sz": "5.40GB",
+  "rt": "特别好评",
+  "ver": "v1.1.2.0",
+  "rdate": "2026 年 4 月 14 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/1663850/1058635122/203305213461b47021f256906e5786ead0c7b51a/1776162061/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "扮演R.E.A.C.H.，一个被迫困于人类躯体中的人工智能，揭露凤凰公司的险恶秘密。游戏背景设定在遭受核灾难重创的架空80年代美国。在这款融合了电影化探索与自由流畅动作玩法的剧情向2.5D平台游戏中，深入体验一段黑暗的赛博朋克惊悚故事。",
+  "pt": "",
+  "un": "2026年5月21日，5 月 21 日推送 1163 版本小幅漏洞修复更新，本次更新优化低配设备下的关卡进程与加载异常，修正多项成就统计失效问题，调整凤凰城部分平台关卡机制；玩家在平台场景可轻点、重击按键切换使用镐子，修复章节选择界面连按按键引发反复加载、拾取剧情物品后存档失效等偶发故障。\n2026年4月15日，本次 4 月 15 日 17:00（中欧夏令时）发布的 1080 更新主要修复多项问题与优化内容：修复僚机在亮度设置下使用快速水平滚动功能时出现的异常崩溃问题；解决关卡切换时主角 Reach 可能陷入死亡循环的罕见情况；修正开场动画中 Reach 身着外套时出现的悬空行走 BUG；提升首 BOSS 战后逃脱关卡的难度；优化僚机相关文本的本地化翻译，并进行部分轻微画面表现修复。",
+  "vf": "REPLACED 下载 | v1.1.2.0 | 5.40GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/1663850/REPLACED/",
+  "sr": {
+    "操作系统": "Windows 10 64-bit",
+    "处理器": "Intel® Core™ i5-8400 Processor",
+    "内存": "16 GB RAM",
+    "显卡": "GeForce GTX 1060 (6GB) or equivalent",
+    "存储空间": "需要 8 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/b6cd61c464ea2dfbd5ae1f306b986944911b21c6/ss_b6cd61c464ea2dfbd5ae1f306b986944911b21c6.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/a70da3ddecce98827ea3a5c05aa2817ff441d504/ss_a70da3ddecce98827ea3a5c05aa2817ff441d504.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/46e00a91460058c709af281240cfe26385467438/ss_46e00a91460058c709af281240cfe26385467438.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/433973ec3838085b46d3b3fe898811bd9d662a0d/ss_433973ec3838085b46d3b3fe898811bd9d662a0d.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/2cf7357ca43429277c123033bce947365b81b6fa/ss_2cf7357ca43429277c123033bce947365b81b6fa.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/6bd848bcf4f1ca78a0832df6896efedc019182e3/ss_6bd848bcf4f1ca78a0832df6896efedc019182e3.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/4ee52c5bee89ccfc6bfb2f774d4de7ac4e1df165/ss_4ee52c5bee89ccfc6bfb2f774d4de7ac4e1df165.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/09f80de553bc4fc150dbf342305a6f341f0539ff/ss_09f80de553bc4fc150dbf342305a6f341f0539ff.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/2452a3993530aaf226aff4824d81402e65047023/ss_2452a3993530aaf226aff4824d81402e65047023.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/dd7dbd7d02caaa9f6324be295133d763dbd70860/ss_dd7dbd7d02caaa9f6324be295133d763dbd70860.1920x1080.jpg?t=1776176956",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/f8988c9e73d4bd0d0bcdf4646f887daba31604d8/ss_f8988c9e73d4bd0d0bcdf4646f887daba31604d8.1920x1080.jpg?t=1776176956"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1663850/9079d7a26c8720ed0616f1bd7f912ccc22a535d4/header.jpg?t=1776176956",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/8bd163e6799f",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F8bd163e6799f",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOqE7NoLzJs2zJvpR1k3zMZ9A1?pwd=tmwv",
+      "pwd": "tmwv",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1GCVGP34hT7yKhowoFUVweA?pwd=8j9s",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1GCVGP34hT7yKhowoFUVweA%3Fpwd%3D8j9s",
+      "pwd": "8j9s",
+      "gi": 2
+    }
+  ]
+}

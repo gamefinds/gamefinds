@@ -1,0 +1,88 @@
+{
+  "u": "https://www.steambk.com/13350.html",
+  "t": "你有饼吗？（Omelet You Cook）v1.2.2 免安装中文版下载",
+  "id": 13350,
+  "sg": "更新",
+  "tm": "2026-07-04",
+  "ct": "PC游戏",
+  "sub": "策略战略",
+  "tags": [
+    "物理",
+    "独立",
+    "街机",
+    "重玩价值"
+  ],
+  "sz": "536MB",
+  "rt": "好评如潮",
+  "ver": "v1.2.2",
+  "rdate": "2026 年 2 月 9 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/3205380/450694386/0f04e422bfe4348e65c165507930a8ccb467d393/1770799836/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "你有饼吗？有，我的大饼可以卷一切！一款让你手忙脚乱却停不下来的Roguelike烹饪构筑游戏。满足刁钻的食客，讨好难缠的鸡校长——就算你的饼里有扳手和椰子壳。",
+  "pt": "",
+  "un": "2026年7月2日，本次更新完成反派爱丽丝美术优化、文本内容修正与大量游戏漏洞修复：美术方面重做反派爱丽丝相关原画，强化角色邪魅气质；文本层面补全创始人 / 终结得分说明缺失的韩文文案，统一洋葱圈食材分类标注逻辑；同时修复计分显示与实际分数不符、误触发游戏结束、罐头 / 主界面生成追踪类食材缺失对应标识、河豚点击后持续膨胀及判定异常扣分、黑围裙无尽模式回合数字缺失、计分文字遮挡暂停界面 UI、深度净化道具与袋装胡萝卜 / 薯条 / 饺子交互异常、袋装食材补货与丢弃判定、单根胡萝卜误满足袋装食材订单、出售缩小射线后助手上限数值不刷新等多项游戏 BUG，并优化袋装食材丢弃、计数相关底层判定逻辑。\n2026年3月17日，《Omelet You Cook》v1.1 版本更新，开放每周食材库任意重玩功能，新增 9 种食材、8 个助手、7 项成就及极简风格新乐曲；调整助手稀有度分布，优化剪刀等道具解锁条件，为酱油鱼新增海鲜标签并修改其解锁关联；修复传奇助手重复获取、恶霸目标判定错误等多项 BUG，同时下调波兰区游戏售价 17%。\n2026年2月22日，v1.0.10 版本主要进行体验优化与问题修复：优化触屏输入及点击拖放操作逻辑，可在设置中启用；修复指向类食材计算异常导致的分数不准确问题、未包装食材在蛋饼滑出时自动重新包装的问题、小帮手结算 1 帧延迟问题，以及部分新博弈类小帮手的相关问题。",
+  "vf": "你有饼吗？下载 | v1.2.2 Omelet You Cook | 536MB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/3205380/_/",
+  "sr": {
+    "操作系统 *": "Windows 7 or above",
+    "处理器": "i3 or equivalent",
+    "显卡": "GPU with at least 2 GB of VRAM",
+    "存储空间": "需要 51 MB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/b95d446e19d8c874a1ad224d0b49f6c0cdbcee26/ss_b95d446e19d8c874a1ad224d0b49f6c0cdbcee26.1920x1080.jpg?t=1770802203",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/b592c1ca44b8460d9e3d3d048491dacc88d190c0/ss_b592c1ca44b8460d9e3d3d048491dacc88d190c0.1920x1080.jpg?t=1770802203",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/7c8b7bf6fd7896ff069bdcc81dacfe6f575627d2/ss_7c8b7bf6fd7896ff069bdcc81dacfe6f575627d2.1920x1080.jpg?t=1770802203",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/e12b0b49dd99d4ad358c9b124b9cf195418c3859/ss_e12b0b49dd99d4ad358c9b124b9cf195418c3859.1920x1080.jpg?t=1770802203",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/d917727e055b859676e3845be9a14c21a431f6b9/ss_d917727e055b859676e3845be9a14c21a431f6b9.1920x1080.jpg?t=1770802203",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/8b7e619c6054e36258b84c3536ac156f18374637/ss_8b7e619c6054e36258b84c3536ac156f18374637.1920x1080.jpg?t=1770802203",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/1d1fc182fc726e74e05a97b6a9bc10aca0a9913e/ss_1d1fc182fc726e74e05a97b6a9bc10aca0a9913e.1920x1080.jpg?t=1770802203",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/5fde1f555291a7ce22624fe6cb7c980a09a52a3c/ss_5fde1f555291a7ce22624fe6cb7c980a09a52a3c.1920x1080.jpg?t=1770802203",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/39eeb95f6d5b6961655a501f5346ddd1aa67ada6/ss_39eeb95f6d5b6961655a501f5346ddd1aa67ada6.1920x1080.jpg?t=1770802203",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/4e63b1f3041c8a28272500c9bd378172cd7d8f98/ss_4e63b1f3041c8a28272500c9bd378172cd7d8f98.1920x1080.jpg?t=1770802203"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3205380/3c998693b0c7c1d4222b7e4793e107d4ba87ec4b/header_schinese.jpg?t=1782203263",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/76c022e7b1bd",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F76c022e7b1bd",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOlVuKEhymZhHsROp5Dk8z4VA1?pwd=fevk",
+      "pwd": "fevk",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1DQRaAwfSkx79ekTn-d2fBA?pwd=stpk",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1DQRaAwfSkx79ekTn-d2fBA%3Fpwd%3Dstpk",
+      "pwd": "stpk",
+      "gi": 2
+    }
+  ]
+}

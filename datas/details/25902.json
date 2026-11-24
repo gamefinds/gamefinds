@@ -1,0 +1,71 @@
+{
+  "u": "https://www.steambk.com/25902.html",
+  "t": "火焰纹章：万缕千丝（Fire Emblem: Fortune’s Weave）v0.1.6 免安装PC移植版下载",
+  "id": 25902,
+  "sg": "更新",
+  "tm": "7天前",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "剧情",
+    "奇幻",
+    "探索"
+  ],
+  "sz": "28.4GB",
+  "rt": "暂无",
+  "ver": "v0.1.6",
+  "rdate": "2026 年 9 月 17 日",
+  "vd": [],
+  "in": "《火焰之纹章：万紫千红》是由任天堂发行、Intelligent Systems 参与开发的经典战略角色扮演游戏《火焰之纹章》系列全新作品。故事发生在由众神统治的达古扎帝国，曾经繁荣昌盛的国度因魔神巴罗尔的复活而濒临毁灭。玩家将扮演肩负救世使命的主人公，在命运女神的帮助下穿越时空，寻找能够改变世界未来的英雄，展开一场跨越过去与未来的史诗冒险。\n游戏围绕四位拥有不同命运的英雄展开，他们分别是为拯救父亲而战的少年凯伊、渴望挑战强敌的剑士迪托利希、肩负祖国夙愿的女王赛奥朵拉，以及为复仇踏上征途的吟游诗人蕾达。玩家可以体验四条相互交织的故事路线，招募伙伴、培养角色，并通过改变过去的关键事件，集结足以对抗魔神的强大军队。\n本作延续系列经典的回合制战棋玩法，融合职业培养、武器装备、魔法技能、地形策略与角色羁绊等丰富系统。玩家不仅需要在战场上合理部署部队、利用兵种特性制定战术，还可以探索城镇与地下迷宫、完成支线任务、收集资源并强化队伍。全新的英雄技能与战斗机制进一步提升了策略深度，为玩家带来兼具宏大剧情、角色成长与战术挑战的奇幻冒险体验。",
+  "pt": "本移植版基于 Nintendo Switch 2 游戏版本，通过静态重编译技术将原版游戏代码转换为原生 Windows 程序，无需依赖 Switch 2 模拟器即可运行。项目采用 Vulkan 图形渲染，提供高帧率、高分辨率、超宽屏适配及多种画质增强功能，并针对 PC 平台优化操作方式与运行体验。\n原生 PC 移植：采用静态重编译技术，将 Switch 2 游戏代码转换为 Windows 原生程序，无需通过传统模拟器运行。\n高帧率支持：提供 60FPS、120FPS 游戏模式，搭配帧率限制与同步选项，改善整体画面流畅度。\n高清画质增强：支持自定义游戏分辨率、渲染比例及画质设置，可根据硬件性能调整显示效果。\n超宽屏适配：支持 21:9、32:9 等超宽屏比例，扩展游戏场景的横向视野，同时保持菜单与 HUD 居中显示。\nDLSS 与 FSR 3：支持 NVIDIA DLSS 超分辨率及 AMD FSR 3 超分辨率技术，并提供符合条件硬件的帧生成功能，相关组件需要额外配置。\n多种显示模式：支持窗口化、无边框窗口及全屏模式，适配不同显示器和使用习惯。\n键盘鼠标优化：提供完整的键盘操作支持，并适配游戏原有的 Joy-Con 2 鼠标控制功能，可通过鼠标操作战斗地图、菜单及部分探索场景。\n手柄兼容支持：支持多种 PC 游戏手柄，可根据当前输入设备自动切换游戏内按键提示，并允许调整手柄映射及摇杆死区。\n中文语言支持：支持简体中文、繁体中文及多种其他语言，可独立设置游戏文本与语音语言。\n游戏内设置菜单：按 F1 即可呼出设置界面，快速调整显示、操作及其他运行参数，按 F2 可查看帧率信息。\nMOD 扩展支持：支持 RomFS 文件替换类 MOD，可通过独立 MOD 文件夹管理游戏资源修改内容。\nDLC 内容支持：支持加载从合法持有的游戏副本中提取的 DLC 资源，启动器可识别已添加的附加内容。\n显存与稳定性优化：改善 AMD 显卡兼容性、着色器处理及显存管理，提供纹理细节选项，降低部分硬件配置下的显存占用。\n独立启动器：提供专用 PC 启动器，集成游戏资源检查、静态重编译、着色器准备、画质设置及版本更新等功能。\nLinux 与 Steam Deck 支持：提供 Linux 启动器，可配合 Proton 或 Wine 运行，并支持添加到 Steam，在 Steam Deck 游戏模式中启动。",
+  "un": "",
+  "vf": "火焰纹章：万缕千丝 下载 | v0.1.6 Fire Emblem: Fortune’s Weave | Switch2移植版 | 28.4GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/",
+  "sr": {},
+  "sc": [
+    "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae959bf/QxJzbbb1fwfxJ6PXJ96vmc_38447.jpg",
+    "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae959c2/53MvAAHhnCgWNzX0VTARBc_407bb.jpg",
+    "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae959c5/EgcOEClg69CJ7fQijIZMcn_30ab4.jpg",
+    "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae959c9/cnQcOXMw-dLnZWWm3HyDDn_3f7c0.jpg"
+  ],
+  "cv": "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae95517/qUW3BAbyo0pERnLlgM1Tmn_865a.jpg",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/dee6dec67b55",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fdee6dec67b55",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VP5_0iFfZkNo_zmLEo8P-31_A1?pwd=nbtw",
+      "pwd": "nbtw",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1vX4buMcF-xadUjYUcqujUA?pwd=wy8p",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1vX4buMcF-xadUjYUcqujUA%3Fpwd%3Dwy8p",
+      "pwd": "wy8p",
+      "gi": 2
+    }
+  ]
+}

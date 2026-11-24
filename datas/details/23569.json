@@ -1,0 +1,95 @@
+{
+  "u": "https://www.steambk.com/23569.html",
+  "t": "迪姆雷斯联机版（Dimraeth Online）v0.107.7822 免安装中文版下载",
+  "id": 23569,
+  "sg": "更新",
+  "tm": "2026-10-07",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "像素",
+    "刷宝",
+    "奇幻",
+    "开放世界",
+    "探索",
+    "砍杀"
+  ],
+  "sz": "4.3GB",
+  "rt": "多半差评",
+  "ver": "v0.107.7822",
+  "rdate": "2026 年 9 月 16 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2402680/1033425238/c08ac8b52f28a706c091d8c102c97d9181d698b9/1769779197/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "一款支持 1–8 人游玩的奇幻像素RPG。 在八大种族与六种职业中塑造你的角色，自由成长并搭配技能。探索古老大陆、精通元素战斗、与伙伴建立羁绊，打造属于你的家园。在 迪姆雷斯的命运之战中，无论独自踏上征程还是与朋友同行，你都能找到属于自己的乐趣。",
+  "pt": "",
+  "un": "2026年10月5日，本次 0.107.7822 版本热修无平衡性调整，主要修复各类 BUG：针对消失打击传送黑屏问题增加安全机制；多人联机优化大型基地加载、超大世界卡顿、切窗口卡死等问题，限制围栏宠物取出权限，清理异常属性装备；修正战斗、怪物、控制器操作相关故障，修复法术与技能树多项效果、描述不符问题；优化建造、物品、工坊相关机制，保留工作台制作队列，修复物品重量、堆叠、商店显示等问题；修复任务对话、NPC 行为、随机事件提前消失问题，并调整部分怪物施法音效与音乐资源。",
+  "vf": "迪姆雷斯联机版 下载 | v0.107.7822 Dimraeth | 4.3GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/2402680/_/",
+  "sr": {
+    "操作系统": "Windows 10",
+    "处理器": "Intel Core i3 (4th gen) or AMD equivalent",
+    "内存": "4 GB RAM",
+    "显卡": "NVIDIA GeForce GTX 750 / AMD Radeon R7 260X (or integrated Intel UHD 620)",
+    "DirectX 版本": "11",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 5 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/dd174ea2b12bc9ae903bd989cf2cd31448feb2c5/ss_dd174ea2b12bc9ae903bd989cf2cd31448feb2c5.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/2fb326574314f2f2e160b9df15c411065bdf8044/ss_2fb326574314f2f2e160b9df15c411065bdf8044.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/a01d7c21438c3e60a47eea59405b128af2333566/ss_a01d7c21438c3e60a47eea59405b128af2333566.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/a12742dfef0aedbfcb462a549245b1789dd6555f/ss_a12742dfef0aedbfcb462a549245b1789dd6555f.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/be6466db1ec3df5bdad949b03b16e8de7c40e792/ss_be6466db1ec3df5bdad949b03b16e8de7c40e792.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/f8dc2b60d74ac04923a0a84696ebc0b0c3fe6627/ss_f8dc2b60d74ac04923a0a84696ebc0b0c3fe6627.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/6833bc1c53f355756af218ea5c858b846d61acda/ss_6833bc1c53f355756af218ea5c858b846d61acda.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/be6f58f36a05914f3ebeb43a0794e75acd000af4/ss_be6f58f36a05914f3ebeb43a0794e75acd000af4.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/9f430f8b7c39dd48f5a64dbaed5ade0b408471c1/ss_9f430f8b7c39dd48f5a64dbaed5ade0b408471c1.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/4a48f6a7456365c076d240cc10ee776dd05fcdc1/ss_4a48f6a7456365c076d240cc10ee776dd05fcdc1.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/d21f7d9bd167893a3a57ed4dabe8b701b51be388/ss_d21f7d9bd167893a3a57ed4dabe8b701b51be388.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/2ba11e69ae41b9db1d05dcb675209052c392cb21/ss_2ba11e69ae41b9db1d05dcb675209052c392cb21.1920x1080.jpg?t=1789492776",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/9caab221a204e50101074565b7f198f88a066e1b/ss_9caab221a204e50101074565b7f198f88a066e1b.1920x1080.jpg?t=1789492776"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1790333636",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/7d286006d180",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F7d286006d180",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VP1pCMZzptAxxVefKKrjYDptA1?pwd=gd7r",
+      "pwd": "gd7r",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1sb6c4dkwDOsk76NYi3TyhA?pwd=7s9r",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1sb6c4dkwDOsk76NYi3TyhA%3Fpwd%3D7s9r",
+      "pwd": "7s9r",
+      "gi": 2
+    }
+  ]
+}

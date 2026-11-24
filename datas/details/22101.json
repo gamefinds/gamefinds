@@ -1,0 +1,98 @@
+{
+  "u": "https://www.steambk.com/22101.html",
+  "t": "维修物语（ReStory: Chill Electronics Repairs）v1.0.033 免安装中文版下载",
+  "id": 22101,
+  "sg": "更新",
+  "tm": "3周前",
+  "ct": "PC游戏",
+  "sub": "益智休闲",
+  "tags": [
+    "建造",
+    "独立",
+    "管理",
+    "经济"
+  ],
+  "sz": "1.19GB",
+  "rt": "特别好评",
+  "ver": "v1.0.033",
+  "rdate": "2026 年 8 月 6 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/3812600/1090409723/b941595bb2134d138359a93fdc6f8b7701aa9e69/1786020014/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "在2005年左右的东京开一间古朴的电子产品维修店，通过认真修复标志性的电子游戏主机、手机、音乐播放器及其他怀旧设备来扩大经营。与顾客交谈，聆听他们的故事，见证你的决定将如何影响他们的人生以及你的店铺的发展。\n《维修物语》是一款叙事驱动的休闲商店管理模拟游戏，由《我是未来》的制作班底打造，背景设定在2005年左右熙熙攘攘的东京街头，带你体验深度开发的设备维修系统。\n在这款游戏中，你是一间电子产品维修店的店主，专门修复千禧时代的怀旧设备，包括官方授权的雅达利主机，还可通过与顾客互动体验分支剧情，由你的选择为故事书写不同的结局。\n招呼顾客，维修设备，管理财务，在网上寻找备用零件。在这款诚心诚意打造的游戏中享受经营自家小店的惬意，感受2005年左右日本都市生活独一无二的氛围。\n修复各种各样的怀旧设备，其原型包括标志性的游戏主机、掌上游戏机、手机、相机、音乐播放器及家电设备。利用可靠的工具仔细拆卸各个器件，清理干净，更换故障零件，最后重新组装完整。\n你与每位顾客的互动方式可能会彻底改变他们的人生。你会举报在前帮派分子手机上发现的危险内容吗？或者帮助深陷情网的学生向他的意中人告白？自主决定，看看你的选择会如何影响分支剧情走向。\n关键特色\n•轻松休闲的电子产品维修店管理\n•五花八门的00年代怀旧设备等待维修\n•深度开发的设备清理和修复系统\n•在千禧时代的网络浏览器上搜索备用零件\n•各种各样的线下和线上订单等待完成\n•多款工具用于维修设备\n•官方授权的标志性雅达利主机\n•带有独特故事和对话的顾客\n•可重玩的分支剧情，你的选择将影响故事结局\n•别具特色的日本都市生活休闲氛围",
+  "pt": "",
+  "un": "10月28日周三更新（点击查看详细内容）\n《维修物语》首个免费大型更新现已上线！修复大量BUG以及剧情推进问题\n全新设备加入 + 大量优化&修复\n各位维修师，大家好！💛\n《维修物语》全新 Fuzzby 更新现已正式上线！ 本次更新带来了两款全新可维修设备：传奇毛茸茸伙伴 Fuzzby，以及经典的 Nony PlayMachine 初代手柄！\n除此之外，我们还针对游戏进行了大量优化，并修复了诸多问题。我们认真阅读了大家的反馈、社区讨论和游戏评价，努力解决尽可能多的问题。完整更新内容请见下方。\n另外，还有几件事想告诉大家：\n针对部分玩家遇到的剧情推进异常问题，我们已经推出了修复补丁。具体安装方法请查看本文末尾的说明。\n几周前预告过的那款新设备，目前仍在开发中，敬请期待！\nSteam Deck 正式通过验证\n现在，你可以随时随地畅玩《维修物语》了！\n游戏现已通过 Steam Deck 验证，并针对掌机游玩体验进行了多项优化与问题修复，让你在掌机上也能享受更流畅的维修体验。\n体验优化与问题修复\n主要问题修复\n修复了 Xi-Box 拆解过程中某颗螺丝没有对应零件的问题。\n修复了电路走线和焊点在保存、读取存档后无法正确恢复的问题。\n修复了设备喷漆并寄出后出现的内存泄漏问题。\n修复了多种游戏模式下的内存泄漏问题。\n关闭景深模糊效果，以降低 GPU 负载。\n修复了午夜保存并读取存档后，原定推迟至次日的访客会消失的问题。\n任务物品现在无法放入背包，避免被意外销毁。\n修复了任务相关电路板经过超声波清洗后，焊接要求丢失的问题。\n修复了主菜单和暂停菜单设置界面中的手柄导航问题。\n修复了部分设置开关无法正确更新或播放动画的问题，包括调整 FPS 上限时的垂直同步设置。\n修复了中文字符显示及字体描边问题。\n修复了多种语言的本地化问题。\n现在可以选中并拾取卡在场景中的设备。\n修复了箱子与设备相互嵌套的问题。\n优化了货架的交互逻辑，现在堆叠或取下授权箱时能够正常响应。\n修复了读取旧存档时错误解锁「Globalisation」成就的问题。\n针对一种罕见的玩家档案数据读取错误，新增了相应的处理机制。\n画面表现\n新增多档画质预设，包括专为 Steam Deck、Steam Deck OLED 和 Steam Machine 设计的预设。\n新增根据硬件配置自动检测并设置画质的功能，并为 Mac 设备提供专属预设。\n重新调整了画质预设及可用设置，新增 MSAA 抗锯齿选项。\n画质设置现在会保存在本地设备上，不再通过 Steam 云同步。\n现在可以直接在暂停菜单中调整画质预设。\n优化了背景与环境贴图，降低显存占用，并修复了灌木边缘显示异常及夜间背景光照问题。\n性能优化与 UI/UX 改进\n修复了旧款显卡上的设备喷漆问题。\n重新优化了设备喷漆功能，提升操作精度与运行性能。\n优化了处理大量零件时的背包性能。\n提升了教程和提示信息中手柄按键图标的辨识度。\n新增设置分类之间的快捷切换按钮。\n新邮件现在会显示在邮件列表顶部。\n针对接近 4:3 比例的屏幕，调整了游戏镜头表现。\n修复了阴影级联设置及阳光投影异常的问题。\n修复了室内雾效问题，并优化了工作室后方的雾效渲染。\n改进了柔和阴影效果，解决设备上出现的大面积深色阶梯状阴影问题。\n修复了旧款 DirectX 显卡与柔和阴影效果的兼容性问题。\n在更多画质预设中默认启用 SSAO（屏幕空间环境光遮蔽）。\n缩短了包含大量物品的背包加载时间，并加快了筛选条件切换速度。\n优化了包含大量邮件的邮箱加载速度。\n优化了跳蚤市场、装饰商店、零件商店及竞赛应用中的列表性能。\n优化了工作垫上零件的阴影渲染。\n在关闭 MSAA 时，优化了角色渲染与整体画面性能。\n优化了工作室内的光照效果。\nBug 修复\n修复了拆解设备时长按笔记本快捷键或手柄按键，导致笔记本意外打开的问题。\n修复了机器狗 Robby 的耳朵及手电筒侧面板的喷漆问题。\n修复了 Nerdio 手表表盘和表带上的贴纸放置问题。\n修复了其他一些小问题。\n修复了鼠标悬停在设备购买按钮上时，竞赛列表意外滚动的问题。\n修复了设置菜单及动态 UI 按钮的相关问题。\n修复了喷漆工具和贴纸工具的悬停、点击音效问题。\n玩法调整与新增功能\n跳蚤市场购买的部分设备现在支持软件升级，升级后可以提高转售价格。\n现在可以给手电筒贴贴纸了。\n自定义装饰设备现在也能提高其转售价值。\n调整了 Nerdio 手表表带和对讲机天线的安装操作，让组装更加轻松。\n针对旧存档中受损的竞赛设备，新增了缺失零件自动恢复功能。\n在竞赛应用中，获得过纪录的设备现在会显示奖牌标记。\n使用手柄游玩时，新增自动瞄准螺丝的功能。\n新增手柄光标灵敏度和设备旋转速度设置。\n新增选项，可关闭手柄摇杆偏离中心较远时的光标加速效果。\n拆解设备时，新增用于提示打开背包和笔记本的手柄按键指引。\n放入超声波清洗机的零件，现在会在笔记本中显示独立的水滴图标。\n笔记本现在会显示设备已应用的升级效果；提示信息中，因升级而提高的转售价格会以绿色标出。\n零件商店新增按组装顺序排列零件的选项。\n跳蚤市场和随机订单中的设备新增了其他配色。\n烧毁的元件经过超声波清洗后放入背包，不会再重新变脏。\n新增关闭收音机立体声效果的选项。\n新增关闭成功操作音效的选项。\n新增拾取设备、使用背包按钮及移动零件时的音效。\n其他调整\nAkiba Cup 奖杯和「历史遗产保护证书」现在各提供 15 点舒适度。\n小型零件和电线在从背包取出、读取存档后以及竞赛过程中，现在都能正确堆叠。\n维修竞赛设备期间，超声波清洗机将暂时锁定，避免误操作。\n将已完成的竞赛设备从寄件区取回时，不再错误移除工作台上属于其他设备的零件。\n正常购买设备后，仍然可以订购同款设备用于竞赛。\n主菜单新增「制作人员名单」按钮。\n为 Fuzzby 的毛发新增了专属互动音效。",
+  "vf": "维修物语 下载 | v1.0.033 ReStory: Chill Electronics Repairs | 集成全DLC | 1.19GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/3812600/_/",
+  "sr": {
+    "操作系统": "Win10 x64",
+    "处理器": "2-core / 4-thread CPU",
+    "内存": "4 GB RAM",
+    "显卡": "GTX 750ti",
+    "DirectX 版本": "11",
+    "存储空间": "需要 1 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/3251f798fce84ab9395fedb8cb9514c1ee937a3a/ss_3251f798fce84ab9395fedb8cb9514c1ee937a3a.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/4c33b24da4e56ac6ef2d300a1b756ccc29f707f2/ss_4c33b24da4e56ac6ef2d300a1b756ccc29f707f2.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/2d4936a57d807f8784d54a0645b46d1e0972e87b/ss_2d4936a57d807f8784d54a0645b46d1e0972e87b.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/c285f88cf24bd93ab538612fe7ac36235ce0b2d6/ss_c285f88cf24bd93ab538612fe7ac36235ce0b2d6.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/04d1b542df73fa6c43a3cff8f17c94354cf5789c/ss_04d1b542df73fa6c43a3cff8f17c94354cf5789c.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/baa735ee813305745e3480d39da990c80d49390c/ss_baa735ee813305745e3480d39da990c80d49390c.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/36ac63c72f280a968a5a1a2351bd79aa1b7cbda9/ss_36ac63c72f280a968a5a1a2351bd79aa1b7cbda9.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/6326a9b0b00c302f9179ff2d3c95b233e9ef5faf/ss_6326a9b0b00c302f9179ff2d3c95b233e9ef5faf.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/9b708c238a77daa9552b38500afd39a434677ae3/ss_9b708c238a77daa9552b38500afd39a434677ae3.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/5d3f935d9154644cb9fc7c238bc89438e2b35c05/ss_5d3f935d9154644cb9fc7c238bc89438e2b35c05.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/39e4fe48546c41187027d475e313b589fc3ba9fc/ss_39e4fe48546c41187027d475e313b589fc3ba9fc.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/7c3902c807ce90c99b6351a73be87d463cb7e499/ss_7c3902c807ce90c99b6351a73be87d463cb7e499.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/34ece616ec27b965ef02a87aeb95bc36869fe0db/ss_34ece616ec27b965ef02a87aeb95bc36869fe0db.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/2a495c547ea833b21bc04878fcb0accfe5027f90/ss_2a495c547ea833b21bc04878fcb0accfe5027f90.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/33e62c89c46e50ca1aadcd4037da87fe5440e8fb/ss_33e62c89c46e50ca1aadcd4037da87fe5440e8fb.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/df2157b344f9979b6e8edeba54c88ad217172903/ss_df2157b344f9979b6e8edeba54c88ad217172903.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/038f24900360934c36eb8b82c291aa29f403bea1/ss_038f24900360934c36eb8b82c291aa29f403bea1.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/313546551787d6f9bed71a08bf8b8d910179bae1/ss_313546551787d6f9bed71a08bf8b8d910179bae1.1920x1080.jpg?t=1786119982",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/7456c70e7d152c400ad6b5958b116904e1a41f1d/ss_7456c70e7d152c400ad6b5958b116904e1a41f1d.1920x1080.jpg?t=1786119982"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3812600/a579a8261c17654db3381923fd1bd0c0840a769d/header_alt_assets_1.jpg?t=1793194583",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/054cc7ab1cae",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F054cc7ab1cae",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOzVCKXYpZZevWZfnTaaqNYNA1?pwd=trxa",
+      "pwd": "trxa",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1RhN3uEOkgCY5y_Z6asfFNg?pwd=tq96",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1RhN3uEOkgCY5y_Z6asfFNg%3Fpwd%3Dtq96",
+      "pwd": "tq96",
+      "gi": 2
+    }
+  ]
+}

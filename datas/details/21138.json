@@ -1,0 +1,84 @@
+{
+  "u": "https://www.steambk.com/21138.html",
+  "t": "九州仙侠录（Chronicles Of Jiuzhou）v0.2.4g 免安装中文版下载",
+  "id": 21138,
+  "sg": "新游",
+  "tm": "2026-07-14",
+  "ct": "PC游戏",
+  "sub": "回合战棋",
+  "tags": [
+    "卡牌",
+    "奇幻",
+    "独立"
+  ],
+  "sz": "641MB",
+  "rt": "暂无",
+  "ver": "v0.2.4g",
+  "rdate": "2026 年 7 月 13 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/4837990/639065379/31dc36bc935b5be22ac3b450b291260f277b5bf1/1781959967/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "<九州仙侠录>是一款仙侠题材的 Roguelike 组牌游戏. 从入门心法起步, 在随机九重地图中抉择机遇, 搭配牌组, 以五行与专精内功迎战强敌, 完成渡劫并开启新的修行周目.",
+  "pt": "",
+  "un": "",
+  "vf": "九州仙侠录 下载 | v0.2.4g Chronicles Of Jiuzhou | 641MB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/4837990/__Chronicles_Of_Jiuzhou/",
+  "sr": {
+    "操作系统": "Windows 10 64-bit",
+    "处理器": "Intel Core i3-6100 / AMD FX-6300 or equivalent",
+    "内存": "4 GB RAM",
+    "显卡": "Intel HD 530 / NVIDIA GeForce GT 640 / AMD Radeon R7 240 or equivalent",
+    "DirectX 版本": "11",
+    "存储空间": "需要 4 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4837990/b80220597fdc06f265d953709ce7047de81da7cc/ss_b80220597fdc06f265d953709ce7047de81da7cc.1920x1080.jpg?t=1783907970",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4837990/ecd00ec9e27b18b07b04c12a4e467a13b8401eef/ss_ecd00ec9e27b18b07b04c12a4e467a13b8401eef.1920x1080.jpg?t=1783907970",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4837990/30b8f0f5bf945b7bb512ee4252beb94014745bbd/ss_30b8f0f5bf945b7bb512ee4252beb94014745bbd.1920x1080.jpg?t=1783907970",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4837990/64292e622485f8d32cf57a1fe0ea1154de138c5d/ss_64292e622485f8d32cf57a1fe0ea1154de138c5d.1920x1080.jpg?t=1783907970",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4837990/3002cb3ec28add1dc6302e9e27c5aeb4aa48e251/ss_3002cb3ec28add1dc6302e9e27c5aeb4aa48e251.1920x1080.jpg?t=1783907970"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4837990/1dd6e167904a4516207852441aa4e867b561c2b5/header_schinese.jpg?t=1783907970",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/77c3ab2cef88",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F77c3ab2cef88",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOxTyoAqDPQHOp3vr2PJ8oscA1?pwd=vjm9",
+      "pwd": "vjm9",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1Wa5ibPl0A8D5D9DbK3eHGA?pwd=ir42",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1Wa5ibPl0A8D5D9DbK3eHGA%3Fpwd%3Dir42",
+      "pwd": "ir42",
+      "gi": 2
+    }
+  ]
+}

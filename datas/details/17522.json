@@ -1,0 +1,88 @@
+{
+  "u": "https://www.steambk.com/17522.html",
+  "t": "救援行动！（SOS OPS!）免安装中文版下载",
+  "id": 17522,
+  "sg": "更新",
+  "tm": "2026-05-10",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "可爱",
+    "物理",
+    "解谜"
+  ],
+  "sz": "1.99GB",
+  "rt": "特别好评",
+  "ver": "v1.5.0",
+  "rdate": "2023 年 12 月 1 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2475460/336173680/827692dd9379c2956fc2aac25df679a2db3ce587/1777555737/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "SOS OPS! 不仅仅是一款游戏。你的任务是拯救这座城市。你将发现自己处于疯狂的中心，在那里与朋友共同完成任务将使肾上腺素达到极限！",
+  "pt": "",
+  "un": "2026年5月5日，本次《SOS OPS!》仅进行 Steam 商店页面视觉焕新，更换了夏日风格封面图，整体画面色调更明亮、氛围感更贴合夏日气息；游戏本体核心玩法不变，依旧保留救援任务、奇葩场景、物理随机效果以及多人欢乐混乱的游玩体验，同时官方同步开启 Discord 社区通行证活动，玩家可参与任务及活动获取专属奖励。",
+  "vf": "救援行动！下载 | v1.5.0 SOS OPS! | 集成全DLC | 1.99GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/2475460/SOS_OPS/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统 *": "Windows 7/8/8.1/10/11 x64",
+    "处理器": "Intel i3-10100F or equivalent",
+    "内存": "4 GB RAM",
+    "显卡": "Intel HD Graphics",
+    "DirectX 版本": "11",
+    "存储空间": "需要 2 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2475460/ss_6d93088da6e78e7ce43c437cf2769020ea4c42ae.1920x1080.jpg?t=1777988980",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2475460/ss_eb2e647a372de37bb74e362fa10748ba758d18db.1920x1080.jpg?t=1777988980",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2475460/ss_5f8015c6e012cbecaae20da10de9231e67784b66.1920x1080.jpg?t=1777988980",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2475460/ss_2228e1989d79f846dc20a09bab6df1d1dc1027c4.1920x1080.jpg?t=1777988980",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2475460/ss_a5e4e5753f96aa1da83eeb12728ce2e4bac3f43a.1920x1080.jpg?t=1777988980"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2475460/560bffc67ae3947817ea4f6ea000d2f80d7e9107/header.jpg?t=1777988980",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/ffa1d6ebe567",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fffa1d6ebe567",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOsGRz_pPaKPke0BEWu7uElLA1?pwd=frvt",
+      "pwd": "frvt",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1zOtl-gr9oF39Zup-doXR9A?pwd=j2cn",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1zOtl-gr9oF39Zup-doXR9A%3Fpwd%3Dj2cn",
+      "pwd": "j2cn",
+      "gi": 2
+    }
+  ]
+}

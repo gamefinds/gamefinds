@@ -1,0 +1,104 @@
+{
+  "u": "https://www.steambk.com/16516.html",
+  "t": "风启之旅联机版（Windrose Online）v0.10.0.6.213 免安装中文版下载",
+  "id": 16516,
+  "sg": "更新",
+  "tm": "2026-05-29",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "探索",
+    "海盗",
+    "生存"
+  ],
+  "sz": "20.6GB",
+  "rt": "特别好评",
+  "ver": "v0.10.0.6.213.f90b3bc1",
+  "rdate": "2026 年 4 月 14 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/3041230/2012344070/6b0b773c076c6f25728af99a7af10b14639ec6bb/1776076852/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "踏上海盗时代的PvE生存冒险！单人闯荡或与友同行，前往海陆征战。建造、锻造，并探索这个暗藏秘辛的广阔开放世界。钻研轻魂系战斗，挑战强大头目；掌舵战船，掠夺尘封的宝藏！",
+  "pt": "",
+  "un": "2026年5月18日，本次 0.10.0.6 版本小型更新，优化了游戏存储、运行性能与操作手感，调整部分视觉、判定及服务器相关设置，并修复多项已知漏洞与异常问题。具体包括缩减磁盘占用、减少磁盘写入，小幅优化接舷战与舰炮表现；修改按键触发逻辑、优化武器动作动画；修正植物、掉落物的地形贴合问题，微调洋葱花视觉效果；修复 BOSS 成就判定异常、多开服务器限制、各类舰炮操作卡顿、卸物闪退、存档删除及服务器配置修改失效等 Bug，同时新增服务器相关说明文档。\n2026年4月30日，本次 0.10.0.4.268 版本更新优化了网络连接机制与软硬件资源占用，修复多项连接、崩溃、UI 及操作适配类 BUG，暂缓稳定化 Steam 云存档修复工作；大幅扩充建筑部件种类、下调大量建筑制作成本，新增多种环境音效、视觉特效与音乐时长，同时优化建造判定、地形交互、建筑碰撞及舒适度机制，全面优化按键映射、键鼠手柄操控、宽屏适配等交互体验，进一步提升游戏整体稳定性与游玩流畅度。\n2026年4月19日，本次《Windrose》0.10.0.3.104 版本更新聚焦网络连接、存档安全与基础体验优化：新增手动选择连接服务器功能，针对运营商屏蔽问题提供直连 IP 联机方案；上线自动存档备份系统，最多保留 30 份存档并支持损坏恢复；修复非 Unicode 用户名无法进入主菜单、HDR 异常、草皮渲染距离不足、瘟疫女巫羽毛模拟错误、护甲穿模及物品相关闪退等问题，同时提升服务器进程优先级，优化商人模型与动作表现。",
+  "vf": "风启之旅联机版 下载 | v0.10.0.6.213.f90b3bc1 Windrose | 20.6GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/3041230/Windrose/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows® 10（64 位）™",
+    "处理器": "Intel® Core™ i7-8700K / AMD® Ryzen™ 7 2700X",
+    "内存": "16 GB RAM",
+    "显卡": "NVIDIA® GTX™ 1080 Ti / AMD® Radeon™ RX 6800",
+    "DirectX 版本": "12",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 30 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/464db0a63a2d03bb8e75ecf04e24f8949b03d500/ss_464db0a63a2d03bb8e75ecf04e24f8949b03d500.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/f83b7aa29874e6e57fd20ab0642269536723ac1a/ss_f83b7aa29874e6e57fd20ab0642269536723ac1a.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/65dfc1db4ae81fd96d496c0e3bb9640281eafe0c/ss_65dfc1db4ae81fd96d496c0e3bb9640281eafe0c.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/9d7ee982069054a1ba23dc881f26f1f83f356daa/ss_9d7ee982069054a1ba23dc881f26f1f83f356daa.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/1ecaa7ff2d46c717a5afb4a7e11f678d16ae3064/ss_1ecaa7ff2d46c717a5afb4a7e11f678d16ae3064.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/c5f6647067df8c778831b463443b22b6e1df0ed6/ss_c5f6647067df8c778831b463443b22b6e1df0ed6.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/5d3be98ea6dfd79c30d0a2d3c49432eb30ef578f/ss_5d3be98ea6dfd79c30d0a2d3c49432eb30ef578f.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/23e417c098d10c118ee62c1438343cc80cb5e672/ss_23e417c098d10c118ee62c1438343cc80cb5e672.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/e873f4b6f600a2e49b10fe0f7210b5065785a2e5/ss_e873f4b6f600a2e49b10fe0f7210b5065785a2e5.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/4b33b55fb3fdb88a5319243b1d03fb86d864f42e/ss_4b33b55fb3fdb88a5319243b1d03fb86d864f42e.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/820ed1a84049ba0e27eda032aef1cb7bd23bb88a/ss_820ed1a84049ba0e27eda032aef1cb7bd23bb88a.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/2f665f3f6ef163cd3923a25078f78229e31e376a/ss_2f665f3f6ef163cd3923a25078f78229e31e376a.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/2f60058a1f971eaa36c7012c9973b71cd7fed9f1/ss_2f60058a1f971eaa36c7012c9973b71cd7fed9f1.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/7b3d4f112ecce9f80ba65018bde1cbedb14e692f/ss_7b3d4f112ecce9f80ba65018bde1cbedb14e692f.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/62caa8896b218305f00cb1c56a886e025c80a1a0/ss_62caa8896b218305f00cb1c56a886e025c80a1a0.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/40f37837656de147b7d5e4cc69498393d1990e2c/ss_40f37837656de147b7d5e4cc69498393d1990e2c.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/f457af3a0fecf1256342215297acf466866ffbb2/ss_f457af3a0fecf1256342215297acf466866ffbb2.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/6eb823b6a25499d8daa4ddd29382622bbee39cbd/ss_6eb823b6a25499d8daa4ddd29382622bbee39cbd.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/f7123eb49fb560e3befd7205cc61096d72572e6c/ss_f7123eb49fb560e3befd7205cc61096d72572e6c.1920x1080.jpg?t=1776158614",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/ac24b9bbc5c50ba113f16ed18ca3dd57272f2c10/ss_ac24b9bbc5c50ba113f16ed18ca3dd57272f2c10.1920x1080.jpg?t=1776158614"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3041230/6c0d1a762a62736e6aa7eabad29bfece0846feae/header_schinese.jpg?t=1777529081",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/2f711c2089d5",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F2f711c2089d5",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOqEB9euqOkkXFS0TT7LtaNnA1?pwd=ruaw",
+      "pwd": "ruaw",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/13m3Rzq9wQqkhNa25gEnFJg?pwd=mqt3",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F13m3Rzq9wQqkhNa25gEnFJg%3Fpwd%3Dmqt3",
+      "pwd": "mqt3",
+      "gi": 2
+    }
+  ]
+}

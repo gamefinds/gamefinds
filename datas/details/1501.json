@@ -1,0 +1,88 @@
+{
+  "u": "https://www.steambk.com/1501.html",
+  "t": "僵尸毁灭工程（Project Zomboid）v42.21.0 免安装中文版下载",
+  "id": 1501,
+  "sg": "更新",
+  "tm": "4周前",
+  "ct": "PC游戏",
+  "sub": "恐怖惊悚",
+  "tags": [
+    "僵尸",
+    "开放世界",
+    "末日",
+    "沙盒",
+    "生存"
+  ],
+  "sz": "9.60GB",
+  "rt": "特别好评",
+  "ver": "v42.21.0",
+  "rdate": "2013 年 11 月 8 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/108600/619982392/141cfd121ea068a87c023951bdbfee87ca524de1/1785320937/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "《僵尸毁灭工程》是丧尸生存类游戏的巅峰之作。无论是单人游玩还是多人联机：你需要搜刮物资、搭建工事、制作道具、浴血奋战、耕种务农、垂钓捕鱼，在绝境中拼尽全力活下去。硬核的角色扮演技能体系、广袤的超大地图、高度自定义的沙盒模式，还有一只可爱的教程指引浣熊，都在等着毫无防备的玩家。那么你会以何种方式殒命？仅仅一口啃咬，便难逃厄运……\n《僵尸毁灭工程》是一款开放式、遍布僵尸的沙盒游戏。它只提出一个简单的问题 —— 你会以何种方式死去？\n在诺克斯事件隔离区内的各个城镇里，我们的幸存者必须搜刮房屋、搭建防御工事，拼尽全力日复一日延缓注定到来的死亡。不会有救援赶来。想要活下去，依靠的是智谋、运气，以及躲开源源不断僵尸潮的能力……\n现有特色\n硬核沙盒僵尸生存游戏，主打写实向生存体验。\n支持在线多人生存，拥有可由玩家自主运营的持久服务器。\n数百只僵尸，具备集群行动机制，以及完善的视觉、听觉感知系统。\n完整视线判定系统，搭配实时光照、声音与可见度机制。被发现了？开枪了？你麻烦大了……\n地图极为广袤且还在持续扩充，大致参考现实中的肯塔基州制作。广阔区域可供你探索、搜刮物资并建立据点。\n载具拥有完整物理效果，以及丰富写实的游玩机制。\n你可以使用工具和物品制作武器、搭建路障、烹饪食物。砍伐树木、锯取木料、搜集物资，打造抵御僵尸的堡垒。\n求生途中，你还要应对抑郁、无聊、饥饿、口渴与疾病等状态。\n昼夜交替，电力中断，尸群迁徙，寒冬降临，大自然会慢慢夺回这片土地。\n包含农耕、垂钓、木工、烹饪、捕猎、角色自定义系统；技能与特长会随着你在游戏中的行动逐步提升。\n僵尸本身不会奔跑（除非你在沙盒设置菜单里开启该选项）。\n氛围感动态配乐，贴合你在诺克斯事件中的冒险历程。\n除常规的爆发、崛起、末日以及噩梦般的灭绝模式外，还有富有创意的挑战剧本。\n支持本地分屏合作游玩。\n完整、开放且功能强大的 Lua 模组编辑支持。\nWindows 平台支持 Xbox 手柄。（其他手柄可手动配置）\n规划中的内容\n回归凯特与光头哥，二人是《僵尸毁灭工程》早期技术演示版的剧情主角。\n持久世界中内容丰富、类型多样的 NPC 交互，由元游戏系统驱动，让每一局游玩都像属于你自己的僵尸生存电影，拥有随机生成的叙事体验。\n持续扩充与翻新受诺克斯事件摧残的乡村、城镇与城市区域。\n新增更多物品、合成配方、武器与游戏机制。",
+  "pt": "",
+  "un": "2026年9月28日，9 月 28 日《僵尸毁灭工程》Build 42.21 稳定版正式推送，该版本先经过了不稳定测试分支的社区验证，本次更新重点修复联机模式下僵尸重复生成、单人 / 联机中玩家重新加载区块后僵尸消失的恶性 bug，同时优化巨型树木的消隐显示逻辑，改善驾车时树木遮挡建筑、家具的问题，另外恢复此前因安全隐患临时禁用的 loadstring 与 loadstream 这两个 Lua 接口，方便模组制作者与服主使用，其余详细改动可查阅官方论坛完整补丁说明，官方后续也将沿用先测不稳定分支、再上线稳定版的更新流程。\n2026年6月1日，本作 6 月 1 日上线 42.19.0 不稳定测试版，官方建议更新后清空模组、新建存档游玩；本次更新新增手柄按键自定义、地面久坐闲置动画与配套手柄定制界面，批量修复全场景手柄操作 BUG，优化多处界面显示与 UI 布局、修正各类弹窗及图标、提示文本异常问题；平衡性上调整了负面状态图标配色、职业天赋与点数负重、织物编织耗材用量，临时移除未完善的铁轨相关物品；联机方面上线多项反作弊指令与机制，恢复服务器 IP 封禁相关功能，修复弹匣消失、物品 / 丧尸重复生成、地图数据窃取、耐力无限等多项联机恶性 BUG，同时解决分屏玩家互相不可见问题，文末附带 Steam 不稳定测试分支的订阅教程。",
+  "vf": "僵尸毁灭工程 下载 | v42.21.0 Project Zomboid | 9.60GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/108600/Project_Zomboid/",
+  "sr": {
+    "操作系统 *": "Windows 10, 64 Bit",
+    "处理器": "Intel 2.77GHz Quad-core",
+    "显卡": "Dedicated graphics card with 2 GB of RAM minimum, OpenGL 2.1 and GLSL 1.2 support (generally 2012 or newer)",
+    "DirectX 版本": "11",
+    "存储空间": "需要 5 GB 可用空间",
+    "声卡": "DirectX Compatible Sound Card"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/108600/e0dd37d69051f7da85896d11027ab018d23893fa/ss_e0dd37d69051f7da85896d11027ab018d23893fa.1920x1080.jpg?t=1787740093",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/108600/d9df2102dd12526700b15660bc5ec8f039dc8742/ss_d9df2102dd12526700b15660bc5ec8f039dc8742.1920x1080.jpg?t=1787740093",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/108600/4c8860818ac52c685bbe0988aa137d52bad4aac5/ss_4c8860818ac52c685bbe0988aa137d52bad4aac5.1920x1080.jpg?t=1787740093",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/108600/ss_eb1862af5109e4658e2538d897cbd16b87ad1818.1920x1080.jpg?t=1787740093",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/108600/ss_507e952789822b69868d768e1e4476946f37b1fb.1920x1080.jpg?t=1787740093",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/108600/ss_eca8be032b3f5508bf5bea74cfbc823a4df047ce.1920x1080.jpg?t=1787740093",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/108600/ss_0dc0cb896202ecfa344a0af981b695f2349317e1.1920x1080.jpg?t=1787740093",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/108600/ss_d80677c526a1c9494a7147189e52fbf438f0a9ca.1920x1080.jpg?t=1787740093"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/fb28afb5acb9",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Ffb28afb5acb9",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VO66bkCxvxjfj-bkkiLTb5OGA1?pwd=e22e",
+      "pwd": "e22e",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1Ujeld8MRDeDP07QpRlCwKw?pwd=w4b7",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1Ujeld8MRDeDP07QpRlCwKw%3Fpwd%3Dw4b7",
+      "pwd": "w4b7",
+      "gi": 2
+    }
+  ]
+}

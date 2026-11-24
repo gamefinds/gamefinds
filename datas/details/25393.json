@@ -1,0 +1,102 @@
+{
+  "u": "https://www.steambk.com/25393.html",
+  "t": "月球清洁工联机版（Moon Sweepers Online）v1.0.5 免安装中文版下载",
+  "id": 25393,
+  "sg": "更新",
+  "tm": "2周前",
+  "ct": "PC游戏",
+  "sub": "益智休闲",
+  "tags": [
+    "增量",
+    "建造",
+    "开放世界",
+    "探索",
+    "物理",
+    "独立"
+  ],
+  "sz": "1GB",
+  "rt": "多半好评",
+  "ver": "v1.0.5",
+  "rdate": "2026 年 10 月 23 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/5335510/784761556/7f2635011f003ecf63a4665d7277f9f6d33d67ef/1792140508/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "整个月球等你打扫，开局只有一把牙刷。与好友组成最多16人的清洁小队，收集并出售月尘，升级工具，解锁清洁载具。把这份离谱的工作做成蒸蒸日上的生意，前提是你的朋友真的肯帮忙。\n月球上到处都是灰尘。月球表面管理局（Lunar Surface Department，简称 LSD）派你和你的队友来把这里打扫干净。可惜，经费只够买一把牙刷。\n收集月尘，把它卖掉，再用赚来的钱购买更好的工具、升级装备。将一场经费不足的清扫任务发展成不断壮大的生意——从每次刷掉那点少得让人抓狂的灰尘开始。\n在最多支持 16 名玩家的在线合作大厅中组队。你们可以分头行动，清扫更大的范围，也可以一起攻克同一片区域。这里的灰尘足够让每个人忙个不停。至于大家是不是真的会干活，那就是另一回事了。\n装满月尘，运到收集站，再把货物发射到太空，换取报酬。用收入购买新的清洁工具、提升携带容量，让你在两次交货之间能完成更多清扫工作。",
+  "pt": "",
+  "un": "10月28日周三更新-v1.0.5（点击查看详细内容）\n10月28日周三\n月球清扫者 1.0.5 补丁\n月球清扫者 1.0.5 补丁\n1.0.5更新带来了更灵活的建造系统：可以随意建造，可以在地基上、下方和旁边建造，移动你建造的物品，以及能整齐地卡在地基上的机器。它还修复了部分玩家加载世界后不久会冻结的问题，让J.O.O.N.A.S.的胶囊分布在你的捕手身上，减少大垒的卡顿，并修复了一长串漏洞。\n建筑\n随处建造：现在每一块都可以建在尘土飞扬的土地上。它下面的灰尘在建造过程中被压平，所以你不必先清理地面。\n在基础、下方和旁边建造：瞄准地基的顶部、底部或侧面，以便在其上、下方或旁边建造。棋子也可以从边缘之外堆砌到空中。\n移动模式：用建造工具按R键，可以把一个带有所有东西都放在上面的部件上，然后免费放回去。港口的传送带会沿着能到达的地方行驶。右键放回去，X键切换去移除模式，按R键或Esc键结束移动模式。在手柄上，按 Y 键离开移除模式。\n全额退款：移除一件棋子现在会退还其全部价格，而不是75%。\n文案轮换与风格：中键点击选角现在也会复制它的旋转和样式。\n机器卡在基础上：石压机和其他机器会对准你瞄准的基础。它们与其垂直，与其边缘齐平或居中，其他则位于0.5米的网格上。鼠标轮以90°步进旋转它们（六边形基础为30°）。按F键可以像之前一样自由放置。\n新选项\n公开游戏警告：现在，启动公开游戏或将你的队伍切换到公开模式，首先会问你。它解释了其他玩家可以对你的月球做什么，以及如何踢或封禁他们（ESC菜单，在你的船员下）。\n聊天声音滑块：音频设置>现在有语音滑块用于文字转语音聊天。\n车辆摄像头：设置>控制中新增了“车辆摄像机跟随”的新选项。关闭它以保持摄像机在你转过的位置，而不是重新置中到车辆后面。\n车库筒仓状况：一个筒仓没有发出灰尘的车库现在会告诉你原因，比如“把传送带连接到它的出水道”。\nJ.O.O.N.A.S.\n更智能的胶囊投递：J.O.O.N.A.S.现在会将每个胶囊发射到最近组中最空的胶囊（接球者相距100米内），而不是填满一个捕获器而旁边的捕获器保持空。当一个组里的每个捕手都超过80%满员时，胶囊会送给下一组。\n固定六边形被清理得远远，玩家保持99.9%且未完成或付费。\n修复了J.O.O.N.A.S.留下一个永久无法建造的永久位置。\n漏洞修复与性能\n修复了游戏在加载某些世界大约半分钟后卡死（“无响应”）的问题，无论是在DirectX 11还是DirectX 12上。\n不再限用10,000粒胶囊：地面上的胶囊不再限制为10,000个。一个世界现在最多可容纳9万个胶囊。\n固定舱体不会装在大底座里，而是用大量舱体装在腰带上。Q，自动包装机和机器又开始打包了。\n固定了玩家自行向前奔跑（“卡住的W键”），键盘和鼠标被忽略，而手柄、摇杆、方向盘或踏板都偏离中心。\n固定扇区显示清洁度为0%，且没有灰尘残留。现在它们会在世界加载时被检查，完成的任务完成并支付。地图上不再显示尚未测量的区域为0%。\n修正了船员传送到另一个空间站，导致下面的玩家被弹出地图。\n我用“保持整个基座保持平坦的基础顶部”，将一排石压机或其他机器固定在地基上。\n南站、东站和西站固定的气球表显示额外的“0 - 0”分数。\n大基地的垃圾回收卡顿会更少。\n修复了离开世界和移除结构后内存泄漏的问题。",
+  "vf": "月球清洁工联机版 下载 | v1.0.5 Moon Sweepers | 1GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/5335510/Moon_Sweepers/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10",
+    "处理器": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+    "内存": "8 GB RAM",
+    "显卡": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 570",
+    "DirectX 版本": "11",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 2 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/6985c316ef6f0988ea33b17954c097268134e3d1/ss_6985c316ef6f0988ea33b17954c097268134e3d1.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/76c76f72cc035c7e0fc49ea971e0bf1c6e1ba6fa/ss_76c76f72cc035c7e0fc49ea971e0bf1c6e1ba6fa.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/20a903f07aa2753cc99f11e26f08784f52ce5560/ss_20a903f07aa2753cc99f11e26f08784f52ce5560.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/63b9ea049e9f963379a0c671043965a8241818f9/ss_63b9ea049e9f963379a0c671043965a8241818f9.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/86c13ff24fc6eea6b8199b88a0fe3a6a6009febb/ss_86c13ff24fc6eea6b8199b88a0fe3a6a6009febb.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/e9fe23641e5bf08387202dcfabf5450a6a0c5de2/ss_e9fe23641e5bf08387202dcfabf5450a6a0c5de2.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/dfa019b7d256412ddd4db7349da5c41d6e4407c6/ss_dfa019b7d256412ddd4db7349da5c41d6e4407c6.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/e6a6a9f0cbc3e69d7e29091bc7dae19ba4727076/ss_e6a6a9f0cbc3e69d7e29091bc7dae19ba4727076.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/cdc8a6a06cf8d682b5e9b5cd2d740feb913bba2b/ss_cdc8a6a06cf8d682b5e9b5cd2d740feb913bba2b.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/bbba14e5a9ccae08e2bededc277afba9e3962095/ss_bbba14e5a9ccae08e2bededc277afba9e3962095.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/97f7ee1528784482fe81959261e1763fccede379/ss_97f7ee1528784482fe81959261e1763fccede379.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/991b71b20ad8ef79568f368fc1e345a1145bc484/ss_991b71b20ad8ef79568f368fc1e345a1145bc484.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/612ddb269880245e448d346a7cb25ae2bf6237c6/ss_612ddb269880245e448d346a7cb25ae2bf6237c6.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/6f2a63a4eff7c0623e98b8e2729584c00e0b7a63/ss_6f2a63a4eff7c0623e98b8e2729584c00e0b7a63.1920x1080.jpg?t=1792738801",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/ca461417b7dd6a6a4953a1723e29c1daf59ae2f1/ss_ca461417b7dd6a6a4953a1723e29c1daf59ae2f1.1920x1080.jpg?t=1792738801"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/394e496f1179",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F394e496f1179",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VP4xuTJP93db01-XnUFulAElA1?pwd=5zc3",
+      "pwd": "5zc3",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1uUKsrBwGZ5JB2zSBw9U_Wg?pwd=w6pa",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1uUKsrBwGZ5JB2zSBw9U_Wg%3Fpwd%3Dw6pa",
+      "pwd": "w6pa",
+      "gi": 2
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "u": "https://www.steambk.com/2030.html",
+  "t": "霓虹深渊2（Neon Abyss 2）v20261030 免安装中文版下载",
+  "id": 2030,
+  "sg": "更新",
+  "tm": "2周前",
+  "ct": "PC游戏",
+  "sub": "肉鸽游戏",
+  "tags": [
+    "刷宝",
+    "独立",
+    "赛博朋克"
+  ],
+  "sz": "1.99GB",
+  "rt": "多半好评",
+  "ver": "v20261030",
+  "rdate": "2026 年 10 月 8 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2235200/1982753201/ca5c4de7aae0a5350faa8ec0fb2d8fb51d99a875/1791382021/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "四人联机 [ 赛博神话 ] 肉鸽！创新武器系统 + 无限道具叠加，用千奇百怪的组合杀穿众神！刀光与子弹炸裂满屏——爽！燥！永远出乎意料！\n酷炫、梦幻、燃爆全场——经典动作Roguelike续作闪亮归来！深入《霓虹深渊2》美丽且危险的赛博神话世界，体验更快节奏的战斗、更严峻的考验、更多样的战斗风格以及意想不到的道具协同效果。享受肾上腺素飙升的瞬间，探索每一场令人难忘的冒险吧！\n《霓虹深渊2》最多支持4人联机游玩，准备叫上你的朋友一同开启这场全新的冒险吧！天知道你们会遇到些什么~\n从挥舞球棒或光剑，到种植花朵攻击敌人，再到指挥神龙帮你作战——打开脑洞，尽情尝试各种奇思妙想的作战方式！\n获得道具赋予你千奇百怪的能力，这些能力还能相互联动，叠加数量更是没有限制。让敌人见识谁才是真正的 BOSS！\n孵化并收集各种颜色的哈基宝（宠物），将它们组合进化成更强大的超级哈基宝。每只哈基宝都拥有独特的能力和机制，为游戏带来丰富多样的玩法。\n全新的信仰系统赋予你运筹帷幄的能力。在宏伟的赌场中一决胜负，在琳琅满目的商店里尽情挥霍，或在萌宠乐园孵化可爱的哈基宝。\n神秘未知的邪恶力量，从未谋面的赛博新神，全面升级的宝物和战利品……还有更多全新系统和机制等待你挖掘。全副武装，同心协力，准备迎接新一轮的冒险吧！",
+  "pt": "",
+  "un": "10月30日周五更新（点击查看详细内容）\n10月30日周五\n万圣节版本更新公告\n注意：更新版本可能会造成继续游戏的数据错误，请完成当前局后再进行更新。\n默认分支更新\n新增内容与调整\n万圣节活动开启：活动期间登录游戏并进入酒吧，可领取第一档奖励；任意通关一次游戏，可领取第二档奖励。\n酒吧换上万圣节主题，更新节日活动界面与装扮特效，并修复切换场景后活动图片丢失的问题。\n支持者礼包新增节日装扮奖励。\n灵魂房支持连续升级：保留尚未选择的奖励，后续升级会追加新的二选一奖励组，各组可独立选择与重掷。\n合并部分重复武器词缀并兼容旧存档；合并后的重复条目保留较高品质，同时修正部分词缀名称。\n战斗与道具修复\n修复大惊奇方块重掷时道具来源与抽取记录异常，以及断线接管后掉落坐标回跳的问题。\n修复大惊奇方块生成的战斗在离房重入后状态异常、阻塞挑战集合的问题。\n修复徽章商店部分道具池未正确参与抽取的问题。\n修复卸下熏黑坩埚后，水晶仍触发爆炸的问题。\n修复鹰击的导弹消失后，武器可能无法再次充能的问题。\n优化无界无人机追击标记目标和返回玩家身边的表现。\n修复棱镜切换房间后重复生成激光，以及循环音效残留的问题。\n修复通过角色技能切换武器后，蓄力环和特效残留的问题。\n修复喷涂获得伤害加成词缀后，伤害数值计算异常的问题。\n修复随从数量类词缀的部分品质加成未正确生效的问题。\n修复部分附加效果道具阻断球类与泡泡武器自动攻击的问题。\n修复卡茜轮盘提前按停时，输入被技能冷却吞掉的问题。\n修复法眼在队友视角下错误置灰及特效透明度异常的问题。\n修复暗灵临时隐藏与复活时的状态恢复异常。\n修复复活或救援后无敌保护被错误覆盖，以及辐射血清在死亡期间错误触发移动和无敌刷新的问题。\n联机与交互修复\n联机战斗统一同步主机的难度设置，完善同步失败时的退出处理。\n修复客机断线重连后信仰状态恢复不完整，以及切换信仰时错误继承其他信仰进度的问题。\n修复武器信仰房的免费使用次数未按玩家独立计算的问题。\n修复工匠房中多人可同时拿走同一轮不同徽章奖励的问题。\n修复存取装置联机同时取出时资源复制及余量显示异常的问题；存取按各自个人存档结算。\n修复持握物失效后，投弹、技能和罐子交互可能卡住的问题。\n修复更换奇物后，换下的道具被重复锁定、无法再次拾取的问题，同时保留房间领取限制。\n修复客机训练房假人和装置模式不同步的问题，重复进入时保留选定模式。\n修复联机尖刺宝箱的客机表现不同步的问题。\n修复炸弹开启轮盘宝箱时可能提前锁住交互，以及轮盘结算完成前房间提前隐藏的问题。\n修复金币信仰献祭与附近 NPC 交互可能互相干扰的问题。\n缩小酒吧音乐机的交互范围，减少与附近交互的干扰。\nBoss 与关卡修复\n为部分缺少出生保护的 Boss 补齐保护，减少刚出场即被击杀导致流程异常的情况。\n修复角色体型变大后，普罗米修斯战斗平台被异常抬高的问题。\n调整缇雅战斗中的碰撞与锁定点。\n修正 AI 之神的瞄准点。\n修复组合怪物延迟出现后，清场仍无法开门的问题。\n修复起始房间重复平台与碰撞问题。\n修复已开启石箱仍可重复触发产虫效果的问题。\n修复死亡过渡期间仍可触发传送门的问题。\n修复部分房间的遮罩显示问题。\n存档、操作与界面修复\n修复首次继续游戏时，武器词缀被初始化覆盖的问题。\n完善安全屋续局失败时的存档保护与恢复。\n修复武器升级奖励延迟生成异常，以及对应武器信息丢失的问题。\n优化手柄右摇杆操作：短拨用于选敌，长推用于方向攻击；手动攻击模式下选敌后可立即攻击，并恢复无锁定目标时短拨攻击。\n修复近距离自动攻击持续等待，以及部分摇杆操作与武器交互冲突的问题。\n优化瞄准指示器与实际枪口方向的对应，修复移动目标自动开火问题；默认关闭武器攻击方向箭头。\n缩短拾取提示横幅的停留时间至 1 秒。\n修复结算门交互与暂停操作竞争时，结算页面可能不可见的问题。\n修复“全凭感觉”命运错误隐藏技能图标、冷却条和装填提示的问题。\n修复局内命运和哈基宝界面的选中框不显示的问题。\n修复 Boss 路线图翻页箭头缺失的问题。\n修正“战争之王”相关任务中与炸弹微笑柜台交易的统计。\n修复酒吧苦难度招牌小人的动画显示。\n修复翻滚期间部分装扮粒子的跟随表现。\n更新部分多语言文本。",
+  "vf": "霓虹深渊2 下载 | v20261030 Neon Abyss 2 | 集成全DLC | 1.99GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/2235200/2/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10 64-bit",
+    "处理器": "Dual Core 2.4 GHz",
+    "内存": "8 GB RAM",
+    "显卡": "GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630",
+    "存储空间": "需要 2 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/aec6fa82f10f4383d7517e170942dc760a96da64/ss_aec6fa82f10f4383d7517e170942dc760a96da64.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/faa84f6e9df4abae5c17b9761bb73d505ef3bf02/ss_faa84f6e9df4abae5c17b9761bb73d505ef3bf02.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/b4ffced08c00903569430a94d3b9a3e9ef51cc85/ss_b4ffced08c00903569430a94d3b9a3e9ef51cc85.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/6ffa57513af47e6895f60abf8ab48f6d40e77c71/ss_6ffa57513af47e6895f60abf8ab48f6d40e77c71.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/302ecc4d902bbc1ee303124dfad70daef418ce8f/ss_302ecc4d902bbc1ee303124dfad70daef418ce8f.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/2977ab97d3af356594acbb40c6e9065797356350/ss_2977ab97d3af356594acbb40c6e9065797356350.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/1a43f3e77d7d474dd47529fd8c7d1eb4dcd79373/ss_1a43f3e77d7d474dd47529fd8c7d1eb4dcd79373.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/3d355b7b37faff5f5f8975f6fe8498202b6a1ec7/ss_3d355b7b37faff5f5f8975f6fe8498202b6a1ec7.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/11d9ba9bc0d2e42c98b0a16bc9ffc6fc563e6e43/ss_11d9ba9bc0d2e42c98b0a16bc9ffc6fc563e6e43.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/eac253bccb19b36c08d715fab390cf4c7cdfa750/ss_eac253bccb19b36c08d715fab390cf4c7cdfa750.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/58871319e4ed87d041e0e8c1600e4cd818b7c847/ss_58871319e4ed87d041e0e8c1600e4cd818b7c847.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/b06c126578ead5eb954d4a5bc7c978e11506eb14/ss_b06c126578ead5eb954d4a5bc7c978e11506eb14.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/04c7dd9a2ef74a37c29429f5f5868b5332318538/ss_04c7dd9a2ef74a37c29429f5f5868b5332318538.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/f9b53197f48a048859f7021e842b0f9e63c14d4c/ss_f9b53197f48a048859f7021e842b0f9e63c14d4c.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/ss_7104e63316bef629b5006187fc7f9c9b368e80c3.1920x1080.jpg?t=1791431953",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/62094a166efa42ecb3596d67f32cc41fb3b3ebdf/ss_62094a166efa42ecb3596d67f32cc41fb3b3ebdf.1920x1080.jpg?t=1791431953"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2235200/51fbca923d08b23353c4bb704b6dbd051a63da1e/header_alt_assets_0_schinese.jpg?t=1792638356",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/232ef01193e7",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F232ef01193e7",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOM7L37QCl6dMsgGhYW-7V7_A1?pwd=7sj4",
+      "pwd": "7sj4",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1XFuzvb40iJYGUn4OWSrCAA?pwd=3s7j",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1XFuzvb40iJYGUn4OWSrCAA%3Fpwd%3D3s7j",
+      "pwd": "3s7j",
+      "gi": 2
+    }
+  ]
+}

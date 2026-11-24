@@ -1,0 +1,82 @@
+{
+  "u": "https://www.steambk.com/26186.html",
+  "t": "咚奇刚：蕉力全开（Donkey Kong Bananza）v0.2.0 免安装PC移植版下载",
+  "id": 26186,
+  "sg": "更新",
+  "tm": "1周前",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "剧情",
+    "奇幻",
+    "探索"
+  ],
+  "sz": "9.74GB",
+  "rt": "暂无",
+  "ver": "v0.2.0",
+  "rdate": "2025 年 7 月 17 日",
+  "vd": [],
+  "in": "《咚奇刚：蕉力全开》是一款由任天堂推出的3D动作冒险游戏。玩家将扮演拥有惊人力量的咚奇刚，与神秘少女宝琳携手展开一场充满惊喜与挑战的地下世界冒险之旅。\n游戏以独特的环境破坏玩法为核心，玩家可以利用咚奇刚强大的拳头击碎岩石、轰开墙壁、挖掘地下通道，甚至改变地形结构，在广阔而多样的立体场景中自由探索。随着冒险深入，玩家还能够通过特殊变身能力获得全新的战斗与移动方式，突破各种机关障碍，挑战强大的敌人与Boss。\n游戏采用色彩鲜艳的卡通美术风格，融合自由探索、平台跳跃、动作战斗、隐藏收集与解谜元素。丰富的地下生态环境、充满创意的关卡设计以及爽快的破坏反馈，让玩家在不断深入地底的过程中体验充满活力与想象力的冒险乐趣。\n游戏还支持双人合作模式，玩家可以分别操控咚奇刚与宝琳，共同探索地下世界，享受破坏、收集与冒险带来的乐趣。",
+  "pt": "本移植版基于开源项目 DKB Recomp 开发，采用静态重编译技术，将 Nintendo Switch 2 平台的《咚奇刚：蕉力全开》（Donkey Kong Bananza）移植至 PC 平台，尝试以原生程序运行游戏，而非依赖传统模拟器。\n原生 PC 移植：通过静态重编译技术，将原版 ARM64 游戏代码转换为可在 Windows x64 系统运行的原生程序。\n无需模拟器：游戏运行时无需启动 Switch 2 模拟器，通过独立可执行程序运行。\nVulkan 图形渲染：使用 Vulkan 图形接口重新实现原版 NVN 2 图形调用，适配 PC 显卡。\n原版画面还原：支持部分 Switch 2 图形指令及着色器转换，逐步恢复原版游戏画面与视觉效果。\n原生手柄支持：已实现控制器输入，可使用手柄进行移动、攻击等基础操作。\n游戏动画支持：已实现 VP9 视频播放功能，可正常播放部分游戏引导动画及过场内容。\n画面设置支持：针对游戏 1.0.0 版本提供分辨率、宽屏及帧率相关设置，部分功能仍处于实验阶段。\n多平台适配：主要面向 Windows 10/11 x64，同时提供 Linux 与 macOS 的预览支持。\n持续优化：不断改进着色器兼容性、纹理处理、显卡适配及运行性能。\nv0.2.0 版本优化\n新增游戏 3.2.0 更新版本的构建支持。\n新增 DLC 附加内容读取功能，实际游戏内兼容性仍待验证。\n修复部分 AMD 显卡上的地图青色异常图形。\n优化画面颜色异常处理，减少泛光效果产生的错误光带。\n修复游戏初始阶段左声道无声的问题。\n优化纹理上传机制，减少不必要的重复数据传输。\n扩展着色器转换兼容性，改进部分图形指令处理。\n优化安装工具的显卡驱动识别及系统内存提示。\n改进 Linux 环境下的音频及图形兼容处理。",
+  "un": "",
+  "vf": "咚奇刚：蕉力全开 下载 | v0.2.0 Donkey Kong Bananza | Switch2移植版 | 9.74GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10",
+    "处理器": "Intel Core i5-6400 (2.7 GHz 4 Core)",
+    "内存": "16 GB RAM",
+    "显卡": "NVIDIA GeForce GTX 1060 (req. 6GB VRAM)",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 20 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae9d4af/irMy21Gm8v-97YeQvpmsHv_1ec3b.jpg",
+    "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae9d4b3/gz7psU4VPADdSy_6rz0Ven_2ec01.jpg",
+    "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae9d4b6/i4iJZ4hyxlieRsq5lyVKPz_1aaee.jpg",
+    "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae9d4b8/JcTUnvbOqvJIILjxJ21jfv_256a5.jpg"
+  ],
+  "cv": "https://img.y.qq.com/qmimg/user/oKcioKoz7iCkov/img02/6ae9d409/hY3cGKiCNH9zky4DF77Puz_ac23.jpg",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/d0a021598bc2",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fd0a021598bc2",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VP63qfrALRHKOLiPOKAk1_I7A1?pwd=5pzc",
+      "pwd": "5pzc",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1flCyEk2tazaTjQrtGsBgpA?pwd=jutx",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1flCyEk2tazaTjQrtGsBgpA%3Fpwd%3Djutx",
+      "pwd": "jutx",
+      "gi": 2
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "u": "https://www.steambk.com/13138.html",
+  "t": "星砂岛（StarSand Island）v1.11.2180 免安装中文版下载",
+  "id": 13138,
+  "sg": "更新",
+  "tm": "1天前",
+  "ct": "PC游戏",
+  "sub": "益智休闲",
+  "tags": [
+    "农场",
+    "可爱",
+    "建造",
+    "探索",
+    "沙盒"
+  ],
+  "sz": "9.42GB",
+  "rt": "褒贬不一",
+  "ver": "v1.11.2180",
+  "rdate": "2026 年 8 月 18 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2966320/1124004791/3c78f6fa4a2b7efab16d6962bb7bb68a70d15c12/1785479551/hls_264_master.m3u8",
+      "type": "hls",
+      "t": "正式宣传片"
+    },
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2966320/132557534/9522f311f70f4988a6ecba3c64be2fe45148117a/1770022128/hls_264_master.m3u8",
+      "type": "hls",
+      "t": "预告宣传片"
+    }
+  ],
+  "vt": [
+    "正式宣传片",
+    "预告宣传片"
+  ],
+  "in": "厌倦了城市的繁冗生活？那就回到温馨家园星砂岛吧！在这座美丽的小岛上，您将体验一段轻松写意的田园生活。您可以在这里享受慢节奏的日常，与可爱的水豚、猫狗等小动物为邻，体验渔获丰收的喜悦，探索神秘的荧月之森或是单纯享受这座岛屿自然美景。让我们一起逃离无聊的都市，在这片海上桃源重拾生活的美好。\n与自然和谐共生的理想生活： 在星砂岛，您可以种植当地特色的热带果蔬，打理属于自己的农场；饲养各类可爱的动物，与它们建立深厚的感情；依据地形建造独具特色的乡村别墅，装点错落有致的露台花园。岛上的一切都在等待您的探索与经营。\n自由自在，快意人生： 踩着滑板漫游在细长的海岸线上，骑着复古小摩托穿行于葱郁的树林间，扬帆远航探索邻近岛屿的奥秘。星砂岛为您准备了丰富多样的交通工具，让您尽情感受不同速度带来的乐趣。更有标志性的环岛公路，您可以驾驶载具领略岛屿的秀丽风光。\n与温暖人心的岛民共度时光： 在这座人情味浓厚的岛屿上，每个居民都有着自己独特的故事。通过日常互动和特别任务，增进与岛民们的友谊。随着关系的深入，或许能找到那个想要与您一起在星砂岛共度余生的人。\n揭开岛屿的神秘面纱，趣味战斗：在迷雾笼罩的岛屿深处，等待着您探索的不仅有丰富的矿藏和珍贵的宝藏，更有神秘的古代遗迹。学习并使用各种战斗技巧与奇异生物战斗，它们或许会带给您意想不到的惊喜。",
+  "pt": "",
+  "un": "11月12日周四更新-v1.11.2180（点击查看详细内容）\n11月12日周四\n星砂岛1.0正式版本 更新日志 版本号1.11.2180\n【角色/NPC】\n修复顾禾委托任务【闲聊】中，与沈梅在咖啡馆对话结束后沈梅模型与桌子穿模的问题；\n修复与NPC对话结束后，鼠标操作异常的问题；\n修复初夏2心好感度任务【小助理的日常】中，部分情况下流程卡住、NPC持续停留原地的问题；\n【任务】\n修复初夏委托任务【感冒药】中，向杂货店柜台内的百里零提交感冒药时镜头切换异常视角的问题；\n修复接取枫汐3心好感度任务【潮汐归途】后，选择约会地点后黑屏传送卡住、任务暂停的问题；\n修复完成顾禾4心好感度任务【暴雨之后】后，邮件描述中提示有物品奖励但实际未附带奖励的问题；\n修复部分情况下小岛生活家达到“交通枢纽”后未出现【星砂岛站建设】任务的问题；\n【显示】\n修复【相册】收集奖励页面显示异常的问题；\n修复联机时访客端观看鱼缸、鱼塘中的鱼不会游动的问题；\n修复部分河边场景中，河岸与陆地之间出现明显分割线的问题；\n修复食物Buff数量过多时无法滑动查看Buff信息的问题；\n【其他】\n修复机器人终端奖励已满时，“收取奖励并重新派遣”按钮无法通过手柄操作的问题；\n修复畜牧棚窝距离过远时，产物不会被采集机器人收取的问题；",
+  "vf": "星砂岛 下载 | v1.11.2180 StarSand Island | 9.42GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/2966320/_/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10 or later",
+    "处理器": "Intel i3-2120 / AMD A10-8750 or similar",
+    "内存": "8 GB RAM",
+    "显卡": "NVIDIA GeForce GTX 650 / AMD Radeon R9 M375X or similar",
+    "DirectX 版本": "11",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 20 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/ss_e980f1439726b6c8768d491afade55f8e697cc05.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/ss_4b7c2cb03bb098db1eda86a261ff5f4f52b16729.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/ss_0b1c5d657877372d66bf175ab094d8fe31aaa0f7.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/ss_884a4860a49e1e2b58d00f4f16e24545ffcd53d1.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/ss_319c80f707e4a890b0c07041fd6292bd53aa69f2.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/ss_3b46211c24f3c0b63962367bebec4669a1058794.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/67b08f6690cc71d892d05118245872f22d7b5721/ss_67b08f6690cc71d892d05118245872f22d7b5721.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/b601413a4d90fd70a996eb3b4dc5c00fa5570228/ss_b601413a4d90fd70a996eb3b4dc5c00fa5570228.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/5d934a051662b3ed689812fba3a015b0b516857e/ss_5d934a051662b3ed689812fba3a015b0b516857e.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/9405cbe2fc1180727305314d161dd63f5927e11a/ss_9405cbe2fc1180727305314d161dd63f5927e11a.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/8f2c6e970d41aee43a56bf5484096562b70035d5/ss_8f2c6e970d41aee43a56bf5484096562b70035d5.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/8b2cd354c6721a5d68161d2e2b9439138f9c86df/ss_8b2cd354c6721a5d68161d2e2b9439138f9c86df.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/f4c3d81d69cc43f0ece4e655d3fded37617630ba/ss_f4c3d81d69cc43f0ece4e655d3fded37617630ba.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/20a0660f0b7c14a13ef336c81bdeb786c34b43b5/ss_20a0660f0b7c14a13ef336c81bdeb786c34b43b5.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/e00dc25f803809cb2bad8c8d4e60bee357e72d47/ss_e00dc25f803809cb2bad8c8d4e60bee357e72d47.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/5bcb5beeb1954f2f305abc1f97f2ef4d91a1a483/ss_5bcb5beeb1954f2f305abc1f97f2ef4d91a1a483.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/470e9deb932f2000b0ae217b7adcfe8a67ebe422/ss_470e9deb932f2000b0ae217b7adcfe8a67ebe422.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/dcd68dc4c6eb67734d37e28f159d1ad4cea25710/ss_dcd68dc4c6eb67734d37e28f159d1ad4cea25710.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/05d3d17183072629ea7f09821735205d657253ca/ss_05d3d17183072629ea7f09821735205d657253ca.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/8460547882ebedcc5edf248cab48528518465684/ss_8460547882ebedcc5edf248cab48528518465684.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/f930fa324b9f516345c4b1c25e066214d7b1d7b8/ss_f930fa324b9f516345c4b1c25e066214d7b1d7b8.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/5eee0b367e899263c7b829d33f5c6d43d71a0efc/ss_5eee0b367e899263c7b829d33f5c6d43d71a0efc.1920x1080.jpg?t=1770841751",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/e8a5911ac613e335da56bf0a52d9c87314992bf0/ss_e8a5911ac613e335da56bf0a52d9c87314992bf0.1920x1080.jpg?t=1770841751"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2966320/607b2f7677edc0dca354820ce580d8ecd291eb41/header_schinese.jpg?t=1794191859",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/c4f4dda82b60",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fc4f4dda82b60",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOlEkWybMEzy--VX5g9HVCShA1?pwd=ts2t",
+      "pwd": "ts2t",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1NOBcxapkTD_y95-RByQlbg?pwd=45yw",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1NOBcxapkTD_y95-RByQlbg%3Fpwd%3D45yw",
+      "pwd": "45yw",
+      "gi": 2
+    }
+  ]
+}

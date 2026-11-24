@@ -1,0 +1,91 @@
+{
+  "u": "https://www.steambk.com/22505.html",
+  "t": "渔力全开联机版（How to Fish Online）v1.1.3 免安装中文版下载",
+  "id": 22505,
+  "sg": "更新",
+  "tm": "2026-10-03",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "卡通",
+    "合作",
+    "物理",
+    "独立",
+    "钓鱼"
+  ],
+  "sz": "625MB",
+  "rt": "好评如潮",
+  "ver": "v1.1.3",
+  "rdate": "2026 年 8 月 20 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/4001890/1509866700/0a2d65236b13d187ce8d7d8eca946a501b7fad47/1786614175/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+  "pt": "",
+  "un": "2026年9月29日，本次 1.1.3 版本为小型补丁，仅新增一项内容：在鱼类图鉴中展示捕获对应鱼类所需的诱饵名称，该信息在玩家击杀该鱼类一次后即可查看，方便玩家搜寻滴水生物。版本 1.1.2 小型修复补丁，本次更新针对新版本做多项调整：新增重载按键自定义功能与 2 款弓箭皮肤；上调新小岛新鱼饵生成数量（由 2 改为 3），强化闪光钓竿皮肤光泽，调整许愿骨升级价格，放大雷达上小岛标记点，并恢复可切回机械瞄具的选项；同时修复新鱼饵无法产出丁鱥、新小型 BOSS 模型三角面朝向错误的问题。\n2026年9月5日，9 月 5 日周六推出 How to Fish 的 1.0.12 版本补丁，这大概率是开启内容更新前的最后一个 BUG 修复补丁；本次更新新增 Steam 云存档功能，需在存档过的电脑上启动并退出游戏完成存档上传；对食人鱼数值重做平衡、小幅削弱金枪鱼，限制物品移动速度减少物品丢失情况，升级 MetaVoice 至 4.3 版本优化语音聊天；同时修复了加入房间时渔网功能强制篡改最高帧率、首次购买收音机出现音乐卡顿峰值、最终 BOSS 尾部落地后不吃爆炸物伤害的问题。\n2026年9月2日，本次《How to Fish》1.0.11 版本补丁新增支持 GeForce NOW 云游戏游玩，完成 Steam Deck 完整认证，追加瞄准、冲刺、攻击、玩家名称标签的开关 / 按住触发操作选项；优化存档校验与备份机制，调整 6 号岛屿轮盘赌桌位置，修改物品标识点颜色，关闭友伤时自身爆炸物仍可造成自伤，移除可购买的机械瞄具，取消消音器降级更换补偿器的功能；同时修复了加入对局后背包异常导致玩家隐身、未握持过的物品可直接售卖、滴流鹦鹉鱼无法烹饪、拾取物品时手部位移异常等问题，整体提升游戏稳定性与多平台适配表现。\n2026年8月28日，本次 1.0.10 版本是游戏迄今为止规模最大的更新，官方在社区 Discord 新增同人作品频道，欢迎玩家投稿《How to Fish》相关同人创作；玩法方面新增浸水可清理烹饪附着在武器工具上的污渍、地面掉落物可跨存档保存（上限 64 件，优先保留武器、工具、任务物品与生物）两项机制，小幅削弱了生命值过高、体验烦人的安康鱼；同时修复大量问题：解决啤酒受击漏液、金枪鱼击杀触发信天翁生成后玩家无法复活、上次游玩时间时区显示错误、聊天富文本被恶意滥用、爆炸道具飞出过远消失、玩家与海鸥同时拾取物品引发异常、轮盘赌高额数值无限运算、轮球穿模、退出轮盘赌导致后续对局故障、装备物品时物件远距离生成、读档 / 加入大厅物件穿模坠落等诸多 bug，还调整雷达移除死亡位置 X 标记、终局界面隐藏物品标识，日志文件输出游戏版本号、延长连接超时时间，以此优化调试与联机体验。\n2026年8月25日，本次 1.0.9 版本更新新增难度调节选项，可在主菜单与游戏内切换简单、默认、困难三种模式，简单模式下所有怪物生命值降低 25%、伤害降低 50%，困难模式所有怪物生命值与伤害均提升 25%；主菜单新增 Steam 连接调试提示，Steam 中继文字变红可前往官方 Discord 的常见问题频道查阅修复方案，同时修复存档损坏问题，若仍存在存档读取、装备武器时游戏崩溃的情况，同样可前往 Discord 获取对应解决办法。",
+  "vf": "渔力全开联机版 下载 | v1.1.3 How to Fish | 625MB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/4001890/_/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10+",
+    "处理器": "Intel Core i5-5257U, AMD Ryzen 3 1200 or equivalent",
+    "内存": "8 GB RAM",
+    "显卡": "GeForce GTX 1050, AMD RX 460 or equivalent",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 1 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4001890/48f6817fe466a7c9666605527558bf1fac48d0d2/ss_48f6817fe466a7c9666605527558bf1fac48d0d2.1920x1080.jpg?t=1787234618",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4001890/5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48/ss_5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48.1920x1080.jpg?t=1787234618",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4001890/2a912cdbf746286400cece1ca607ac077c11a1dc/ss_2a912cdbf746286400cece1ca607ac077c11a1dc.1920x1080.jpg?t=1787234618",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4001890/e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2/ss_e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2.1920x1080.jpg?t=1787234618",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4001890/65be87272efaa4bac87e16dc764a9535165effd2/ss_65be87272efaa4bac87e16dc764a9535165effd2.1920x1080.jpg?t=1787234618",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4001890/3c10ad99000bdcf9cd99509de59d2a1351496690/ss_3c10ad99000bdcf9cd99509de59d2a1351496690.1920x1080.jpg?t=1787234618",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4001890/57f53b814c84511019f86aa89cedaed37148dcfa/ss_57f53b814c84511019f86aa89cedaed37148dcfa.1920x1080.jpg?t=1787234618"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/a49570e7237d",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fa49570e7237d",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VP-c_DyhDcwSxi5kB6unUtPgA1?pwd=sznt",
+      "pwd": "sznt",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1Y_Gu9DZxJxHNq6r0coHvnw?pwd=ixhw",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1Y_Gu9DZxJxHNq6r0coHvnw%3Fpwd%3Dixhw",
+      "pwd": "ixhw",
+      "gi": 2
+    }
+  ]
+}

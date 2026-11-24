@@ -1,0 +1,95 @@
+{
+  "u": "https://www.steambk.com/24511.html",
+  "t": "艾斯莱邦（Eslabong）v0.91.3 免安装中文版下载",
+  "id": 24511,
+  "sg": "更新",
+  "tm": "3周前",
+  "ct": "PC游戏",
+  "sub": "角色扮演",
+  "tags": [
+    "中世纪",
+    "像素",
+    "奇幻",
+    "战术"
+  ],
+  "sz": "1.93GB",
+  "rt": "特别好评",
+  "ver": "v0.91.3",
+  "rdate": "2026 年 8 月 25 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/4560660/1773458805/7b1d73703d65bb52f76fbe976eec54a8d9a36aa4/1782249412/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "在实时竞技场战斗中作战，经营你的俱乐部，在动作战斗与策略经营相结合的玩法中不断成长。招募佣兵，打造队伍，在联赛与杯赛中竞争，登上巅峰。\n在快节奏的竞技场战斗中操控一名战士。瞄准技能、移动并实时反应，通过走位和时机压制对手。或者后撤一步，制定战术，观看你的队伍作战。\n赢得战斗获取金币，买卖佣兵并强化你的阵容。发现拥有独特技能的职业，打造你的队伍，并在赛季中不断提升。\n在结构化的联赛和锦标赛中检验你的队伍。对抗强大的俱乐部和独特的领袖，招募稀有冠军，一路攀登至顶峰。\n每一次游玩都需要新的决策。随机属性、不断变化的阵容和动态对手让每个赛季都不同，而市场提供了新的适应与提升方式。\n一个战争被竞技场战斗取代的中世纪世界。佣兵俱乐部在结构化的联赛中为权力、金币与声望而战。进入竞技场，登上巅峰。",
+  "pt": "",
+  "un": "10月31日周六更新（点击查看详细内容）\n10月31日周六\n早期ACESS 0.91.3——更多自定义选项和修复。\n大家好！这是一个新补丁，主要修复了漏洞，新增了英雄，并对创建你的英雄进行了改进，比如增加了更多属性和自定义选项。\n下周将推出新内容，包括新职业和新的构建辅助遗物。\n经过最近几轮平衡，职业变得更平衡了，不妨试试一些未使用的法术和技能！\n补丁说明如下。谢谢，祝你周末愉快。\n早期ACESS 0.91.3\n新冠军与自定义\n——新增一名摔跤手冠军。\n• 创建冠军现在获得480点属性点，并在首次重生时可以重新掷成长风格。\n• 增加了更多冠军发型和自定义选项。\n• 扩展自定义外观，包括冠军创建和晋升流。\n战斗与平衡\n——进一步提升了圣殿骑士的生命值和防御，提升了弓手的基础攻击伤害和弹速，同时降低了哨兵和钢风的基础攻击伤害和防御。\n• 重新设计了个人闪避和错误掷骰，以增加一个好闪避者与坏人之间的区别。\n• 借来的自我增益现在会尊重其激活条件，而不是立即开火。\n• 改进幻影在近战距离的漂移锚点使用率，并替换了放置错误的锚点。\n• 修正了近距离的哥布林弓箭手的发现者守护者优先权。\n• 扩展滚动雷霆护符与以自身为中心的范围攻击、旋转、扫荡和冲击能力的兼容性。\n• 修复了战斗AI中的无效引用错误和中断冲锋的清理问题。\n战术与选秀模式\n——将战术下拉菜单替换为直接选择按钮和更清晰的自然/自定义指示。\n• 高级战术在首次征兵交战前可用。\n• 选秀赛之间及重新加载后，战术变更仍会持续。\n• 修复了开启战术或改变能力顺序时的选秀进程重置问题。\n• 选秀预备役现在在玩家回合时进入棋盘，防止AI队伍在玩家看到新加入的选手之前选择他们。\n• 杯赛阵容现已尊重近期一线队的变动，包括阵型和控制。未变的球队在各轮之间保持杯赛设置，之前的杯赛阵容仍可手动查看。\n战役与活动\n——活动选择现在就能提前显示奖励！\n• 公开团队杯和盲人队冠军宝箱由铜牌升级为金牌，适用于新注册者。\n• 公开团队杯现在采用BO3→、BO3→BO3，并采用更具结构化的敌人阵容和目标。\n• 固定租借在杯赛、次级联赛和轮空周期间未到期。\n• 固定冠军拍卖列表显示销售价格，而非当前最低出价。\n• 新增直接退出预定比赛选拔队伍的机制，防止无合格选手时被封锁。\n• 将冠军和被指定领袖排除在基于级别的赛季修正抽签之外。\n性能与界面\n——通过AI缓存和更轻的HUD更新，提升了大型战斗性能，尤其是在8v8中。\n在市场预览中新增了Dodge / Mistakes。\n优化战后处理，加快AI阵容评估和贷款报价生成。\n对手头像现在在背景中准备，以减少停滞，然后再进行CONTINUE。\n超宽屏显示器（包括3440×1440）的固定团队HUD重叠。",
+  "vf": "艾斯莱邦 下载 | v0.91.3 Eslabong | 1.93GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/4560660/Eslabong/",
+  "sr": {
+    "操作系统": "Windows 10 (64-bit)",
+    "处理器": "Intel Core i3-2100 / AMD FX-4300",
+    "内存": "8 GB RAM",
+    "显卡": "Intel HD Graphics 4000",
+    "存储空间": "需要 2 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/ae5f131dab9552c08be9132b55eeb8a25d41c855/ss_ae5f131dab9552c08be9132b55eeb8a25d41c855.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/130a022cf5ee1713894ed3db0facd725fa4ff21e/ss_130a022cf5ee1713894ed3db0facd725fa4ff21e.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/cc7036b2c1b772339a3b822706f4e4f1b5209f6b/ss_cc7036b2c1b772339a3b822706f4e4f1b5209f6b.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/c92b8ae36cdf3805ae2681dcfdf33249c1a6a3cc/ss_c92b8ae36cdf3805ae2681dcfdf33249c1a6a3cc.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/783c2a101c54b9066d1d54592b3098e96ecfd717/ss_783c2a101c54b9066d1d54592b3098e96ecfd717.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/d33b03e352baa869d68f1a03eae3cfee2198d911/ss_d33b03e352baa869d68f1a03eae3cfee2198d911.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/6d08c210906e3320a658d783867af80a41ab24b8/ss_6d08c210906e3320a658d783867af80a41ab24b8.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/dc7f139ac8ed0a5cf3529b0e840c4de9f217e99c/ss_dc7f139ac8ed0a5cf3529b0e840c4de9f217e99c.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/ff7548c90bbffc624bada6881a6660de407d916a/ss_ff7548c90bbffc624bada6881a6660de407d916a.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/7840ef0fe06d9258e0ec5aa4b2ed44de28543a47/ss_7840ef0fe06d9258e0ec5aa4b2ed44de28543a47.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/baac11945812d946a7784ebe71399b6fec311a83/ss_baac11945812d946a7784ebe71399b6fec311a83.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/e345f5172fa99e43b1af073a127f9ced161a65e9/ss_e345f5172fa99e43b1af073a127f9ced161a65e9.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/f6ae838aa66c0937bf74c3234dc2f41350befacc/ss_f6ae838aa66c0937bf74c3234dc2f41350befacc.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/e4442b414836c738e47bc8e0bd28d3b42c1a5866/ss_e4442b414836c738e47bc8e0bd28d3b42c1a5866.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/df2bcaff287f2b910672b2cf2e781bb6f4d5a812/ss_df2bcaff287f2b910672b2cf2e781bb6f4d5a812.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/0145dcb32e79bb1408a09170766fdd12d76e2748/ss_0145dcb32e79bb1408a09170766fdd12d76e2748.1920x1080.jpg?t=1790625897",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/9120cd169c8b9be6ef16f891293c959461142856/ss_9120cd169c8b9be6ef16f891293c959461142856.1920x1080.jpg?t=1790625897"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4560660/2f57705341159c9893b7626b1b9c55fa0562d4ed/header.jpg?t=1793330318",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/ed4e421cfa30",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fed4e421cfa30",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VP3e2RA6rZZhLUClgp7FWX5bA1?pwd=t9pb",
+      "pwd": "t9pb",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/11EPDdSmPJ1zCadsf2Sahug?pwd=74f7",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F11EPDdSmPJ1zCadsf2Sahug%3Fpwd%3D74f7",
+      "pwd": "74f7",
+      "gi": 2
+    }
+  ]
+}

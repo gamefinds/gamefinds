@@ -1,0 +1,89 @@
+{
+  "u": "https://www.steambk.com/18078.html",
+  "t": "他们来了（It Reaches）免安装中文版下载",
+  "id": 18078,
+  "sg": "新游",
+  "tm": "2026-05-19",
+  "ct": "PC游戏",
+  "sub": "恐怖惊悚",
+  "tags": [
+    "悬疑",
+    "拟真",
+    "物理",
+    "黑暗"
+  ],
+  "sz": "4.94GB",
+  "rt": "好评",
+  "ver": "v20260518",
+  "rdate": "2026 年 5 月 18 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/4119360/324435991/e6b48f6f09f95d747b47fe6bcd141cf2b90226a8/1770388899/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "《It Reaches》是一款第一人称恐怖游戏，通过警察随身摄像头的视角展开。你被困在废弃医院的设施内，必须设法逃离潜伏在地下的恐怖。揭开遗留的黑暗谜团，切勿被抓住！它们正向你伸出魔爪……",
+  "pt": "",
+  "un": "",
+  "vf": "他们来了 下载 | v20260518 It Reaches | 4.94GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/4119360/It_Reaches/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10",
+    "处理器": "Intel core i5-8400 or AMD Ryzen 5 2600",
+    "内存": "8 GB RAM",
+    "显卡": "GTX 1060 or equivalent",
+    "DirectX 版本": "12",
+    "存储空间": "需要 8 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4119360/5f6dd27660e65bcf2661131342e13ccde86099c6/ss_5f6dd27660e65bcf2661131342e13ccde86099c6.1920x1080.jpg?t=1779055239",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4119360/50bc169e6321df1254705ebbc081146d140e51cf/ss_50bc169e6321df1254705ebbc081146d140e51cf.1920x1080.jpg?t=1779055239",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4119360/4c33d82267e8e63e86c2e6e42e18736a3653b636/ss_4c33d82267e8e63e86c2e6e42e18736a3653b636.1920x1080.jpg?t=1779055239",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4119360/f35b18088605d8fd18b0a1a55d4313d7e5c52874/ss_f35b18088605d8fd18b0a1a55d4313d7e5c52874.1920x1080.jpg?t=1779055239",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4119360/c7cc9c700ecaed23a3cf950b1e0a626b4202ed48/ss_c7cc9c700ecaed23a3cf950b1e0a626b4202ed48.1920x1080.jpg?t=1779055239"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/4119360/e9bbcbafb3a3d21391a4a2dde40e7a64d09ee0da/header.jpg?t=1779055239",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/169eff4047da",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F169eff4047da",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOszaeibj9MmNMyNG8-FHjKoA1?pwd=vjhi",
+      "pwd": "vjhi",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1BmVS197XDNWVl7vKRrzlxg?pwd=tduf",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1BmVS197XDNWVl7vKRrzlxg%3Fpwd%3Dtduf",
+      "pwd": "tduf",
+      "gi": 2
+    }
+  ]
+}

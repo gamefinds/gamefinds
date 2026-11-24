@@ -1,0 +1,96 @@
+{
+  "u": "https://www.steambk.com/21348.html",
+  "t": "致病本源（Pathogenic）v1.3.10 免安装中文版下载",
+  "id": 21348,
+  "sg": "更新",
+  "tm": "4周前",
+  "ct": "PC游戏",
+  "sub": "肉鸽游戏",
+  "tags": [
+    "弹幕",
+    "探索",
+    "迷宫"
+  ],
+  "sz": "2.8GB",
+  "rt": "特别好评",
+  "ver": "v1.3.10",
+  "rdate": "2026 年 7 月 16 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/3808690/1249389595/4cbbcd614d134c44d18127eb3576db92a7d78dba/1784205167/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "你，就是病原体。在这款细胞肉鸽射击游戏中，化身孤独的寄生者感染人体。收集细胞器，进化自身，在这场与宿主免疫系统的微观军备竞赛中脱颖而出。征服这片瑰丽而精巧、程序生成的微小世界。\n细胞级战斗的进化\n在《致病本源》 中，你就是疾病本身。体验一款血肉观下的 2D Roguelike 双摇杆射击游戏——化身孤独的寄生病原体，与免疫系统展开殊死搏斗。你的目标很简单：感染，并彻底征服你的宿主。\n为了生存，你必须不断进化。猎杀敌对细胞，掠夺它们的细胞器，并将其移植到你的本体中。从最初的单细胞，成长为毁天灭地的进化机器，成为强大到打破规则的存在，化身终极病原体。\n打造属于你自己的病原体\n掠夺、移植、组装——从数十种独特的细胞器中任意组合。用鞭毛提升移动能力，用线粒体提供能量，用分泌器发动远程攻击，用细胞刺进行近战搏杀。结合细胞器引发链式效果，探索强力的协同组合，缔造一场无法阻挡的疾病之灾。\n与免疫系统正面交锋\n迎战形形色色的敌人，从基础的免疫细胞，如巨噬细胞、T 细胞，一路挑战到宿主体内的其它强力对手，如绦虫、原生生物。更有强大的BOSS潜伏在器官深处，等待你的挑战。\n元进度\n收集质粒碎片，在每次游戏之外永久升级你的寄生体质粒树。每个寄生体都拥有独立的升级树，使你能够打造各种不同构架，选择契合你喜好的玩法。\n探索微观世界\n在这片程序生成的有机奇境中，你将穿行于人体内部。一路探索截然不同的生物群落：蜿蜒曲折的肺部气道、规律跳动的心脏腔室，以及错综复杂的大脑神经网络。\n感受有机动作的律动\n我们打造了以软体物理模拟为核心的细致而色彩斑斓的世界，让每个细胞、敌人和子弹都拥有独特而舒畅的原生质感。\n手工设计与程序生成的结合，保证你的每一次游玩体验都独一无二，带来无尽的挑战与新鲜感。",
+  "pt": "",
+  "un": "2026年10月19日，《致病本源》1.3.0 补丁以性能优化为核心，将软体、攻击等关键模块迁移至原生代码，默认启用多线程绚丽画质引擎，新增攻击数量上限、敌人接触伤害高亮等图像选项，补充加载提示、模组独立开关与匈牙利语本地化；同时对大量细胞器、专精进行平衡性调整，重做凋亡体机制，大幅降低各类战斗特效与单位的性能消耗，优化 GPU、显存占用、暂停渲染逻辑与多平台体验，并修复回旋体组合、光束判定、每日挑战等多项 Bug，同步更新多人测试分支内容。\n2026年7月22日，7 月 22 日《Pathogenic》发售首周销量突破 10 万份，官方同步推出大型售后更新，本次更新针对关卡平衡、单人玩法、隐藏关卡机制、画面操作 UI 及大量 BUG 进行优化调整：战斗层面下调肺部关卡敌人强度、延长冲刺攻击预警时间，重做癌变、瞬生细胞器词条机制，调整各类单位数值与爆炸物燃烧伤害；新增硅藻单人游玩模式，玩家可在角色选择界面一键开启单控双机体；解锁隐藏关卡 BOSS 后可在难度设置中跳过解谜直接进入隐藏关卡；新增 20 间肺部关卡房间，优化多器官场景视觉表现，新增镜头缩放滑块；同时修复启动崩溃、手柄失灵、蓝牙静音、存档异常等大量稳定性问题，优化联机交互、键鼠 / 手柄切换逻辑与本地化文本，官方也持续收集社区反馈持续打磨游戏。",
+  "vf": "致病本源 下载 | v1.3.10 Pathogenic | 2.8GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/3808690/_/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10 64-bit",
+    "处理器": "Intel Core i5-6500 / AMD Ryzen 3 1200 or equivalent",
+    "内存": "8 GB RAM",
+    "显卡": "GeForce GTX 1050 / Radeon RX 560",
+    "DirectX 版本": "12",
+    "存储空间": "需要 2 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/eb7dd0466ace51651a1109b0dbc732ba89605dbd/ss_eb7dd0466ace51651a1109b0dbc732ba89605dbd.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/1d223970bc11e89ca996145bfc7bf7e13ad13979/ss_1d223970bc11e89ca996145bfc7bf7e13ad13979.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/f45497dfbff9f2ffa95e8f1981a3e3a33dc160ef/ss_f45497dfbff9f2ffa95e8f1981a3e3a33dc160ef.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/f9d4901697cf9a7398f11e2965c8eb48c88629ed/ss_f9d4901697cf9a7398f11e2965c8eb48c88629ed.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/acaa6fc3b9b2fff3ca5c12e20a5484ff8ad45e29/ss_acaa6fc3b9b2fff3ca5c12e20a5484ff8ad45e29.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/d987881fb00dd84e03bac858a779c1dfaa71f64b/ss_d987881fb00dd84e03bac858a779c1dfaa71f64b.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/77006bb90bdf63764551a5923a6ddd28d7ce53b0/ss_77006bb90bdf63764551a5923a6ddd28d7ce53b0.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/11820e53875ebec2899483993a94b85a0cfe905e/ss_11820e53875ebec2899483993a94b85a0cfe905e.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/87bf2a0ef0178e36221030b4380b98336c295023/ss_87bf2a0ef0178e36221030b4380b98336c295023.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/00330d9934e4414d8669a56cde39f8a0a022826a/ss_00330d9934e4414d8669a56cde39f8a0a022826a.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/30d96abfe7e6cbc32d81cbbd35d9fa11f4649910/ss_30d96abfe7e6cbc32d81cbbd35d9fa11f4649910.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/ac0e646b74f49508bb8388784e38b06daf1bfa12/ss_ac0e646b74f49508bb8388784e38b06daf1bfa12.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/52c9c9919c26451bd56ea4341552bcc881067e6d/ss_52c9c9919c26451bd56ea4341552bcc881067e6d.1920x1080.jpg?t=1784222200",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/5aba434c2eced02693bb90093a5d7ed727ae1156/ss_5aba434c2eced02693bb90093a5d7ed727ae1156.1920x1080.jpg?t=1784222200"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3808690/62ca85f2bf192b2d9f3a3e0905240fe50bc975dd/header_alt_assets_1_schinese.jpg?t=1792503612",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/b8c651bce6e1",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fb8c651bce6e1",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOxnv1Ip-G_YX6gJ3XgL8v70A1?pwd=8862",
+      "pwd": "8862",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1Quq0pMg0menWYgx3BL96sQ?pwd=xk8e",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1Quq0pMg0menWYgx3BL96sQ%3Fpwd%3Dxk8e",
+      "pwd": "xk8e",
+      "gi": 2
+    }
+  ]
+}

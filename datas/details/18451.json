@@ -1,0 +1,88 @@
+{
+  "u": "https://www.steambk.com/18451.html",
+  "t": "夜不能魅（Midnight Special）v1.0 免安装中文版下载",
+  "id": 18451,
+  "sg": "新游",
+  "tm": "2026-05-25",
+  "ct": "PC游戏",
+  "sub": "复古经典",
+  "tags": [
+    "像素",
+    "剧情",
+    "黑暗"
+  ],
+  "sz": "902MB",
+  "rt": "多半好评",
+  "ver": "v1.0",
+  "rdate": "2026 年 5 月 21 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2560100/802982/c9c52b4d90f4bdc4b5b39284ee4e09c58b731202/1750931438/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "欢迎来到《夜不能魅》。这是一款指向点击式生存恐怖游戏，透过16位元像素画面与80年代复古恐怖氛围的迷雾，玩家将回到1987年缅因州那个雷电交加的夏夜，迷失在一座幽深的庄园古宅中，点击、探索、解开谜题。要进入这个温柔的良夜吗？",
+  "pt": "",
+  "un": "",
+  "vf": "夜不能魅 下载 | v1.0 Midnight Special | 902MB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/2560100/_/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统 *": "Windows 7 64-bit",
+    "处理器": "Intel Pentium N3700 @ 1.60GHz",
+    "内存": "2 GB RAM",
+    "显卡": "DX 11 based graphics card",
+    "DirectX 版本": "11",
+    "存储空间": "需要 500 MB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2560100/0a9cb8b86e5e8422566a9d3c2acf124c58410c4d/ss_0a9cb8b86e5e8422566a9d3c2acf124c58410c4d.1920x1080.jpg?t=1779354852",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2560100/cffbdfcada2cf5f03d03fcc327187f973afce197/ss_cffbdfcada2cf5f03d03fcc327187f973afce197.1920x1080.jpg?t=1779354852",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2560100/d23fe8b80445c529da8314538268dd350283e351/ss_d23fe8b80445c529da8314538268dd350283e351.1920x1080.jpg?t=1779354852",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2560100/5dfb33491c9dd788d3d506119b7f9bf4914d1e13/ss_5dfb33491c9dd788d3d506119b7f9bf4914d1e13.1920x1080.jpg?t=1779354852",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2560100/0ab5be1b1e3feb12225eb96eef54f14ba791e246/ss_0ab5be1b1e3feb12225eb96eef54f14ba791e246.1920x1080.jpg?t=1779354852"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2560100/bbae3b4b7e8ebf251c1bdcd102ba8bc3cded0c53/header_schinese.jpg?t=1779354852",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/4df7c4a225ec",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F4df7c4a225ec",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOtSg2C-mNkvFmcNt095lJGmA1?pwd=rjjb",
+      "pwd": "rjjb",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1ijQwEDLAmiF5W62UOy2WRA?pwd=g3pm",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1ijQwEDLAmiF5W62UOy2WRA%3Fpwd%3Dg3pm",
+      "pwd": "g3pm",
+      "gi": 2
+    }
+  ]
+}

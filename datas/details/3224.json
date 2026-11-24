@@ -1,0 +1,109 @@
+{
+  "u": "https://www.steambk.com/3224.html",
+  "t": "工业巨头（Captain of Industry）v0.8.7d 免安装中文版下载",
+  "id": 3224,
+  "sg": "更新",
+  "tm": "2026-09-25",
+  "ct": "PC游戏",
+  "sub": "模拟经营",
+  "tags": [
+    "建造",
+    "拟真",
+    "生存",
+    "管理",
+    "经济",
+    "自动化"
+  ],
+  "sz": "4.84GB",
+  "rt": "特别好评",
+  "ver": "v0.8.7d",
+  "rdate": "2022 年 5 月 31 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/1594320/1565417567/e7bda6db5865670c55ea3642998244db2086bf12/1776462637/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "在偏远的孤岛上建立你的工业帝国。开采资源、利用挖掘机重塑地形、种植粮食、建造工厂、铺设铁轨，并与外界进行贸易。研发 100 项以上先进技术，实现从基础金属冶炼到核能开发与航天飞行的跨越。",
+  "pt": "",
+  "un": "2026年9月24日，本次v0.8.7d更新优化了暂停界面的游戏速度高亮与暂停按钮切换效果，磁盘空间不足导致存档失败时会显示剩余空间；重点修复多项会破坏模拟一致性的问题，解决存档加载后货运码头、造船厂、桥梁入口、林地生长顺序等状态异常，以及各类引发模拟结果不一致的小问题；同时修复大量 BUG，包含 T2 通用货车装货卡死、车辆动画 / 渲染异常、列车路径与制动相关故障、桥梁与轨道建造报错、采矿伐木、港口、仓储、燃料车、单位传送、框选、地图预览、存档覆盖、游戏启动、自定义地图、地形恢复、蓝图库、火箭倒计时、通知弹窗等各类程序错误，完善车辆无法回收入库时的兜底传送机制。\n2026年7月21日，7 月 21 日周二，游戏 4.2 版本正式上线，本次更新内容丰富，游戏内完整接入 COI 中心、新增模块化坡道、大量列车相关新功能，同时带来显著的性能优化；官方同步放出介绍核心内容的新预告片，本篇公告详细罗列了全部更新内容。提示玩家更新后若出现异常，可通过 Steam 验证游戏文件完整性，已有测试分支玩家反馈 Steam 更新部署异常，导致游戏状态出错。\n2026年4月19日，本次 v0.8.3a 版本更新优化了列车状态同步效果，大幅提升列车密集场景下的帧率，新增光标缩放相关选项与镜头运动阻尼调节滑块，同时修复了蓝图旋转错位、实体切换状态异常、轨道拖拽放置报错、特定存档加载故障以及输送设施部件消失等多项 BUG 与视觉问题。",
+  "vf": "工业巨头 下载 | v0.8.7d Captain of Industry | 4.84GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/1594320/_Captain_of_Industry/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10 or newer",
+    "处理器": "Quad-core CPU @4.0 GHz",
+    "内存": "8 GB RAM",
+    "显卡": "Dedicated graphics card, GTX 1660 6GB",
+    "存储空间": "需要 4 GB 可用空间",
+    "声卡": "DirectX compatible",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/593896e03ea936f4ee09bb915ba168821ab9abb0/ss_593896e03ea936f4ee09bb915ba168821ab9abb0.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/b5f5c1cc40fd7916b7368e50cd1dd95e3cc43937/ss_b5f5c1cc40fd7916b7368e50cd1dd95e3cc43937.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/31b64f12941be579b7552d6a0b2796d6b451c439/ss_31b64f12941be579b7552d6a0b2796d6b451c439.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/5468524958e320fe17617bb86a2f44bef35c7f03/ss_5468524958e320fe17617bb86a2f44bef35c7f03.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/1957683ce88e918040a60bccb75242a896989417/ss_1957683ce88e918040a60bccb75242a896989417.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/90fcdca8c2aa9523b677d78819dcd84c4b00fdbf/ss_90fcdca8c2aa9523b677d78819dcd84c4b00fdbf.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/30d59e4edaa641f003c8eab15a8c4a96b28affe6/ss_30d59e4edaa641f003c8eab15a8c4a96b28affe6.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/f655dbfb235784c6994768f2a6d5e201a0eea3f8/ss_f655dbfb235784c6994768f2a6d5e201a0eea3f8.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/0233a414e540a98500780850f2a95993852cb5fb/ss_0233a414e540a98500780850f2a95993852cb5fb.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/8bdb24a4636b4de19bddf7066a932a099b320882/ss_8bdb24a4636b4de19bddf7066a932a099b320882.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/3cfae9330e78a37d378dc8d5442318fc2f76aad7/ss_3cfae9330e78a37d378dc8d5442318fc2f76aad7.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/e55d48692bb55af8990f613497f8915dc792c07b/ss_e55d48692bb55af8990f613497f8915dc792c07b.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/7e5ec13d6325adb28e2dd38709f548d3b6f1cdcc/ss_7e5ec13d6325adb28e2dd38709f548d3b6f1cdcc.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/c39627deb5a6f987aa7921bbbbb5dcdc6ded1126/ss_c39627deb5a6f987aa7921bbbbb5dcdc6ded1126.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/ss_f80a8a33c2c2fc3b7b45e787affd9ab70b015362.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/54f25b3494b1081d2d1b595afcd9d0a007cab27c/ss_54f25b3494b1081d2d1b595afcd9d0a007cab27c.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/784fcc503b059d9d4f3326fb1c7021a0ced7fd27/ss_784fcc503b059d9d4f3326fb1c7021a0ced7fd27.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/45d533e3fd55550fe95655fc788dd7ed5306a86a/ss_45d533e3fd55550fe95655fc788dd7ed5306a86a.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/e33df4af6bf8431dc66ea885ff0d85768ed66056/ss_e33df4af6bf8431dc66ea885ff0d85768ed66056.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/ss_c930b54e658a360e2ac8e11a5a57221f2a0421b2.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/99db7f88dd198d05e084b100e17ddc19be296bc0/ss_99db7f88dd198d05e084b100e17ddc19be296bc0.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/bc08ece07d40622adcc9c4f6b5ef3cc51d556085/ss_bc08ece07d40622adcc9c4f6b5ef3cc51d556085.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/66bcc8b833862a5fd438a10285d8663c992b1582/ss_66bcc8b833862a5fd438a10285d8663c992b1582.1920x1080.jpg?t=1755288516",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/0e30b4becc64c8a35dcc53779337c27238b9c24b/ss_0e30b4becc64c8a35dcc53779337c27238b9c24b.1920x1080.jpg?t=1755288516"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1594320/9a604b771ff99f83f21020ac2c0a2a54a7d18627/header.jpg?t=1784572847",
+  "db": {
+    "ds": [
+      {
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/822ad208daf8",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F822ad208daf8",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VNxfqlexLUQAkrwW2BhSRaA5A1?pwd=kz9e",
+      "pwd": "kz9e",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1hmqY3OsFMol1OxHm9W27EQ?pwd=u2zz",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1hmqY3OsFMol1OxHm9W27EQ%3Fpwd%3Du2zz",
+      "pwd": "u2zz",
+      "gi": 2
+    }
+  ]
+}

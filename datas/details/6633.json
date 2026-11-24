@@ -1,0 +1,65 @@
+{
+  "u": "https://www.steambk.com/6633.html",
+  "t": "鳄鱼侦探布罗格（BROK the InvestiGator）免安装中文版下载",
+  "id": 6633,
+  "sg": "更新",
+  "tm": "2025-12-22",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "剧情",
+    "卡通",
+    "悬疑",
+    "选择取向"
+  ],
+  "sz": "3.04GB",
+  "rt": "好评如潮",
+  "ver": "v1.5.4.2",
+  "rdate": "2022 年 8 月 27 日",
+  "vd": [
+    {
+      "u": "https://video.fastly.steamstatic.com/store_trailers/949480/489983/fba28cf2bc9a2ba056d47d49dab3e49c973eaec4/1750599900/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "",
+  "pt": "",
+  "un": "游戏更新日志：1.5.4.2 版本（10 月 11 日 周六）\n一、问题修复\n已修复：奥特（Ott）角色头部重复显示的漏洞（此前该漏洞曾被修复，本次为二次复现后的再次修复）。\n二、“格斗酒吧”（BRAWL BAR）模块优化：角色模组新增能力\n支持关闭自动视觉效果\n支持调整图像尺寸（需搭配设置不同的偏移量方可生效）\n支持调整碰撞判定（包括受击框与攻击框）\n支持调整 “手持物品” 的位置\n新增碰撞判定可视化调试功能（按 F8 键即可开启，便于开发者查看碰撞框范围）\n三、配套更新\n已更新相关官方文档（同步覆盖本次新增的角色模组功能及调试操作说明）",
+  "vf": "",
+  "dl": [],
+  "bl": "",
+  "sr": {},
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_989b47ef23f1c3a30d36ac4bec794be1b15f1ccc.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_fc4da951fac595267b8d88ad8bfee88f55f0725b.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_b10db565d9b03c6d1767704a8747c560f3cf22de.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_377cf8ee7970d41184fbf4840e270ddc7e307237.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_4ba6009c570a4cc5fb62af340b9bf71a2e287d2a.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_5e91ca1505aeb911837970950e0ab005d084feff.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_2864ef6577883deca855401b0419b691cc5bb9d5.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_856001674c2b9174e4a8260bb25430016557ea8a.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_d1fb400503a517e1c7631b1bea2a076971928a3f.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_003f6f873a8cbd41c74fa2abdc1b482e7638f049.600x338.jpg?t=1755108808",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/ss_5045f29dfb8ca3769692703edabb7cb7c64702c2.600x338.jpg?t=1755108808"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/949480/1e8130645a4fb146062bd6839decaec0e6ab4e95/header_schinese.jpg?t=1755108808",
+  "db": {
+    "ds": [],
+    "note": "快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/cb24cc72119b",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Fcb24cc72119b",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VObVhACatxtp_Z8Is-B6Jy6nA1?pwd=f6i7",
+      "pwd": "f6i7",
+      "gi": 2
+    }
+  ]
+}

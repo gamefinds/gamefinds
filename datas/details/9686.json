@@ -1,0 +1,79 @@
+{
+  "u": "https://www.steambk.com/9686.html",
+  "t": "诺森德塔防：矿脉防线（Deepstone Rift）免安装中文版下载",
+  "id": 9686,
+  "sg": "更新",
+  "tm": "2026-01-02",
+  "ct": "PC游戏",
+  "sub": "策略战略",
+  "tags": [
+    "塔防",
+    "独立",
+    "管理",
+    "资源"
+  ],
+  "sz": "2.16GB",
+  "rt": "多半好评",
+  "ver": "v0.04",
+  "rdate": "2025 年 12 月 10 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/3552840/1889159902/319c16e930ea63106f490b64f0cc84b9a421372c/1766039787/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "《诺森德塔防：矿脉防线（Deepstone Rift）》是一款以地下矿脉为舞台的策略塔防游戏。你将扮演矮人矿工首领，亲自下矿挖掘资源，雇佣工人，建设防御工事，对抗一波又一波来袭的哥布林大军。\n游戏核心玩法非常清晰：\n一边 挖矿收集金石、零件和宝箱，一边 构建属于自己的防线体系。炮塔、机枪、电锯飞镖等多种塔防自由搭配，防线怎么铺，全看你的策略思路 💣。\n矿脉中隐藏的宝箱还能为角色提供属性强化，让你逐渐成长为“移动的资源制造机 + 移动炮塔”，爽点拉满。整体来说，这是一款 策略深度和操作爽感并存的塔防游戏下载佳作，免安装版体验也非常友好。",
+  "pt": "",
+  "un": "本次更新基于玩家反馈修复了多项游戏问题，核心内容包括：解决存档每次关闭再开启后重置的问题；修复文本在所有结束界面持续显示、陷阱箭矢遮挡结束界面的视觉异常；修正部分 UI 元素阻碍塔楼选择、数字 1-10 塔楼快捷键失效、暂停后游戏画面仍保持昏暗的操作相关问题；优化单位表现，解决工人在基地外随机位置生成且无生成动画与粒子效果、教程及挖掘单位因寻路问题卡住、主角卡住或摧毁方块后无法移动、垃圾塔楼持续瞄准已死亡敌人、堆叠哥布林单位异常、厨师哥布林卡住、工人可穿透方块等问题；修复主菜单播放异常音效、方块选择着色器出现大型白色光晕（提供潜在修复方案，需玩家反馈）的问题；同时新增并优化塔楼悬浮提示系统，为特定波次添加防卡死安全检测（需玩家反馈异常），重做守卫单位，改进挖掘单位代码，进一步增强波次结束稳定性，并补充角色新设置以解决卡住问题。",
+  "vf": "",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/3552840/_/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统 *": "64-bit Windows 7, 64-bit Windows 8 (8.1) or 64-bit Windows 10",
+    "处理器": "Intel® Core™ i5-12600K @ 3.7GHz / AMD Ryzen 5 5600X 3.7GHz",
+    "内存": "6 GB RAM",
+    "显卡": "NVIDIA GeForce GTX 960 VRAM (4GB) or AMD Radeon RX 470",
+    "DirectX 版本": "11",
+    "存储空间": "需要 6 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3552840/be1305c0a533c31e1b0f9ae99781b2d46b2073e7/ss_be1305c0a533c31e1b0f9ae99781b2d46b2073e7.1920x1080.jpg?t=1766688985",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3552840/7b65bf45cf29b095a80b33d2e9566f37616d3054/ss_7b65bf45cf29b095a80b33d2e9566f37616d3054.1920x1080.jpg?t=1766688985",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3552840/36846de4485bf66fb672c5fca6816bf074163164/ss_36846de4485bf66fb672c5fca6816bf074163164.1920x1080.jpg?t=1766688985",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3552840/1f0668c10d8e489526066c852e3c1d1b8084d005/ss_1f0668c10d8e489526066c852e3c1d1b8084d005.1920x1080.jpg?t=1766688985",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3552840/32d08bc6093da09227286097735e43025f7f4776/ss_32d08bc6093da09227286097735e43025f7f4776.1920x1080.jpg?t=1766688985",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3552840/70324f73c8ea931430918961b22b6523739de28e/ss_70324f73c8ea931430918961b22b6523739de28e.1920x1080.jpg?t=1766688985",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3552840/aa6220f57629a38892b0b4c03d301c5eda54bfa9/ss_aa6220f57629a38892b0b4c03d301c5eda54bfa9.1920x1080.jpg?t=1766688985"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3552840/a753c9b9c1bbbc86eca6a65acd9e97232143250a/header_schinese.jpg?t=1766688985",
+  "db": {
+    "ds": [],
+    "note": "快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/282685b9eec6",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F282685b9eec6",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOhxyYLXxV3u1nEYNxDN-FtFA1?pwd=qpnp",
+      "pwd": "qpnp",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1TBZzsSfm4K2aTZi5CK-E1A?pwd=hdkd",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1TBZzsSfm4K2aTZi5CK-E1A%3Fpwd%3Dhdkd",
+      "pwd": "hdkd",
+      "gi": 2
+    }
+  ]
+}

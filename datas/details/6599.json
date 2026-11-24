@@ -1,0 +1,106 @@
+{
+  "u": "https://www.steambk.com/6599.html",
+  "t": "宝可梦传说 Z-A（Pokémon Legends: Z-A）v0.1.23 免安装PC移植版下载",
+  "id": 6599,
+  "sg": "更新",
+  "tm": "5天前",
+  "ct": "PC游戏",
+  "sub": "动作冒险",
+  "tags": [
+    "剧情",
+    "探索",
+    "生物收集",
+    "管理"
+  ],
+  "sz": "6.35GB",
+  "rt": "暂无",
+  "ver": "v0.1.23",
+  "rdate": "2025 年 10 月 16 日",
+  "vd": [],
+  "in": "《宝可梦传说 Z-A》是由 GAME FREAK 开发的宝可梦系列动作角色扮演游戏，故事舞台设定在卡洛斯地区的密阿雷市。随着城市再开发计划的推进，人类与宝可梦共同生活的都市正迎来全新的变化，一场充满未知与挑战的冒险也由此展开。\n本作采用全新的即时战斗系统，打破系列传统的回合制对战模式。玩家可以与宝可梦一起自由移动，在战斗中实时选择招式、调整站位，并根据攻击范围、出招时机及技能冷却时间制定战术，让每一场对战都更加紧张刺激。\n游戏还迎来了经典的「超级进化」系统，玩家能够借助超级进化的力量强化宝可梦，体验更具魄力的战斗。随着冒险深入，玩家将在密阿雷市探索不同区域、捕捉和培养宝可梦、参与夜间的 Z-A 登峰战，并逐步揭开城市背后隐藏的秘密。\n凭借独特的都市探索玩法、革新性的即时战斗机制以及丰富的宝可梦收集培养内容，本作为经典宝可梦系列带来了全新的冒险体验。",
+  "pt": "本移植版基于开源项目 ZA Recomp 开发，采用静态重编译技术，将 Nintendo Switch 版游戏代码转换为可在 Windows PC 上原生运行的程序，无需传统 Switch 模拟器即可体验游戏。移植版针对电脑平台进行了画面、性能、操作及兼容性优化，并加入多种图形增强功能。\n原生PC运行： 采用静态重编译技术，将原版 ARM64 游戏代码转换为适用于 x86-64 电脑的原生程序，无需运行传统模拟器。\n60帧流畅体验： 支持30FPS与60FPS运行模式，并提供帧率节奏调整、动态分辨率及性能优化选项，改善游戏流畅度。\n高清分辨率增强： 支持最高4倍内部渲染分辨率，并提供动态分辨率和显示器分辨率匹配功能，让画面更加清晰细腻。\n先进图形增强： 支持 AMD FSR 超分辨率、SMAA抗锯齿、FSR 2时域抗锯齿、HDR高动态范围显示以及画面锐化等可选功能。\n光影效果升级： 提供 GTAO环境光遮蔽、屏幕空间全局光照、水面反射、高清阴影及高质量纹理过滤，进一步提升游戏画面表现。\n超宽屏支持： 支持21:9及更宽比例的显示器，扩展游戏场景视野，同时保持界面布局，带来更加宽广的都市探索体验。\n视距与模型增强： 支持1.5倍、2倍和3倍视距调整，并提供完整细节模型选项，减少远处人物、宝可梦及建筑的细节切换现象。\n键盘鼠标操作： 提供完整键鼠控制方案，支持鼠标自由调整镜头、自定义按键映射，并针对电脑操作方式进行适配。\n多种手柄兼容： 支持 Xbox、PlayStation、Switch Pro及Steam Deck等多种控制器，提供自适应按键图标、震动反馈与操作布局调整。\n模组扩展支持： 内置模组管理功能，支持游戏文件替换类MOD、高清材质包、汉化模组，以及部分游戏代码补丁，方便玩家自由扩展游戏内容。\n存档互通功能： 支持导入和导出Nintendo Switch原版存档，并提供存档备份与恢复功能，方便玩家继续原有游戏进度。\n好友联机测试： 提供实验性本地网络及互联网好友联机功能，可进行宝可梦交换和私人对战，无需连接任天堂官方服务器。\n多版本游戏兼容： 支持原版游戏1.0.0、2.0.0及2.0.2版本，并提供「超次元爆涌」DLC内容支持。\n图形接口切换： Windows版支持Vulkan图形接口，同时提供实验性DirectX 12兼容模式，可根据不同显卡和驱动环境进行调整。\n着色器优化： 支持提前准备游戏着色器，减少探索新区域和触发特殊效果时的即时编译卡顿，改善整体运行稳定性。",
+  "un": "",
+  "vf": "宝可梦传说 Z-A 下载 | v0.1.23 Pokémon Legends: Z-A | Switch移植版下载 | 6.35GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://www.pokemon.co.jp/ex/legends_z-a/tc/",
+  "sr": {
+    "其他": [
+      "需要 64 位处理器和操作系统"
+    ],
+    "操作系统": "Windows 10",
+    "处理器": "Intel Core i5-6400 (2.7 GHz 4 Core)",
+    "内存": "16 GB RAM",
+    "显卡": "NVIDIA GeForce GTX 1060 (req. 6GB VRAM)",
+    "网络": "宽带互联网连接",
+    "存储空间": "需要 20 GB 可用空间",
+    "note": "需要 64 位处理器和操作系统"
+  },
+  "sc": [
+    "https://www.steambk.com/wp-content/uploads/2025/10/13124419334.webp",
+    "https://www.steambk.com/wp-content/uploads/2025/10/13124631696.webp",
+    "https://www.steambk.com/wp-content/uploads/2025/10/13124721883.webp",
+    "https://www.steambk.com/wp-content/uploads/2025/10/13124934297.webp",
+    "https://www.steambk.com/wp-content/uploads/2025/10/13124959717.webp",
+    "https://www.steambk.com/wp-content/uploads/2025/10/13124942804.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_01/map.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_01/kv.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_02/kv.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_02/img_01.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_02/img_02.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_02/sc/img_03.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_02/sc/img_04.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_02/img_05.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_02/img_06.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250227_02/sc/img_07.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/kv.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/sc/img_01.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/img_02.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/sc/img_03.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/img_04.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/img_05.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/sc/img_06.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/img_07.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/sc/img_08.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/sc/img_09.webp",
+    "https://www.pokemon.co.jp/ex/legends_z-a/assets/img/story/250327_01/sc/img_10.webp"
+  ],
+  "cv": "https://www.steambk.com/wp-content/uploads/2025/10/13123631943.webp",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/6a837e136833",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F6a837e136833",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VObScuCcFAtMnIYBxOdlTefAA1?pwd=2yga",
+      "pwd": "2yga",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1A0C9R-SkXo5Vqyk8x9ULBw?pwd=nesq",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1A0C9R-SkXo5Vqyk8x9ULBw%3Fpwd%3Dnesq",
+      "pwd": "nesq",
+      "gi": 2
+    }
+  ]
+}

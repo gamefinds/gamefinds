@@ -1,0 +1,80 @@
+{
+  "u": "https://www.steambk.com/13619.html",
+  "t": "骰子地牢（Dobbel Dungeon）免安装中文版下载",
+  "id": 13619,
+  "sg": "更新",
+  "tm": "2026-03-03",
+  "ct": "PC游戏",
+  "sub": "回合战棋",
+  "tags": [
+    "可爱",
+    "战术",
+    "骰子"
+  ],
+  "sz": "1.97GB",
+  "rt": "特别好评",
+  "ver": "v1.0.11",
+  "rdate": "2026 年 2 月 17 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/2622820/1393078087/844075274afa81cacb8eba92d3e4f4ad78fb8862/1771246251/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "集结队伍，掷出骰子，踏上穿越诸岛的激战之旅，将强大的诅咒彻底终结！尽在这款类 Rogue 回合制战棋 RPG！",
+  "pt": "",
+  "un": "2026年3月2日，《Dobbel Dungeon》1.0.11 版本补丁已于 3 月 2 日上线，本次更新新增 DirectX 12 和 Vulkan 图形 API 支持，游戏默认运行于 DirectX 11，玩家可通过在 Steam 启动项分别添加 - force-d3d12、-force-vulkan 切换至对应 API，以解决部分图形异常或崩溃问题，开发团队也欢迎玩家反馈切换后的问题；同时补丁修复了低血量怪物无金币掉落、亡灵中毒伤害转化治疗异常、治疗和护盾类饰品失效、英雄鬼魂教程未屏蔽输入导致的游戏冻结、成就从本地存档同步至云存档后无法完成等多项问题。\n补丁 1.0.8（2 月 21 日 周六）\n本次更新主要进行一项内容调整与多项问题修复：将锐锋剑品质调整为稀有（原定设定）；修复敌人在回合正式结束前掷骰子时死亡可能触发的严重错误，修复通过拖拽装备后物品提示信息未正常刷新的问题，修复角色战败音效管理相关的内部小错误，修复浸毒效果对远程攻击不触发持续伤害、释放增益效果时仍会施加中毒状态的问题，修复狩猎盛宴效果在回合结束后未正确从受影响单位上移除的问题，修复鼓舞打击错误响应所有角色造成伤害而非仅指定单位的问题，同时修复玩家结束回合后仍在滚动的普通骰子会进入下一个单位骰槽的异常问题。",
+  "vf": "骰子地牢 下载 | v1.0.11 Dobbel Dungeon | 1.97GB 官中解压即玩",
+  "dl": [],
+  "bl": "https://store.steampowered.com/app/2622820/Dobbel_Dungeon/",
+  "sr": {
+    "操作系统": "Windows 10",
+    "处理器": "Dual Core 2.4 GHz",
+    "内存": "6 GB RAM",
+    "显卡": "2GB VRAM",
+    "DirectX 版本": "10",
+    "存储空间": "需要 1 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/cbebc53ec99ba7ceff6f54e402e531b051b98b93/ss_cbebc53ec99ba7ceff6f54e402e531b051b98b93.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/539b1af5d30c9a304c21a65336b47cd9ae4c1763/ss_539b1af5d30c9a304c21a65336b47cd9ae4c1763.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/4b3d807d7555246b6a48c6fe84f2087b9cc61b61/ss_4b3d807d7555246b6a48c6fe84f2087b9cc61b61.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/f41e40d207aca8b77cd8f31c648d4b659461a4d0/ss_f41e40d207aca8b77cd8f31c648d4b659461a4d0.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/b0c95c9b2914b42fc18f8388cb388193b211369d/ss_b0c95c9b2914b42fc18f8388cb388193b211369d.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/0ede2b05607d430185b81a911f28c7f3da4cba1b/ss_0ede2b05607d430185b81a911f28c7f3da4cba1b.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/84b613d04406176a30b0202ebb249f829a7c23a7/ss_84b613d04406176a30b0202ebb249f829a7c23a7.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/89efd01066462ff1d4e2c8721c81ad976fb8cb33/ss_89efd01066462ff1d4e2c8721c81ad976fb8cb33.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/f1c886b12fb0ad75f9ce88cd97af8696422498f5/ss_f1c886b12fb0ad75f9ce88cd97af8696422498f5.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/65a6f43870ae7a7e07a31aa644b6aa66760e8769/ss_65a6f43870ae7a7e07a31aa644b6aa66760e8769.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/897a5c79651b1a43fb44064c177ca94973332301/ss_897a5c79651b1a43fb44064c177ca94973332301.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/8318ab75a828a22a2aba4560a151403d5797f45a/ss_8318ab75a828a22a2aba4560a151403d5797f45a.1920x1080.jpg?t=1771328728",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/6d5924ba1803eba4800c7c153dc79009e7b17bb8/ss_6d5924ba1803eba4800c7c153dc79009e7b17bb8.1920x1080.jpg?t=1771328728"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2622820/398ae9557bb86cfcea10a36fe14b2f9f7ba9e882/header.jpg?t=1771328728",
+  "db": {
+    "ds": [],
+    "note": "快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/f7e0b16f9f7a",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2Ff7e0b16f9f7a",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOly6KeaXLQUL7K19RV-y5cxA1?pwd=hzti",
+      "pwd": "hzti",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1iPg4Xufq5DEK1pkxTr28ag?pwd=hus2",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1iPg4Xufq5DEK1pkxTr28ag%3Fpwd%3Dhus2",
+      "pwd": "hus2",
+      "gi": 2
+    }
+  ]
+}

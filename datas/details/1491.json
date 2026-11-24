@@ -1,0 +1,120 @@
+{
+  "u": "https://www.steambk.com/1491.html",
+  "t": "异星工厂（Factorio）v2.1.24 免安装中文版下载",
+  "id": 1491,
+  "sg": "更新",
+  "tm": "2周前",
+  "ct": "PC游戏",
+  "sub": "策略战略",
+  "tags": [
+    "建造",
+    "沙盒",
+    "管理",
+    "自动化"
+  ],
+  "sz": "5.05GB",
+  "rt": "好评如潮",
+  "ver": "v2.1.24",
+  "rdate": "2020 年 8 月 14 日",
+  "vd": [
+    {
+      "u": "https://video.cdn.queniuqe.com/store_trailers/427520/304275/352d361477488a88ba2274620093d8a4c67ec908/1750529745/hls_264_master.m3u8",
+      "type": "hls"
+    }
+  ],
+  "in": "「异星工厂」Factorio 是一款2D生产建设模拟游戏，在这里你需要设计并建设出不同的自动生产流水线，不断生产出愈加复杂的工业品。尽情开动你的想象力，将传送带、机械臂、组装机等简单的设备精密结合，创造出属于你自己的自动化流水生产建筑群。同时别忘了在异星虫子的威胁下保护好你的工业帝国。\n「异星工厂」Factorio 是一款建造工业生产流水线并保持其高效运转的游戏。\n在游戏中，你可以抠矿、搞科研、盖工厂、建设自动生产流水线，同时还要与异星虫子们互相伤害。\n你将从一无所有艰辛起步。挥斧砍树，抡镐抠矿，手搓机械臂和传送带，然而像这样一直搞下去并没有什么卵用。因此，你需要高效的大规模发电厂，庞大的石油化工体系，壮观的全自动化产业链，以及替你东奔西走的机器人大队，让你成为物资储备丰盈工业帝国的真正操控者！\n然而，总有一群刁民想害你。这个星球上的土著虫群对你在自家后院里瞎折腾的行为很不爽，总有一天这群刁民会联合起来找你麻烦。因此，你要制造武器、建立防御、准备镇压，让它们知道谁才是真正的主宰者。\n你可以在多人游戏中加入不同的阵营，在大触们的带领下与朋友们分工协作， 一起建设恢弘无比的工业园区。\nFactorio的模组支持吸引了全世界的设计师参与到对游戏的完善和革新中来，从优化调整到游戏辅助，甚至对游戏的彻底翻新，日新月异的模组将为你不断提供新的乐趣。\n除了游戏核心的自由模式和沙盒模式之外，任务包还提供了更多不同形式的游戏挑战，这已经作为一个免费的DLC提供给玩家了。\n对随机生成的地图不满意？不满足于原生游戏任务？这都不是事儿。通过内置的地图编辑器，你可以任意修改地图，配置地形、建筑、敌人等各种元素。如果你是大触，还可以添加自定义脚本，让你的游戏更具独创性、更加阴吹思婷！\n不打折声明：我们没有任何打折或降价的计划。\n看看高玩们都对Factorio说了些什么\n从未有过任何一款游戏在物流管理的模拟方面做得如此出色。 - Reddit\n当我闭上眼睛满脑子都是传送带，\n我可能沉浸在Factorio中无法自拔了。 - Notch, Mojang\n在我使用传送带来欺负虫子的时候我感觉Factorio棒极了！ - Zisteau, Youtube",
+  "pt": "",
+  "un": "10月23日周五更新（点击查看详细内容）\n你好，\n欢迎来到另一个星期五。\n本周正好是《太空时代》发布两周年纪念日。\n2.1 稳定\n经过漫长的实验夏季，2.1现在被标记为稳定。感谢所有玩过实验版、报告bug并给我们反馈的人。自2.1版本以来，很多改动和调整都是直接来自你们的报告。\n我们借此机会最后一次更新了经典的《异星工厂》预告片。\n正如我们在FFF-440中所说，2.1版本不是关于新星球、敌人或研究树。相反，它是一个包含生活质量、小功能、打磨以及我们想为2.0做但没时间做的事情的大集合。对于那些坚持使用2.0稳定版的玩家，这里有一个简要的介绍，看看等待你的内容。\n太空后勤 - FFF-441\n太空平台是《太空时代》的支柱，而在2.1版本中它们的能力要强大得多。\n混合火箭：火箭现在可以在一次发射中携带多种不同物品，不再需要为了搭建一个小平台而发射整整堆物品。\n从任意导入：将“从任何地点导入”槽留空，以便从所有地点导入物品，非常适合用于燃料、弹药和维修包。\n平台间转移：平台可以向轨道上的其他平台请求物品，也可以向他们提供物品。\n枢纽集请求：通过电路网络控制空间平台枢纽请求。\n雷达宇宙模式：在共享频道上，在行星和平台之间发送和接收电路信号。\n空间平台平衡 - FFF-448\n平台飞行和受伤方式做了几项改动。\n小行星的损伤现在取决于小行星剩余的生命值，而不是速度，因此更加可预测。\n太空平台枢纽的生命值和抗性更高，所以能承受更多攻击。\n平台阻力现在基于质量而非宽度，所以“铅笔船”不再是唯一快速的选择。\n着陆台卸载区 - FFF-443\n一个特殊的货舱，插入器可以从中取出物品，这样你可以直接把着陆垫卸到火车、宝箱、传送带或其他插入器能互动的物品上。\n可以放置在着陆台周围的有限区域内。\n现在可以建造高架轨道，覆盖货舱。\n电路网络 - FFF-443\n更多东西需要接线，而且接线方式也更清晰。\n输入/输出分配：电路读写可以被引导到不同颜色的线路，取代了旧有的“神奇”自减法。\n实验室可以根据电路条件来确定当前的研究方向。\n锅炉和热交换器可以连接到电路网络，便于备份电源的设置。\n地雷可以用作绊线和敌人探测器。\n管道可以连接到电路网络，同时新增管道图形界面（FFF-442）。\n质量 - FFF-442\n给喜欢和讨厌《Quality》的粉丝和粉丝的一些改动。\n《太空时代》现在可以在没有质量的情况下游玩。回收器被拆分成独立模组，质量是一个默认启用的“推荐”依赖。\n优质机车和货车：更快的列车、更大的货运车厢和流体货车。\n“太空赌场”关闭：质量模块不再用于小行星再处理。\n翻转与流体 - FFF-442\n修复一些长期存在的烦恼。\n抽油机和燃烧式矿机现在可以翻转。\n落箭头显示机器在模糊情况下会掉落到传送带的哪个通道，翻转蓝图不会改变它们的行为。\n插入器总是会落到分配器的输入端。\n防止流体混合：不同液体的管道无法合并，反而会发出警告。\n流体流动随着高通量而适度扩展（说的是你们，传奇机器）。\n敌方扩展 - FFF-445\n对咬人者扩张过程的整体回顾。\n扩张群会随着进化而扩展，所以它们是有意义的挑战，而不是一堆小而烦人的巢穴。\n早期探索地图不再减少基地附近的扩展。\n咬人者选择更自然的地点建造新基地。\n新图形 - FFF-441、FFF-442、FFF-443\n我们对游戏画面的最后一次大扫视。\n新的装配机、炼油厂、火箭井和热交换器。\n一个新的泵渲染系统，无论你的站点多么糟糕，都能连接到流体车。\n斜向火焰喷射炮塔。\n太空平台背景中可见的行星。",
+  "vf": "异星工厂 下载 | v2.1.24 Factorio | 集成太空时代 | 5.05GB 官中解压即玩",
+  "dl": [
+    "Factorio: Space Age"
+  ],
+  "bl": "https://store.steampowered.com/app/427520/Factorio/",
+  "sr": {
+    "操作系统": "Windows 11, 10",
+    "处理器": "Quad core 4Ghz+ from 2020 or newer",
+    "内存": "16 GB RAM",
+    "显卡": "DirectX 11 capable GPU with 4 GB VRAM - GeForce GTX 1050 Ti, Radeon RX 570, Intel Arc",
+    "DirectX 版本": "11",
+    "存储空间": "需要 10 GB 可用空间"
+  },
+  "sc": [
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_cb1cc8aead8b9766f7925080100a11b01cfe7462.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_faaa7e18f4969f893024385a8562093ad0f0f2dd.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_abb6bc0b0b4890443b7dc59f7116ff76b1d576e8.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_115c6d3a59bf11739035bf84d346d03ccca4586e.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_b2c176713d26bdcd2dc15e3baac6547ebf47a964.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_96b10585b8957b0d951f28f7f13ab76d0e929b97.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_1ef145c27b6233b0fdce26df02456486974f536e.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_7ceb8ddc66ddabbd3fdab6470ea2896abac2eb4a.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_1fe195c30bf0146a04f82818d373bf48cedc4a01.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_72d81d4fb2066df97a632c3c22d358e1c5c56bf2.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_2055a2f75239c9935dd2e126bdc8d257a11980f0.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_6b17be1ec4fa50721a6688ded0329ee84006faa9.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_1a0beac4fe0897a6c6125e4d254f1472001d09a3.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_01fc7bc3f9a2024a15be6165ab4de1081cff57ce.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/645390/ss_bb8da87209d6797dc51c06f504e7b2836c705cd0.1920x1080.jpg?t=1729525903",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_36e4d8e5540805f5ed492d24d784ed9ba661752b.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_171f398a8e347fad650a9c1b6c3b77c612781510.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_0bf814493f247b6baa093511b46c352cf9e98435.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_2533e54b0bd90a29adbedb60108ed277536ad445.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_192864c00fc38b5ef97b97ca7fa655a9aed7c0da.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_e301bde0fc0e996ba93e92639cd49dd90ae47b36.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_57665be6cc629906ae7004799e90699c69c07c97.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_9dba6c91d45eededca01f9f61bf1435be2dfbf0d.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_124dc8dc3fd282f6feb2d9ee20aebd2d73188e02.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_2c4dcb9195a91014ce1189707af3127c4db9b2b0.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_5903f8ff243e9a89b4f1e15e6e7982159578f8ec.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_0e6d3c0d1af06fcde28ef1f1703e142f416ace44.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_aee9573a97f97fbb7daac6c76709c62228ec5e00.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_b3cbbdb8e10d2f172297c4cc792d908fdb68529e.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_caac427e023e8682cc4bf1aba233538cf267e6fa.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_0714db2482893b77d8622604eaf9d3788734c7a6.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_3f93f2655cbc3db0da1b3e888aa68a8a9f5f6a47.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_0a6e8dbaa59e8fa5327d4fd2c8bb2a6909dc864c.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_46b600e169426189343f525860cb705fecbbc3db.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_707a4120fed96e579f56d350ae076c20e205ae8f.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_88545f5f01c635ea0001f3849f064f058dbdf81d.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_0a6343acf3b3a3d2b1d23e3bc4a21cb890ec14b8.1920x1080.jpg?t=1763986204",
+    "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ss_b9a77ea7a73d9acf22d6e86215d7376cdcd0eb9c.1920x1080.jpg?t=1763986204"
+  ],
+  "cv": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1792752343",
+  "db": {
+    "ds": [
+      {
+        "pan": "移动云盘",
+        "pr": "5",
+        "pr_u": "推广币"
+      },
+      {
+        "pan": "其它网盘",
+        "pr": "免费",
+        "pr_u": "",
+        "idx": 2
+      }
+    ],
+    "note": "此资源购买后3天内可下载。快捷键CTRL+D收藏官网，防止迷路！飞星铁粉请添加QQ群👉\r\n 点击加群\r\n小站永久免费更新，所有资源是站长花费大量时间亲自测试、压缩、上传，非盗链，我们的生存，仰仗您的宣传。您的每一次随手分享，都是我们活下去的希望。\r\n 求游戏专区\r\n APP下载\r\n 扫码下载 APP\r\n 免费获取推广币\r\n 侵权投诉"
+  },
+  "mydowns": [],
+  "dn": [
+    {
+      "pan": "夸克",
+      "share_url": "https://pan.quark.cn/s/230ac8d1b784",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.quark.cn%2Fs%2F230ac8d1b784",
+      "gi": 2
+    },
+    {
+      "pan": "迅雷",
+      "share_url": "https://pan.xunlei.com/s/VOL9A_KueEGeYna59NZOBcaaA1?pwd=ms75",
+      "pwd": "ms75",
+      "gi": 2
+    },
+    {
+      "pan": "百度",
+      "share_url": "https://pan.baidu.com/s/1wvBxSV5FSVMo8p5PtHklfA?pwd=qfai",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fpan.baidu.com%2Fs%2F1wvBxSV5FSVMo8p5PtHklfA%3Fpwd%3Dqfai",
+      "pwd": "qfai",
+      "gi": 2
+    }
+  ]
+}
